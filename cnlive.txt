@@ -271,7 +271,7 @@ TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 三立新闻SET,http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 三立新闻,vjms://58.215.133.185:8500:3502/live/cid=352
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-中天新闻(HD),http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天新闻(HD1),http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天亚洲,http://341697390.r.fdccdn.net/live/tw_zhongtian_yz.m3u8
 东森新闻(HD),http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 台-TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
