@@ -649,6 +649,12 @@ vjms://23.237.33.155:8500:3502/live/cid=428
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|国外新闻|",CNN菲律宾
 rtmp://54.251.134.121/live/15273.sdp
+#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",CBS新闻
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",天空新闻1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",天空新闻2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|国外新闻|",RTHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|国外新闻|",RTHK31
@@ -937,6 +943,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://341697390.r.fdccdn.net/live/tw_mtv_hd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|测试频道|",MTV Live台湾
 http://341697390.r.fdccdn.net/live/tw_mtv_yinyue.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|测试频道|",ID时尚高清
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|测试频道|",凤凰卫视中文台
 http://192.154.103.75:8080/ZZ_fenghuangzhongwen/ZZ_fenghuangzhongwen.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|测试频道|",凤凰卫视资讯台

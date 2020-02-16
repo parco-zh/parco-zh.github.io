@@ -327,6 +327,9 @@ CNN1,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
 CNN2,vjms://23.237.33.155:8500:3502/live/cid=428
 CNN3 Phillippines,http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 CNN菲律宾,rtmp://54.251.134.121/live/15273.sdp
+CBS新闻,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+天空新闻1,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+天空新闻2,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
@@ -473,6 +476,7 @@ TVBS,http://341697390.r.fdccdn.net/live/tw_tvbs.m3u8
 acna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 MTV音乐,http://341697390.r.fdccdn.net/live/tw_mtv_hd.m3u8
 MTV Live台湾,http://341697390.r.fdccdn.net/live/tw_mtv_yinyue.m3u8
+ID时尚高清,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 凤凰卫视中文台,http://192.154.103.75:8080/ZZ_fenghuangzhongwen/ZZ_fenghuangzhongwen.m3u8
 凤凰卫视资讯台,http://192.200.120.82:8080/ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8
 TVBS新闻台,http://107.148.215.103:13164/play.m3u8?token=%2BoWheIpp3q2ftqZ0wxwkq2Zm&tid=gt&id=45
