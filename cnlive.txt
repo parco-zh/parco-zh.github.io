@@ -341,6 +341,9 @@ CNN1,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
 CNN2,vjms://23.237.33.155:8500:3502/live/cid=428
 CNN3 Phillippines,http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 CNN菲律宾,rtmp://54.251.134.121/live/15273.sdp
+CBS新闻,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+天空新闻1,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+天空新闻2,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
