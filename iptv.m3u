@@ -935,3 +935,29 @@ http://tx.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|测试频道|",彭博柏林
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|国外综合|",HBO Hits
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|国外综合|",HBO
+http://95.170.215.118/hls/m3u8/HBO.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|国外综合|",HBO 2
+http://95.170.215.118/hls/m3u8/HBO-2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|国外综合|",HBO 3
+http://95.170.215.118/hls/m3u8/HBO-3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|国外综合|",MNX Movies
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|国外综合|",WORLD HD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|国外综合|",World SD
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|国外综合|",CBS News
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|国外综合|",BBC World News
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|国外综合|",Times Now
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|国外综合|",Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|国外综合|",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|国外综合|",Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
