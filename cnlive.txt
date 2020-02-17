@@ -170,6 +170,7 @@ Boom卡通台,http://341697390.r.fdccdn.net/live/tw_boom_kt.m3u8
 靖天卡通台,http://341697390.r.fdccdn.net/live/tw_jingtiankatong.m3u8
 龙华动画,http://341697390.r.fdccdn.net/live/tw_longhua_dh.m3u8
 东森幼幼,http://341697390.r.fdccdn.net/live/tw_dongsen_yy.m3u8
+喵咪频道,http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8
 EBC东森洋片HD,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 EBC东森洋片HD1,tvbus://1jqrNZ8dt84AhKCLVypeBgfHwfpMSvsyFqvSX6u4FfSbP9JqCv
 东森电影2,tvbus://12E14tpq7uV1zLRdMHFYh3FdyURG5XkWi53smDeAbJcfzxHpgYp
@@ -263,6 +264,7 @@ RCTI,https://liveanevia.mncnow.id/live/eds/RCTI/sa_hls/RCTI-avc1_2499968=10-RCTI
 非凡新聞HD,http://341697390.r.fdccdn.net/live/tw_feifanxinwen.m3u8
 三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 臺新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 年代新聞,http://341697390.r.fdccdn.net/live/tw_niandaixinwen.m3u8
 非凡新聞,http://341697390.r.fdccdn.net/live/tw_feifanxinwen.m3u8
@@ -341,6 +343,8 @@ CNN1,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
 CNN2,vjms://23.237.33.155:8500:3502/live/cid=428
 CNN3 Phillippines,http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 CNN菲律宾,rtmp://54.251.134.121/live/15273.sdp
+CNN印尼,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+CNN印尼,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 CBS新闻,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 天空新闻1,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 天空新闻2,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
@@ -355,6 +359,9 @@ BBC,vjms://58.215.133.185:8500:3502/live/cid=418
 BBC,vjms://23.237.33.155:8500:3502/live/cid=418
 FOXNews,vjms://58.215.133.185:8500:3502/live/cid=97
 FOXNews,p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts
+france24,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+france24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 美国之音VOA[960*540],https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 Al Jazeera[1920*1080],http://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
 CNA(ChannelNewsAsia)[1920*1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
