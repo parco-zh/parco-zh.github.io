@@ -399,9 +399,9 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-Anima
 #EXTINF:-1 tvg-logo="" group-title="|港台影视|",tvN Asia
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-tvN-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fhzhongwen.png" group-title="|港台新闻|",凤凰中文
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FHZW.png" group-title="|港台新闻|",凤凰中文
 http://liveali.ifeng.com/live/FHZW.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fhzhongwen.png" group-title="|港台新闻|",凤凰中文
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FHZW.png" group-title="|港台新闻|",凤凰中文
 http://liveali.ifeng.com/live/FHZW.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fhzixun.png" group-title="|港台新闻|",凤凰资讯
 http://liveali.ifeng.com/live/FHZX.m3u8
