@@ -1,4 +1,4 @@
-#EXTM3U url-logo="https://parco-zh/parco-zh.github.io/demo/"
+#EXTM3U tvg-logo="https://parco-zh/parco-zh.github.io/demo/"
 
 #EXTINF:-1 tvg-logo="CCTV1.jpg" group-title="央视频道",CCTV-1综合高清
 http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
