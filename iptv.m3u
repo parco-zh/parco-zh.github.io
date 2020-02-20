@@ -16,9 +16,9 @@ http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
 http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV5.jpg" group-title="央视频道",CCTV-5体育高清
 http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="央视频道",CCTV- 5+体育赛事高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV5+.png" group-title="央视频道",CCTV- 5+体育赛事高清
 http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000204503.m3u8
-#EXTINF:-1 tvg-logo="" group-title="央视频道",CCTV- 5+体育赛事高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV5+.png" group-title="央视频道",CCTV- 5+体育赛事高清
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV6.jpg" group-title="央视频道",CCTV- 6电影高清
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
