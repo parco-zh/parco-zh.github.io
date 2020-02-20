@@ -1,8 +1,8 @@
-#EXTM3U url-logos="https://parco-zh/parco-zh.github.io/demo/"
+#EXTM3U url-logo="https://parco-zh/parco-zh.github.io/demo/"
 
-#EXTINF:-1 tvg-logo="" group-title="央视频道",CCTV-1综合高清
+#EXTINF:-1 tvg-logo="CCTV1.jpg" group-title="央视频道",CCTV-1综合高清
 http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-#EXTINF:-1 tvg-logo="" group-title="央视频道",CCTV-1综合高清
+#EXTINF:-1 tvg-logo="CCTV1.jpg" group-title="央视频道",CCTV-1综合高清
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",CCTV-2财经高清
 http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
