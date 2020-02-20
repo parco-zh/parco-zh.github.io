@@ -70,19 +70,19 @@ http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/bjbtv.jpg" group-title="|地方频道|",北京卫视
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",北京文艺
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvwenyi.png" group-title="|地方频道|",北京文艺
 http://ivi.bupt.edu.cn/hls/btv2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",北京科教
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvkejiao.png" group-title="|地方频道|",北京科教
 http://ivi.bupt.edu.cn/hls/btv3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",北京影视
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvyingshi.png" group-title="|地方频道|",北京影视
 http://ivi.bupt.edu.cn/hls/btv4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",北京财经
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvcaijing.png" group-title="|地方频道|",北京财经
 http://ivi.bupt.edu.cn/hls/btv5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",北京生活
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvshenghuo.png" group-title="|地方频道|",北京生活
 http://ivi.bupt.edu.cn/hls/btv7.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",北京青年
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvqingnan.png" group-title="|地方频道|",北京青年
 http://ivi.bupt.edu.cn/hls/btv8.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",北京新闻
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvxinwen.png" group-title="|地方频道|",北京新闻
 http://ivi.bupt.edu.cn/hls/btv9.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/hunan.jpg" group-title="|地方频道|",湖南卫视HD
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
