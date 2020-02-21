@@ -478,31 +478,31 @@ https://live.ntdimg.com/sflive990/playlist.m3u8
 https://live.ntdimg.com/live400/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|港台新闻|",新唐人美西臺
 https://live.ntdimg.com/uwlive990/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",CNN土耳其
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNN-tu.png" group-title="|国外新闻|",CNN土耳其
 http://streams2.livetv.az/turk/cnn_stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",CNN菲律宾
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNN-fei.png" group-title="|国外新闻|",CNN菲律宾
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",CNN菲律宾
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNN-fei.png" group-title="|国外新闻|",CNN菲律宾
 rtmp://54.251.134.121/live/15273.sdp
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",CNN印尼
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNN-yin.png" group-title="|国外新闻|",CNN印尼
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",天空新闻1
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/tiankong.png" group-title="|国外新闻|",天空新闻1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",天空新闻2
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/tiankong.png" group-title="|国外新闻|",天空新闻2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",美国之音VOA[960*540]
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/VOA.png" group-title="|国外新闻|",美国之音VOA[960*540]
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",Al Jazeera[1920*1080]
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/BDbd.png" group-title="|国外新闻|",Al Jazeera[1920*1080]
 http://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",CNA(ChannelNewsAsia)[1920*1080]
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNA.png" group-title="|国外新闻|",CNA(ChannelNewsAsia)[1920*1080]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",DOCUMENTARY H2[1280*720]
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/H2.png" group-title="|国外新闻|",DOCUMENTARY H2[1280*720]
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",Dubai Racing[1920*1080]
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/DIBAI.png" group-title="|国外新闻|",Dubai Racing[1920*1080]
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",Dubai Racing2[1920*1080]
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/DIBAI.png" group-title="|国外新闻|",Dubai Racing2[1920*1080]
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",美国Channel 11 News WPXI (Pittsburgh)[1280*720]
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/NEWS.png" group-title="|国外新闻|",美国Channel 11 News WPXI (Pittsburgh)[1280*720]
 http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|国外新闻|",美国Cheddar电视[768*432]
 https://live.chdrstatic.com/cheddar/primary/4.m3u8
