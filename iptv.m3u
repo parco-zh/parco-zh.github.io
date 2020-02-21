@@ -1,70 +1,70 @@
 #EXTM3U tvg-logo="https://parco-zh.github.io/demo/"
 
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV1.jpg" group-title="央视频道",CCTV-1综合高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV1.jpg" group-title="|央视频道|",CCTV-1综合高清
 http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV1.jpg" group-title="央视频道",CCTV-1综合高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV1.jpg" group-title="|央视频道|",CCTV-1综合高清
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV2.jpg" group-title="央视频道",CCTV-2财经高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV2.jpg" group-title="|央视频道|",CCTV-2财经高清
 http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV3.jpg" group-title="央视频道",CCTV-3综艺高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV3.jpg" group-title="|央视频道|",CCTV-3综艺高清
 http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV3.jpg" group-title="央视频道",CCTV-3综艺高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV3.jpg" group-title="|央视频道|",CCTV-3综艺高清
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV4.jpg" group-title="央视频道",CCTV-4中文国际高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV4.jpg" group-title="|央视频道|",CCTV-4中文国际高清
 http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV5.jpg" group-title="央视频道",CCTV-5体育高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV5.jpg" group-title="|央视频道|",CCTV-5体育高清
 http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV5.jpg" group-title="央视频道",CCTV-5体育高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV5.jpg" group-title="|央视频道|",CCTV-5体育高清
 http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV5+.png" group-title="央视频道",CCTV- 5+体育赛事高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV5+.png" group-title="|央视频道|",CCTV- 5+体育赛事高清
 http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000204503.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV5+.png" group-title="央视频道",CCTV- 5+体育赛事高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV5+.png" group-title="|央视频道|",CCTV- 5+体育赛事高清
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV6.jpg" group-title="央视频道",CCTV- 6电影高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV6.jpg" group-title="|央视频道|",CCTV- 6电影高清
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV6.jpg" group-title="央视频道",CCTV- 6电影高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV6.jpg" group-title="|央视频道|",CCTV- 6电影高清
 http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV7.jpg" group-title="央视频道",CCTV- 7国防军事高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV7.jpg" group-title="|央视频道|",CCTV- 7国防军事高清
 http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/007/2000510003.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV7.jpg" group-title="央视频道",CCTV- 7国防军事高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV7.jpg" group-title="|央视频道|",CCTV- 7国防军事高清
 http://cctvcnch5ca.v.wscdns.com/live/cctv7_2/10793.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV8.jpg" group-title="央视频道",CCTV-8电视剧高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV8.jpg" group-title="|央视频道|",CCTV-8电视剧高清
 http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000203903.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV8.jpg" group-title="央视频道",CCTV-8电视剧高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV8.jpg" group-title="|央视频道|",CCTV-8电视剧高清
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV9.jpg" group-title="央视频道",CCTV-9纪录高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV9.jpg" group-title="|央视频道|",CCTV-9纪录高清
 http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV9.jpg" group-title="央视频道",CCTV-9纪录高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV9.jpg" group-title="|央视频道|",CCTV-9纪录高清
 http://cctvcnch5ca.v.wscdns.com/live/cctvjilu_2/10793.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV10.jpg" group-title="央视频道",CCTV-10科教高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV10.jpg" group-title="|央视频道|",CCTV-10科教高清
 http://cctvcnch5ca.v.wscdns.com/live/cctv10_2/10793.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV10.jpg" group-title="央视频道",CCTV-10科教高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV10.jpg" group-title="|央视频道|",CCTV-10科教高清
 http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/010/2000203503.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV11.jpg" group-title="央视频道",CCTV-11戏曲高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV11.jpg" group-title="|央视频道|",CCTV-11戏曲高清
 http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/011/2000204103.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV11.jpg" group-title="央视频道",CCTV-11戏曲高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV11.jpg" group-title="|央视频道|",CCTV-11戏曲高清
 http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV12.jpg" group-title="央视频道",CCTV-12社会与法高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV12.jpg" group-title="|央视频道|",CCTV-12社会与法高清
 http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/012/2000202603.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV12.jpg" group-title="央视频道",CCTV-12社会与法高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV12.jpg" group-title="|央视频道|",CCTV-12社会与法高清
 http://101.71.255.229:6610/zjhs/2/10071/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV13.jpg" group-title="央视频道",CCTV-13新闻高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV13.jpg" group-title="|央视频道|",CCTV-13新闻高清
 http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000204603.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV13.jpg" group-title="央视频道",CCTV-13新闻高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV13.jpg" group-title="|央视频道|",CCTV-13新闻高清
 http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/013/2000204603.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV14.png" group-title="央视频道",CCTV-14少儿高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV14.png" group-title="|央视频道|",CCTV-14少儿高清
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-14/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV14.png" group-title="央视频道",CCTV-14少儿高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV14.png" group-title="|央视频道|",CCTV-14少儿高清
 http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/014/2000204403.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV15.png" group-title="央视频道",CCTV-15音乐高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV15.png" group-title="|央视频道|",CCTV-15音乐高清
 http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000205003.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV15.png" group-title="央视频道",CCTV-15音乐高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV15.png" group-title="|央视频道|",CCTV-15音乐高清
 http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/015/2000205003.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV17.png" group-title="央视频道",CCTV- 17农业农村高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV17.png" group-title="|央视频道|",CCTV- 17农业农村高清
 http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/017/2000204203.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV17.png" group-title="央视频道",CCTV- 17农业农村高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV17.png" group-title="|央视频道|",CCTV- 17农业农村高清
 http://117.169.124.37:6610/ysten-businessmobile/live/HD-4000k-1080P-cctv17/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV4K.png" group-title="央视频道",CCTV-4K
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV4K.png" group-title="|央视频道|",CCTV-4K
 http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/bjbtv.jpg" group-title="|地方频道|",北京卫视HD
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
@@ -517,157 +517,157 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 http://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|国外新闻|",卫视国际电影台(阿拉伯)[1280*720]
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new1.png" group-title="New TV",动作电影
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new1.png" group-title="|New TV|",动作电影
 http://121.31.30.91:8081/ysten-business/live/dongzuody/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new1.png" group-title="New TV",动作电影
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new1.png" group-title="|New TV|",动作电影
 http://117.169.124.37:6610/ysten-businessmobile/live/dongzuody/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new1.png" group-title="New TV",动作电影
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new1.png" group-title="|New TV|",动作电影
 http://gslbserv.itv.cmvideo.cn:80/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=7951969344461271832
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new2.png" group-title="New TV",明星大片
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new2.png" group-title="|New TV|",明星大片
 http://121.31.30.91:8081/ysten-business/live/mingxingdp/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new2.png" group-title="New TV",明星大片
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new2.png" group-title="|New TV|",明星大片
 http://117.169.124.37:6610/ysten-businessmobile/live/mingxingdp/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new2.png" group-title="New TV",明星大片
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new2.png" group-title="|New TV|",明星大片
 http://gslbserv.itv.cmvideo.cn:80/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=7951969344461437044
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new3.png" group-title="New TV",金牌综艺
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new3.png" group-title="|New TV|",金牌综艺
 http://121.31.30.91:8081/ysten-business/live/saishijx/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new3.png" group-title="New TV",金牌综艺
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new3.png" group-title="|New TV|",金牌综艺
 http://117.169.124.37:6610/ysten-businessmobile/live/saishijx/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new3.png" group-title="New TV",金牌综艺
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new3.png" group-title="|New TV|",金牌综艺
 http://gslbserv.itv.cmvideo.cn:80/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6399725674632152632&owchid=ystenlive&owsid=7951969344461811424
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new4.png" group-title="New TV",精品体育
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new4.png" group-title="|New TV|",精品体育
 http://121.31.30.91:8081/ysten-business/live/jtiyu/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new4.png" group-title="New TV",精品体育
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new4.png" group-title="|New TV|",精品体育
 http://117.169.124.37:6610/ysten-businessmobile/live/jtiyu/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new4.png" group-title="New TV",精品体育
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new4.png" group-title="|New TV|",精品体育
 http://gslbserv.itv.cmvideo.cn:80/000000001000/6460382139625130259/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6460382139625130259&owchid=ystenlive&owsid=7951969344462313166
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new5.png" group-title="New TV",精品大剧
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new5.png" group-title="|New TV|",精品大剧
 http://121.31.30.91:8081/ysten-business/live/jdaju/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new5.png" group-title="New TV",精品大剧
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new5.png" group-title="|New TV|",精品大剧
 http://117.169.124.37:6610/ysten-businessmobile/live/jdaju/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new5.png" group-title="New TV",精品大剧
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new5.png" group-title="|New TV|",精品大剧
 http://gslbserv.itv.cmvideo.cn:80/000000001000/7882297361445410858/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7882297361445410858&owchid=ystenlive&owsid=7951969344461789021
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new6.png" group-title="New TV",精品电影
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new6.png" group-title="|New TV|",精品电影
 http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new6.png" group-title="New TV",精品电影
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new6.png" group-title="|New TV|",精品电影
 http://117.169.124.37:6610/ysten-businessmobile/live/jdianying/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new6.png" group-title="New TV",精品电影
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new6.png" group-title="|New TV|",精品电影
 http://gslbserv.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7951969344461621383
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new7.png" group-title="New TV",海外剧场
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new7.png" group-title="|New TV|",海外剧场
 http://121.31.30.91:8081/ysten-business/live/xiqumd/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new7.png" group-title="New TV",海外剧场
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new7.png" group-title="|New TV|",海外剧场
 http://117.169.124.37:6610/ysten-businessmobile/live/xiqumd/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new7.png" group-title="New TV",海外剧场
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new7.png" group-title="|New TV|",海外剧场
 http://gslbserv.itv.cmvideo.cn:80/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7681593242002292003&owchid=ystenlive&owsid=7951969344461325347
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new8.png" group-title="New TV",家庭剧场
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new8.png" group-title="|New TV|",家庭剧场
 http://121.31.30.91:8081/ysten-business/live/jiatingjc/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new8.png" group-title="New TV",家庭剧场
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new8.png" group-title="|New TV|",家庭剧场
 http://117.169.124.37:6610/ysten-businessmobile/live/jiatingjc/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new8.png" group-title="New TV",家庭剧场
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new8.png" group-title="|New TV|",家庭剧场
 http://gslbserv.itv.cmvideo.cn:80/000000001000/6316377948248689070/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6316377948248689070&owchid=ystenlive&owsid=7951969344461297064
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new9.png" group-title="New TV",爱情喜剧
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new9.png" group-title="|New TV|",爱情喜剧
 http://121.31.30.91:8081/ysten-business/live/aiqingxj/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new9.png" group-title="New TV",爱情喜剧
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new9.png" group-title="|New TV|",爱情喜剧
 http://117.169.124.37:6610/ysten-businessmobile/live/aiqingxj/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new9.png" group-title="New TV",爱情喜剧
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new9.png" group-title="|New TV|",爱情喜剧
 http://gslbserv.itv.cmvideo.cn:80/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8393829412396288037&owchid=ystenlive&owsid=7951969344461671826
-#EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="New TV",古装剧场
+#EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="|New TV|",古装剧场
 http://121.31.30.91:8081/ysten-business/live/guzhuangjc/1.m3u8
-#EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="New TV",古装剧场
+#EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="|New TV|",古装剧场
 http://117.169.124.37:6610/ysten-businessmobile/live/guzhuangjc/yst.m3u8
-#EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="New TV",古装剧场
+#EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="|New TV|",古装剧场
 http://gslbserv.itv.cmvideo.cn:80/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6859053933687922163&owchid=ystenlive&owsid=7951969344461257334
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new10.png" group-title="New TV",军旅剧场
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new10.png" group-title="|New TV|",军旅剧场
 http://121.31.30.91:8081/ysten-business/live/junlvjc/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new10.png" group-title="New TV",军旅剧场
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new10.png" group-title="|New TV|",军旅剧场
 http://117.169.124.37:6610/ysten-businessmobile/live/junlvjc/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new10.png" group-title="New TV",军旅剧场
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new10.png" group-title="|New TV|",军旅剧场
 http://gslbserv.itv.cmvideo.cn:80/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7485075951068666323&owchid=ystenlive&owsid=7951969344461285239
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new11.png" group-title="New TV",惊悚悬疑
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new11.png" group-title="|New TV|",惊悚悬疑
 http://121.31.30.91:8081/ysten-business/live/jingsongxy/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new11.png" group-title="New TV",惊悚悬疑
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new11.png" group-title="|New TV|",惊悚悬疑
 http://117.169.124.37:6610/ysten-businessmobile/live/jingsongxy/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new11.png" group-title="New TV",惊悚悬疑
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new11.png" group-title="|New TV|",惊悚悬疑
 http://gslbserv.itv.cmvideo.cn:80/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7151256057701199617&owchid=ystenlive&owsid=7951969344461309585
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new12.png" group-title="New TV",精品记录
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new12.png" group-title="|New TV|",精品记录
 http://121.31.30.91:8081/ysten-business/live/jingpinjl/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new12.png" group-title="New TV",精品记录
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new12.png" group-title="|New TV|",精品记录
 http://117.169.124.37:6610/ysten-businessmobile/live/jingpinjl/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new12.png" group-title="New TV",精品记录
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new12.png" group-title="|New TV|",精品记录
 http://gslbserv.itv.cmvideo.cn:80/000000001000/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6298506997017621594&owchid=ystenlive&owsid=7951969344462219754
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new13.png" group-title="New TV",军事评论
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new13.png" group-title="|New TV|",军事评论
 http://121.31.30.91:8081/ysten-business/live/junshipl/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new13.png" group-title="New TV",军事评论
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new13.png" group-title="|New TV|",军事评论
 http://117.169.124.37:6610/ysten-businessmobile/live/junshipl/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new13.png" group-title="New TV",军事评论
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new13.png" group-title="|New TV|",军事评论
 http://gslbserv.itv.cmvideo.cn:80/000000001000/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5822616274253344775&owchid=ystenlive&owsid=7951969344461854480
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new14.png" group-title="New TV",农业致富
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new14.png" group-title="|New TV|",农业致富
 http://121.31.30.91:8081/ysten-business/live/nongyezf/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new14.png" group-title="New TV",农业致富
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new14.png" group-title="|New TV|",农业致富
 http://117.169.124.37:6610/ysten-businessmobile/live/nongyezf/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new14.png" group-title="New TV",农业致富
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new14.png" group-title="|New TV|",农业致富
 http://gslbserv.itv.cmvideo.cn:80/000000001000/6193684637634073625/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6193684637634073625&owchid=ystenlive&owsid=7951969344462094324
-#EXTINF:-1 tvg-logo="" group-title="New TV",黑莓电竞
+#EXTINF:-1 tvg-logo="" group-title="|New TV|",黑莓电竞
 http://121.31.30.91:8081/ysten-business/live/wmyx/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="New TV",黑莓电竞
+#EXTINF:-1 tvg-logo="" group-title="|New TV|",黑莓电竞
 http://117.169.124.37:6610/ysten-businessmobile/live/wmyx/yst.m3u8
-#EXTINF:-1 tvg-logo="" group-title="New TV",黑莓电竞
+#EXTINF:-1 tvg-logo="" group-title="|New TV|",黑莓电竞
 http://gslbserv.itv.cmvideo.cn:80/000000001000/5320946857686967621/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5320946857686967621&owchid=ystenlive&owsid=7951969344462105144
-#EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="New TV",健康有约
+#EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="|New TV|",健康有约
 http://121.31.30.91:8081/ysten-business/live/ljiankangyouyue/1.m3u8
-#EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="New TV",健康有约
+#EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="|New TV|",健康有约
 http://117.169.124.37:6610/ysten-businessmobile/live/ljiankangyouyue/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new17.png" group-title="New TV",搏击
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new17.png" group-title="|New TV|",搏击
 http://121.31.30.91:8081/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new17.png" group-title="New TV",搏击
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new17.png" group-title="|New TV|",搏击
 http://gslbserv.itv.cmvideo.cn:80/000000001000/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=bokesen&owchid=ystenlive&owsid=7951969344461425531
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new18.png" group-title="New TV",黑莓动画
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new18.png" group-title="|New TV|",黑莓动画
 http://117.169.124.37:6610/ysten-businessmobile/live/donghuawg/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new18.png" group-title="New TV",黑莓动画
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new18.png" group-title="|New TV|",黑莓动画
 http://gslbserv.itv.cmvideo.cn:80/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=7951969344461242832
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new15.png" group-title="New TV",中国功夫
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new15.png" group-title="|New TV|",中国功夫
 http://gslbserv.itv.cmvideo.cn:80/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5897056882324761054&owchid=ystenlive&owsid=7951969344461800735
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new16.png" group-title="New TV",潮妈辣婆
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new16.png" group-title="|New TV|",潮妈辣婆
 http://gslbserv.itv.cmvideo.cn:80/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=7951969344462324357
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【电影】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【电影】
 http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/800/vCIBNDYPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【新知】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【新知】
 http://cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【怡家】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【怡家】
 http://cinb1.peoplevideo.cn/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【精品影院】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【精品影院】
 http://cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【喜剧影院】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【喜剧影院】
 http://cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【情感影院】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【情感影院】
 http://cinb1.peoplevideo.cn/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【骄阳剧场】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【骄阳剧场】
 http://cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【古装剧场】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【古装剧场】
 http://cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【嗨播】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【嗨播】
 http://cinb1.peoplevideo.cn/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【军事】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【军事】
 http://cinb1.peoplevideo.cn/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【生活】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【生活】
 http://cinb1.peoplevideo.cn/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【汽车】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【汽车】
 http://cinb1.peoplevideo.cn/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【微电影】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【微电影】
 http://cinb1.peoplevideo.cn/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【汉学院】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【汉学院】
 http://cinb1.peoplevideo.cn/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【纪录片】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【纪录片】
 http://cinb1.peoplevideo.cn/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【炫佳卡通】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【炫佳卡通】
 http://cinb1.peoplevideo.cn/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【童雪世界】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【童雪世界】
 http://cinb1.peoplevideo.cn/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【艺术院线】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【艺术院线】
 http://cinb1.peoplevideo.cn/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",CIBN【朵丫乐园】
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【朵丫乐园】
 http://cinb1.peoplevideo.cn/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CIBN Tv",【NIHAO-TV】HD
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",【NIHAO-TV】HD
 http://cinb1.peoplevideo.cn/hls/vCIBNCHNTV/1800/vCIBNCHNTV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|国外综合|",Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499499=11-Animax-mp4a_98800_eng=3.m3u8
