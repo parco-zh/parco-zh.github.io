@@ -104,25 +104,25 @@ http://ivi.bupt.edu.cn/hls/tjhd.m3u8
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/jilin.jpg" group-title="|地方频道|",吉林卫视HD
 http://stream4.jlntv.cn/test2/sd/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",云南影视
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/YNYS.png" group-title="|地方频道|",云南影视
 http://hwzbout.yunshicloud.com/62hdvf/k7daod.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",浙江影视
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ZJYS.png" group-title="|地方频道|",浙江影视
 http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",青海卫视HD
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/QHWS.png" group-title="|地方频道|",青海卫视HD
 http://live.geermurm.com/qhws/sd/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",河南电视剧QD
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HNDSJ.png" group-title="|地方频道|",河南电视剧QD
 http://player.ioioz.com/18/tv.php?tv=hayx&id=85
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",武汉综合
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/WHZH.png" group-title="|地方频道|",武汉综合
 http://stream.appwuhan.com/1tzb/sd/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",湖北综合
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HBZH.png" group-title="|地方频道|",湖北综合
 http://live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",北京影视
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvyingshi.png" group-title="|地方频道|",北京影视
 http://101.89.132.136:80/live/tm-btv4-4000k.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",北京纪实
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvjishi.png" group-title="|地方频道|",北京纪实
 http://101.89.132.136:80/live/tm-btvjishihd-4000k.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",北京文艺
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvwenyi.png" group-title="|地方频道|",北京文艺
 http://101.89.132.136:80/live/tm-btv2hd-4000k.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",北京新闻
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvxinwen.png" group-title="|地方频道|",北京新闻
 http://101.89.132.136:80/live/tm-btv9-4000k.m3u8
 #EXTINF:-1 tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg" group-title="|地方频道|",北京卫视
 http://101.89.132.136:80/live/tm-btv1hd-4000k.m3u8
@@ -134,25 +134,25 @@ http://101.89.132.136:80/live/tm-dfwshd-4000k.m3u8
 http://101.89.132.136:80/live/tm-shenzhenhd-4000k.m3u8
 #EXTINF:-1 tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg" group-title="|地方频道|",辽宁卫视
 http://101.89.132.136:80/live/tm-liaoninghd-4000k.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",峨眉电影HD
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/emei.png" group-title="|地方频道|",峨眉电影HD
 http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",厦门卫视
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/XMWS.png" group-title="|地方频道|",厦门卫视
 http://cstvpull.live.wscdns.com/live/xiamen.flv
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",厦门二套
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/XMDST.png" group-title="|地方频道|",厦门二套
 http://cstvpull.live.wscdns.com/live/xiamen2.flv
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",厦门三套
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/XMDST.png" group-title="|地方频道|",厦门三套
 http://cstvpull.live.wscdns.com/live/xiamen3.flv
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",厦门移动电视
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/XMYD.png" group-title="|地方频道|",厦门移动电视
 http://cstvpull.live.wscdns.com/live/xiamenyidong.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/bjbtv.jpg" group-title="|地方频道|",北京卫视高清
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",北京文艺高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvwenyi.png" group-title="|地方频道|",北京文艺高清
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",北京纪实高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvjishi.png" group-title="|地方频道|",北京纪实高清
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",湖南卫视高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="|地方频道|",湖南卫视高清
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",浙江卫视高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ZJWS.png" group-title="|地方频道|",浙江卫视高清
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/jiangsu.jpg" group-title="|地方频道|",江苏卫视高清
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
@@ -162,11 +162,11 @@ http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/liaoning.jpg" group-title="|地方频道|",辽宁卫视高清
 http://ivi.bupt.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",深圳卫视高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/SZWS.png" group-title="|地方频道|",深圳卫视高清
 http://ivi.bupt.edu.cn/hls/szhd.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg" group-title="|地方频道|",广东卫视高清
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",天津卫视高清
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TJWS.png" group-title="|地方频道|",天津卫视高清
 http://ivi.bupt.edu.cn/hls/tjhd.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/hubei.jpg" group-title="|地方频道|",湖北卫视高清
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
@@ -182,7 +182,7 @@ http://ivi.bupt.edu.cn/hls/sztv.m3u8
 http://ivi.bupt.edu.cn/hls/ahtv.m3u8
 #EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd72d9f07.png" group-title="|地方频道|",河南卫视
 http://ivi.bupt.edu.cn/hls/hntv.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png" group-title="|地方频道|",陕西卫视
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/shanxi.jpg" group-title="|地方频道|",陕西卫视
 http://ivi.bupt.edu.cn/hls/sxtv.m3u8
 #EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png" group-title="|地方频道|",吉林卫视
 http://ivi.bupt.edu.cn/hls/jltv.m3u8
@@ -234,14 +234,12 @@ http://ivi.bupt.edu.cn/hls/nxtv.m3u8
 http://ivi.bupt.edu.cn/hls/gstv.m3u8
 #EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png" group-title="|地方频道|",重庆卫视
 http://ivi.bupt.edu.cn/hls/cqtv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",兵团卫视
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/BTWS.png" group-title="|地方频道|",兵团卫视
 http://ivi.bupt.edu.cn/hls/bttv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",旅游卫视
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HNWS1.png" group-title="|地方频道|",海南卫视
 http://ivi.bupt.edu.cn/hls/lytv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|地方频道|",安徽卫视HD
 http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",东方财经-浦东
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|地方频道|",东南卫视HD
 http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225899/1.m3u8
 #EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png" group-title="|地方频道|",广东卫视HD
@@ -666,13 +664,13 @@ http://cinb1.peoplevideo.cn/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8
 http://cinb1.peoplevideo.cn/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",【NIHAO-TV】HD
 http://cinb1.peoplevideo.cn/hls/vCIBNCHNTV/1800/vCIBNCHNTV.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",Animax
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ANIMAX.png" group-title="|国外综合|",Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499499=11-Animax-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",BloombergTV
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Bloom.png" group-title="|国外综合|",BloombergTV
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",Bull TV
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Bull.png" group-title="|国外综合|",Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",FR-France24
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FRANCE24.png" group-title="|国外综合|",FR-France24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|国外综合|",Times Now
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
