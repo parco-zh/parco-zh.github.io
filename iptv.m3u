@@ -436,7 +436,7 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/NHK.png" group-title="|港台新闻|",nhk英语新闻
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|港台新闻|",华语視界日本NHK Japan
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/NHK-huayu.png" group-title="|港台新闻|",华语視界日本NHK Japan
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/riben24.png" group-title="|港台新闻|",日本全天新聞
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
