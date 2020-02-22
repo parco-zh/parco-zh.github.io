@@ -116,26 +116,6 @@ http://player.ioioz.com/18/tv.php?tv=hayx&id=85
 http://stream.appwuhan.com/1tzb/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HBZH.png" group-title="|地方频道|",湖北综合
 http://live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvyingshi.png" group-title="|地方频道|",北京影视
-http://101.89.132.136:80/live/tm-btv4-4000k.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvjishi.png" group-title="|地方频道|",北京纪实
-http://101.89.132.136:80/live/tm-btvjishihd-4000k.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvwenyi.png" group-title="|地方频道|",北京文艺
-http://101.89.132.136:80/live/tm-btv2hd-4000k.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvxinwen.png" group-title="|地方频道|",北京新闻
-http://101.89.132.136:80/live/tm-btv9-4000k.m3u8
-#EXTINF:-1 tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg" group-title="|地方频道|",北京卫视
-http://101.89.132.136:80/live/tm-btv1hd-4000k.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png" group-title="|地方频道|",安徽卫视
-http://101.89.132.136:80/live/tm-ahwshd-4000k.m3u8
-#EXTINF:-1 tvg-logo="http://s0.xiaomitv.cc/pic/dongfangweishi.jpg" group-title="|地方频道|",东方卫视
-http://101.89.132.136:80/live/tm-dfwshd-4000k.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564e80f4757c8.png" group-title="|地方频道|",深圳卫视
-http://101.89.132.136:80/live/tm-shenzhenhd-4000k.m3u8
-#EXTINF:-1 tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg" group-title="|地方频道|",辽宁卫视
-http://101.89.132.136:80/live/tm-liaoninghd-4000k.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/emei.png" group-title="|地方频道|",峨眉电影HD
-http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/XMWS.png" group-title="|地方频道|",厦门卫视
 http://cstvpull.live.wscdns.com/live/xiamen.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/XMDST.png" group-title="|地方频道|",厦门二套
@@ -238,90 +218,6 @@ http://ivi.bupt.edu.cn/hls/cqtv.m3u8
 http://ivi.bupt.edu.cn/hls/bttv.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HNWS1.png" group-title="|地方频道|",海南卫视
 http://ivi.bupt.edu.cn/hls/lytv.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png" group-title="|地方频道|",广东卫视HD
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225772/1.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png" group-title="|地方频道|",湖北卫视HD
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225749/1.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png" group-title="|地方频道|",吉林卫视
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225709/1.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png" group-title="|地方频道|",吉林卫视
-http://stream4.jlntv.cn/test2/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png" group-title="|地方频道|",江苏卫视HD
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225762/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",江西卫视HD
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225897/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",辽宁卫视HD
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",旅游卫视
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225705/1.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201706/26/59506dfaea3eb.png" group-title="|地方频道|",山西卫视
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225746/1.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png" group-title="|地方频道|",陕西卫视
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225724/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",上海法制天地
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225831/1.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d494a38e.png" group-title="|地方频道|",天津卫视HD
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225898/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",湖南卫视高清
-http://39.135.34.153:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",北京卫视高清
-http://39.135.34.143:18890/000000001000/1000000001000017156/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000017156&owchid=ystenlive&owsid=1106497909461249865&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRV7KOtBVuvtVZFLcgrBAOKYd9hOl8T7nV%2fYYLzxPrqZvxI1UedirhXiKrowSY0GL9
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",浙江卫视高清
-http://39.135.34.146:18890/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009806&owchid=ystenlive&owsid=1106497909461218392&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRt6tuEx40ruFSJnrbh2BVWwXsEFuvV04XsE9ZOm50Z8cpDzo0JrXSxYrVj73IVRt9
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",江苏卫视高清
-http://39.135.34.157:18890/000000001000/1000000001000004684/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000004684&owchid=ystenlive&owsid=1106497909461243101&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR80rubnSCCYHmxBfxTMKdNm%2bh%2bLn%2bBGibQYrxMgSwIzfH44Sn0OHT9L7pQFHxSW%2fJ
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",东方卫视高清
-http://39.135.34.143:18890/000000001000/1000000001000030202/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000030202&owchid=ystenlive&owsid=1106497909461236159&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR5IXgk%2B6a%2BY1Viivj30IkCl065X8GSWgqnbGOJH69GYNl9jXWqt3b3Vkm63dGSY%2B5
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",安徽卫视高清
-http://39.135.34.157:18890/000000001000/4774346722046993363/1.m3u8?channel-id=ystenlive&Contentid=4774346722046993363&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=4774346722046993363&owchid=ystenlive&owsid=1106497909461303710&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6rtwuCbF0UBw1ECKohiyVXtAaM2LAoJTgBkO9sqSP7vGKF4XQrqmpBPeC9CblENbpBoei4M1GZJUNAFlnpSFVM
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",黑龙江卫视高清
-http://39.135.34.140:18890/000000001000/8467838254824392379/1.m3u8?channel-id=ystenlive&Contentid=8467838254824392379&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=8467838254824392379&owchid=ystenlive&owsid=1106497909461358444&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5eLzTptYlaHwBbi5jFcfGGajSKACYh%2bxMIkH12jcM41WvzLTRYworzrZ3FKkyeJf%2fWTgBHYgXtjL76Tybav9u%2b
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",辽宁卫视高清
-http://39.135.34.150:18890/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000024033&owchid=ystenlive&owsid=1106497909461352974&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhQBci%2f2KtFqbPb5lYHzQlehPnBUBV7gDU5NsQ1fq2DyLArxZhG%2bC4a49jTs%2bwbEKo
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",深圳卫视高清
-http://39.135.34.150:18890/000000001000/1000000001000011645/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000011645&owchid=ystenlive&owsid=1106497909461286475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRi%2fGQBc72yY6Quo0JMFE7sAOH9P3BRKKjlume5S4R4Q4D5A%2fuxi3rN%2bHd%2bNxeQD8d
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",广东卫视高清
-http://39.135.34.155:18890/000000001000/1000000001000028357/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000028357&owchid=ystenlive&owsid=1106497909461262352&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaROVzE3kgfqbxbWUefjzmwWM6UWM1tPF3fcVILxO8TukKPE2BY%2fTje83gAnl%2fZNkb%2b
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",天津卫视高清
-http://39.135.34.157:18890/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000000831&owchid=ystenlive&owsid=1106497909461255731&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRcs9zLA6x183T6XfyDHK2Forh1U1TuZtCxYnIsImE91weAhYebQgGPi666EsPHwzC
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",湖北卫视高清
-http://39.135.34.152:18890/000000001000/6956052407855047826/1.m3u8?channel-id=ystenlive&Contentid=6956052407855047826&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6956052407855047826&owchid=ystenlive&owsid=1106497909461296919&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5Z%2bo9LRgIMhzyly%2bN8KnqBuGO27GhSxZzEXYI6euRzJ3HshWQhVCNxJrt91pPA8t7cjGpkhpIVoXJ0Jyemr0DA
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",山东卫视高清
-http://39.135.34.142:18890/000000001000/1000000001000012807/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012807&owchid=ystenlive&owsid=1106497909461291586&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR3cBsIsjm7UHdGO3a4NjD1C4TiYtYt%2by66pvMI%2bkz57DAkgjzetftIzpJRR8RWa0K
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",重庆卫视高清
-http://39.135.34.150:18890/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000018937&owchid=ystenlive&owsid=1106497909461333042&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUG5grAC0rFEDUfNPlNhZzLoghzkGon0cjoqXWi7%2bGPbWnsToB9Z5BcGamUzvzuTi
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd72d9f07.png" group-title="|地方频道|",河南卫视
-http://ivi.bupt.edu.cn/hls/hntv.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png" group-title="|地方频道|",陕西卫视
-http://39.135.34.139:18890/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000007495&owchid=ystenlive&owsid=1106497909461393057&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhC1U23M2CL94H7Jl9UsXCcDV0kHzvpufT%2f4%2bgoUc31ou2LTka7qAY0hPTMutW5mQ%2b
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png" group-title="|地方频道|",吉林卫视
-http://39.135.34.157:18890/000000001000/6042486520432105075/1.m3u8?channel-id=ystenlive&Contentid=6042486520432105075&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6042486520432105075&owchid=ystenlive&owsid=1106497909461400661&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4zsyYJ9%2f94ZJUxUEiCPKz71GdIgOKPVNKAV5cZDiBiTfpeXwtOnUwYO06%2bu%2fL6TfF%2fffImHwCRpMFmrhzVqshX
-#EXTINF:-1 tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png" group-title="|地方频道|",广西卫视
-http://39.135.34.158:18890/000000001000/1000000002000019837/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019837&owchid=ystenlive&owsid=1106497909461204271&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhsj2zH%2fW8kf2eLOhwcRnwEP0%2bGJue26Xi8vK8GznvuoMqhqMjEnqzE06kO4aZ9KPy
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcfa5599f.png" group-title="|地方频道|",河北卫视
-http://39.135.34.146:18890/000000001000/1000000002000017118/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017118&owchid=ystenlive&owsid=1106497909461347463&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhCqGL1zPomfLadkujcaGzSGdRg4tEgiolyrwzgikVtMZiTQsF6T0wJRw9axwi4LXY
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png" group-title="|地方频道|",西藏卫视
-http://39.135.34.151:18890/000000001000/6603041244077933770/1.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6603041244077933770&owchid=ystenlive&owsid=1106497909461425998&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4rU4xzu091vKo8roYmr5h0BUDfpV78hsy2ysppzSDfUZCxoKss4LitbPhVYxcC0QN4CD2KiJutsirhMo3jfYAi
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png" group-title="|地方频道|",内蒙古卫视
-http://39.135.34.138:18890/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000014080&owchid=ystenlive&owsid=1106497909461412819&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhN3VZo%2fq60rUnbic%2fTx5hxEUA%2fCrpP4GEvV3vfXDDDKv4OC8OhxCTOd9DFYTiOuf7
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png" group-title="|地方频道|",青海卫视
-http://39.135.34.147:18890/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000013359&owchid=ystenlive&owsid=1106497909461374163&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhJ4u8mZ9HohO4vJAcHWQKsu0WB2heV8z3%2bnCiQyrISnc%2fLQjwPdTUSlBahL%2bKNKpM
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png" group-title="|地方频道|",四川卫视
-http://39.135.34.152:18890/000000001000/1000000002000016825/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000016825&owchid=ystenlive&owsid=1106497909461321397&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhwC686TkK%2f3k22PorZBLr8k69BtHofhbIyPVBrp9KppkHStTOpUrH7YEsmM6BR8Uo
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201706/26/59506dfaea3eb.png" group-title="|地方频道|",山西卫视
-http://39.135.34.150:18890/000000001000/1000000002000021220/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021220&owchid=ystenlive&owsid=1106497909461381684&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhBGE2Bozg3VsjEsUfSwW1u%2f9d7qakC2cNwU6d3XLtivLzsKwupm4i1w5mp8nPnKP8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1876f510.png" group-title="|地方频道|",新疆卫视
-http://39.135.34.146:18890/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000029441&owchid=ystenlive&owsid=1106497909461419044&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh5I4MdhcP3Mp5W80M2R4dfnt8vf6miKZMTn2f0J2ZVbDi2MMl6qImE0%2bmFOeDvrFW
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png" group-title="|地方频道|",云南卫视
-http://39.135.34.157:18890/000000001000/1000000002000024694/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000024694&owchid=ystenlive&owsid=1106497909461387812&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh5LeWQtTPRcwTT4zmEXlA%2fwzvDSa%2fxaofg6Rpl19xhoQ1lNgovjV%2baMdiH1BrPHH%2b
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png" group-title="|地方频道|",江西卫视
-http://39.135.34.158:18890/000000001000/1000000001000013731/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000013731&owchid=ystenlive&owsid=1106497909461316198&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRQxb4dqC07SZV%2bYcygMME6A9OMzcDPgMD6e%2f%2fHx5xyjuJRcCBeGZaKds6mdw4roN8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",福建东南卫视
-http://39.135.34.154:18890/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000009263&owchid=ystenlive&owsid=1106497909461310172&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhM1XYZKCRYYY%2ff447%2bzETLijqfFgMTSA9x9T2lf3pyhagZIF%2fdE1lc49i65lODYA%2f
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebbb11c454.png" group-title="|地方频道|",贵州卫视
-http://39.135.34.145:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd979fbf3.png" group-title="|地方频道|",甘肃卫视
-http://39.135.34.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/haolaiwu.png" group-title="|港台影视|",好莱坞影台HD
 http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HBOHD.png" group-title="|港台影视|",HBO Asia
@@ -386,8 +282,6 @@ http://61.58.60.230:9319/live/244.m3u8
 http://61.58.60.230:9319/live/206.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/DAAI2.png" group-title="|港台影视|",大愛二台
 http://61.58.60.230:9319/live/191.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fanshuTV.png" group-title="|港台影视|",番薯 TV
-http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/str.png" group-title="|港台影视|",卫视合家欢台HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ty.png" group-title="|港台影视|",天映高清
@@ -772,13 +666,13 @@ http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1
 http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000142
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CHC.jpg" group-title="|影视轮播|",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CHC.jpg" group-title="|港台影视|",CHC电影HD
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CHC.jpg" group-title="|影视轮播|",CHC电影HD
 rtmp://58.200.131.2:1935/livetv/chchd
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CHC.jpg" group-title="|港台影视|",CHC电影HD
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CHC.jpg" group-title="|影视轮播|",CHC电影HD
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CHC.jpg" group-title="|港台影视|",CHC家庭电影
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CHC.jpg" group-title="|影视轮播|",CHC家庭电影
 rtmp://58.200.131.2:1935/livetv/chctv
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CHC.jpg" group-title="|港台影视|",CHC动作电影
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CHC.jpg" group-title="|影视轮播|",CHC动作电影
 rtmp://58.200.131.2:1935/livetv/chcatv
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",科幻电影
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
