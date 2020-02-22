@@ -232,6 +232,8 @@ http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 http://192.200.120.82:8080/ZZ_shidai/ZZ_shidai.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fusi.png" group-title="|港台影视|",福斯動作電影
 http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FOXzf.png" group-title="|港台影视|",福斯犯罪电影
+https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499499=10-FoxCrime-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUANA.png" group-title="|港台影视|",华纳影剧
 http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fhdy.png" group-title="|港台影视|",凤凰电影
@@ -298,6 +300,8 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-tvN-mp4a_988
 http://stream.mastvnet.com/MSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HKGJ.png" group-title="|港台影视|",卫视国际电影台(阿拉伯)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|港台影视|",Models Inc
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FHWS1.png" group-title="|港台新闻|",凤凰卫视
 http://liveali.ifeng.com/live/FHZW.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FHWS1.png" group-title="|港台新闻|",凤凰卫视
@@ -530,6 +534,10 @@ http://gslbserv.itv.cmvideo.cn:80/000000001000/5897056882324761054/1.m3u8?channe
 http://gslbserv.itv.cmvideo.cn:80/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=7951969344462324357
 #EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【电影】
 http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/800/vCIBNDYPD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN好莱坞
+http://cibn.peoplevideo.cn:80/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN院线大片
+http://cibn.peoplevideo.cn:80/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【新知】
 http://cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【怡家】
