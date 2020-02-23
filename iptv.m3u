@@ -588,7 +588,7 @@ http://d2ajt1gpdtnw25.cloudfront.net:80/mbliveMain/hd/playlist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/str.png" group-title="|国外综合|",World SD
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Nat Geo.png" group-title="|国外综合|",美国野生频道
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Nat-Geo.png" group-title="|国外综合|",美国野生频道
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Nat-dili.png" group-title="|国外综合|",美国地理频道
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
