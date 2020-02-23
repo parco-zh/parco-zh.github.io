@@ -316,7 +316,50 @@ CHTV台湾台,http://220.158.149.14:9999/live/TV00000000000000000002@HHZT;LIVE
 新唐人旧金山臺,https://live.ntdimg.com/sflive990/playlist.m3u8
 新唐人美东臺,https://live.ntdimg.com/live400/playlist.m3u8
 新唐人美西臺,https://live.ntdimg.com/uwlive990/playlist.m3u8
+|港台备用|,#genre#
+HBO温馨家庭,P2p://sdgdklwos.finetv.tv:9906/59fd152900015243026723c45811069b
+HBO原創巨獻,P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
+HBO強檔巨獻,P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126
+FX HD,P2p://sdgdklwos.finetv.tv:9906/59fd279b000c06e702af33d47d4c770a
+FOX HD,P2p://sdgdklwos.finetv.tv:9906/59fd14cf000321f60265c4a24ca93407
+FOX優質電影,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5
+FOX家庭影院,P2p://sdgdklwos.finetv.tv:9906/59fd229f000615aa029bb9ed79916213
+FOX動作電影,P2p://sdgdklwos.finetv.tv:9906/59fd244900002be402a238767364317b
+FOX警匪電影,P2p://sdgdklwos.finetv.tv:9906/59fd14ae0007a794026544e32f606291
+國興衛視,P2p://sdgdklwos.finetv.tv:9906/59fd0565000d04390229912232d21634
+龍祥時代,P2p://sdgdklwos.finetv.tv:9906/59fd0d3200071b6e02480863224e5f4d
+衛視中文台HD,P2p://sdgdklwos.finetv.tv:9906/59fd0394000660a0022277050be47b46
+衛視電影台HD,P2p://sdgdklwos.finetv.tv:9906/59fd0369000ea5750221d12f32a532b8
+衛視閤家歡HD,P2p://sdgdklwos.finetv.tv:9906/59fd14190000e1040262fd2560d91f69
+衛視西片台HD,P2p://sdgdklwos.finetv.tv:9906/59fd1475000301e1026465123e2e3650
+天映经典,http://pull.scphsd.com/live/7ca7e3f1b9c65583f281a1d68ec9b1b8.flv
+无线新闻台,http://pull.scphsd.com/live/22862241f3a44aaba0df79698197d874.flv
+TVBS,P2p://sdgdklwos.finetv.tv:9906/59fd20d3000f24fd0294b75f4a555e2a
+TVBS新聞台HD,P2p://sdgdklwos.finetv.tv:9906/59fd096d0003aa9702394e013b6206a2
+TVBS精彩台,https://hdl0903.plures.net/onlive/db46944f33dd46aa0e8f6e86a805c1d3.flv
+TVB功夫台,https://pull.scphsd.com/live/5c57700caa72473c8843cbead1849f1b.flv
+非凡新聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd05f30007004f022bba4b77671d93
+台視新聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd299b00054a3002b7020e67d657e3
+年代新聞HD,P2p://sdgdklwos.finetv.tv:9906/5a56230e0004af51617ff5935a3e292e
+亞洲新聞HD,P2p://sdgdklwos.finetv.tv:9906/5a56d833000e41286443908c2a501e55
+民視新聞台HD,P2p://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401
+民視台灣台HD,P2p://sdgdklwos.finetv.tv:9906/59fd0670000decc5022da459628c3d1a
+民 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
+中 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019
+台 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd099c00008ebf023a04ce64d57ff4
+公 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d
+公 視3HD,P2p://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804
+壹 新 聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd08ad000509c00236604f613b08e7
+壹 綜 合HD,P2p://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
+东森电影,http://pull.scphsd.com/live/22862241f3a44aaba0df79698197d874.flv
+東森電影HD,P2p://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd
+東森戲劇HD,P2p://sdgdklwos.finetv.tv:9906/59fd17a500022c250270d8533c186ce9
+東森洋片HD,P2p://sdgdklwos.finetv.tv:9906/59fd17860002b83302705f6a03a560d2
+東森綜合HD,P2p://sdgdklwos.finetv.tv:9906/5a141ade0007bc435f8dff2d5b3453d7
+東森新聞HD,P2p://sdgdklwos.finetv.tv:9906/5a1427ee0009fb195fc1064a3af652d1
+東森財經HD,P2p://sdgdklwos.finetv.tv:9906/59fd1f94000ee56d028fd937397b7e63
 |亚洲综合|,#genre#
+Models Inc,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 高清时尚台,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 欧美MTV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 时尚电视,https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
@@ -328,6 +371,7 @@ HBO Hits,https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_24999
 HBO,http://95.170.215.118/hls/m3u8/HBO.m3u8
 HBO 2,http://95.170.215.118/hls/m3u8/HBO-2.m3u8
 HBO 3,http://95.170.215.118/hls/m3u8/HBO-3.m3u8
+FoxCrime,https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499499=10-FoxCrime-mp4a_98800_eng=3.m3u8
 新加坡8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 acna, https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 |国外新闻|,#genre#
@@ -374,6 +418,9 @@ Dubai Racing2[1920*1080],http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dub
 俄罗斯НовоеРадиоТВ音乐电视频道[1920*1080],http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 |CIBN TV|,#genre#
 CIBN【电影】,http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/800/vCIBNDYPD.m3u8
+CIBN【好莱坞】,http://cibn.peoplevideo.cn:80/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8
+CIBN【院线大片】,http://cibn.peoplevideo.cn:80/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8
+CIBN【艺术院线】,http://cinb1.peoplevideo.cn/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8
 CIBN【新知】,http://cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8
 CIBN【怡家】,http://cinb1.peoplevideo.cn/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8
 CIBN【精品影院】,http://cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8
