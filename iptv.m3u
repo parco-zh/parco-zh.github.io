@@ -190,11 +190,11 @@ http://ivi.bupt.edu.cn/hls/tjtv.m3u8
 http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
 #EXTINF:-1 tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg" group-title="|地方频道|",辽宁卫视
 http://ivi.bupt.edu.cn/hls/lntv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|地方频道|",厦门卫视
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/XMWS.png" group-title="|地方频道|",厦门卫视
 http://ivi.bupt.edu.cn/hls/xmtv.m3u8
 #EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1876f510.png" group-title="|地方频道|",新疆卫视
 http://ivi.bupt.edu.cn/hls/xjtv.m3u8
-#EXTINF:-1 tvg-logo="http://s0.xiaomitv.cc/pic/dongfangweishi.jpg" group-title="|地方频道|",东方卫视
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/dongfang.jpg" group-title="|地方频道|",东方卫视
 http://ivi.bupt.edu.cn/hls/dftv.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="|地方频道|",湖南卫视
 http://ivi.bupt.edu.cn/hls/hunantv.m3u8
@@ -300,7 +300,7 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-tvN-mp4a_988
 http://stream.mastvnet.com/MSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HKGJ.png" group-title="|港台影视|",卫视国际电影台(阿拉伯)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|港台影视|",Models Inc
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ID-T.png" group-title="|港台影视|",Models Inc
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FHWS1.png" group-title="|港台新闻|",凤凰卫视
 http://liveali.ifeng.com/live/FHZW.m3u8
@@ -412,13 +412,9 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/NEWS.png" group-title="|国外新闻|",美国Channel 11 News WPXI (Pittsburgh)
 http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",美国Cheddar电视
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/NEWS.png" group-title="|国外新闻|",美国Cheddar电视
 https://live.chdrstatic.com/cheddar/primary/4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",美国American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",美国Xcorps TV
-http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外新闻|",卡塔尔半岛电视台
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/babdao.png" group-title="|国外新闻|",卡塔尔半岛电视台
 http://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new1.png" group-title="|New TV|",动作电影
 http://121.31.30.91:8081/ysten-business/live/dongzuody/1.m3u8
@@ -534,9 +530,9 @@ http://gslbserv.itv.cmvideo.cn:80/000000001000/5897056882324761054/1.m3u8?channe
 http://gslbserv.itv.cmvideo.cn:80/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=7951969344462324357
 #EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【电影】
 http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/800/vCIBNDYPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN好莱坞
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【好莱坞】
 http://cibn.peoplevideo.cn:80/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN院线大片
+#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【院线大片】
 http://cibn.peoplevideo.cn:80/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【新知】
 http://cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8
@@ -584,42 +580,40 @@ http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FRANCE24.png" group-title="|国外综合|",FR-France24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",Times Now
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TIMES.png" group-title="|国外综合|",Times Now
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",Telesur
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TELESUR.png" group-title="|国外综合|",Telesur
 http://d2ajt1gpdtnw25.cloudfront.net:80/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",WORLD HD
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/str.png" group-title="|国外综合|",WORLD HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",World SD
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/str.png" group-title="|国外综合|",World SD
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Nat Geo.png" group-title="|国外综合|",美国野生频道
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",National Geographic
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Nat-dili.png" group-title="|国外综合|",美国地理频道
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",Newsmax
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/NEWS-tv.png" group-title="|国外综合|",Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/bandao.png" group-title="|国外综合|",半岛电视台英语
 https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/bandao.png" group-title="|国外综合|",半岛电视台
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",YTN韩文
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/YTN.png" group-title="|国外综合|",YTN韩文
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",HBO
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HBOHD.png" group-title="|国外综合|",HBO
 http://95.170.215.118/hls/m3u8/HBO.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",HBO 2
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HBO-2.png" group-title="|国外综合|",HBO 2
 http://95.170.215.118/hls/m3u8/HBO-2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",HBO 3
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HBO-3.png" group-title="|国外综合|",HBO 3
 http://95.170.215.118/hls/m3u8/HBO-3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|国外综合|",MNX Movies
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",WORLD HD
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/str.png" group-title="|国外综合|",WORLD HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",World SD
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/str.png" group-title="|国外综合|",World SD
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",CBS News
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CBS-news.png" group-title="|国外综合|",CBS News
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",BBC World News
-http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|国外综合|",Times Now
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|国外综合|",Nat Geo Wild
@@ -632,8 +626,6 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 http://stream3.kuvalda.tv/hls/disney.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/baby.png" group-title="|测试频道|",BabyFirst台湾
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|测试频道|",卡通4U
-https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|测试频道|",喵咪频道
 http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|测试频道|",国家地理杂志
