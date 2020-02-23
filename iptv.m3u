@@ -219,23 +219,23 @@ http://ivi.bupt.edu.cn/hls/bttv.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HNWS1.png" group-title="|地方频道|",海南卫视
 http://ivi.bupt.edu.cn/hls/lytv.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/haolaiwu.png" group-title="|港台影视|",好莱坞影台HD
-http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HBOHD.png" group-title="|港台影视|",HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HBOHI.png" group-title="|港台影视|",HBO Hits
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ebcyp.png" group-title="|港台影视|",东森洋片HD
-http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ebc.png" group-title="|港台影视|",东森电影HD
-http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/long.png" group-title="|港台影视|",龍祥時代電影
-http://192.200.120.82:8080/ZZ_shidai/ZZ_shidai.m3u8
+http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fusi.png" group-title="|港台影视|",福斯動作電影
-http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FOXzf.png" group-title="|港台影视|",福斯犯罪电影
 https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499499=10-FoxCrime-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUANA.png" group-title="|港台影视|",华纳影剧
-http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+http://192.154.103.75:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fhdy.png" group-title="|港台影视|",凤凰电影
 rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fhdy.png" group-title="|港台影视|",凤凰电影
@@ -311,7 +311,9 @@ http://liveali.ifeng.com/live/FHZX.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fhzixun.png" group-title="|港台新闻|",凤凰资讯
 http://liveali.ifeng.com/live/FHZX.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/zhongtian.png" group-title="|港台新闻|",中天新闻
-http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+http://lss.line-scdn.net/cc_tw/p/live/homcAOEHWMUMOVS9TNkAsdGVvO3EmXCUQYVp8dHI4biYjWCQUYA53LClqZyZ0XXdAZV53di8_aXdzTXZHa1d3cH07cHJyF3cXa0F_JnMnanlzCXYdYg/720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/zhongtian.png" group-title="|港台新闻|",中天新闻
+rtmp://59.124.75.156/sat/tv521
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/sanli.png" group-title="|港台新闻|",三立新闻
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TVBS.png" group-title="|港台新闻|",TVBS新闻
@@ -333,7 +335,7 @@ http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/dongsen.png" group-title="|港台新闻|",东森新闻
 http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/8da.png" group-title="|港台新闻|",八大综合台
-http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ztyl.png" group-title="|港台新闻|",CTI中天娱乐
 http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/cctv-13.png" group-title="|港台新闻|",央视新闻
