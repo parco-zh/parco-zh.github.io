@@ -320,8 +320,26 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/nexttv.png" group-title="|港台新闻|",臺新聞
 https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/dongsen.png" group-title="|港台新闻|",东森新闻
+http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUASHI.png" group-title="|港台新闻|",華視新聞
+http://lss.line-scdn.net/cc_tw/p/live/hH7hH7yHkFhkEXAgJPUkLLm4zSX0vBgJPPVNbLXYxSXwoCAdLaVQLeXU0SH8sAlNKa1dQK3EzTC95RFEdYF4LeXU3Vyh5HlBNYEhYe3EuTypzAVFPYFc/720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ZHONGSHI.png" group-title="|港台新闻|",中視新聞
+http://lss.line-scdn.net/cc_tw/p/live/hKyXWxmnMFVc1QwtHDVYIYF4mTmZMGwRTDExYNRQuSjIYFwQFWRpdMRUuQmRKHVZTXUhTYhQrT2BBW1JTUEFaNxIqVGZJAVMDUFdbMkgxSG1IH1IJWQ/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/minshi.png" group-title="|港台新闻|",民视新闻
 https://lss.line-scdn.net/cc_tw/p/live/h9TGudQ_LZ3ooYXlqEnR6TUFbah5WOykuFW98Hw8MOB8HbCQoRGp6GFgKak8EP3YkQGohTwsMME5WeSB-QD0gHlgEJktWIyEuT3UpH1cTOElXNyEsR2Mp/live-ba-fcd0692b4d3a11eaa4431b467c5b2f8719ce1940t0b7f8269_720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/MINSHI-tv.png" group-title="|港台新闻|",台湾民視
+http://lss.line-scdn.net/cc_tw/p/live/h6mhUZzm7aEMHQXZTPVR1dG55M3N5HykQak4ldyMsNyYoTytDYUIiISUpY3R5T31EOUoudiQsMXJ-WS9HYEN1cHF7KXJ5Ay4XYFUmJngzN3B4Fy4VaEMm/720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/MINSHI-tv.png" group-title="|港台新闻|",台湾民視
+rtmp://59.124.75.156/sat/tv051
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TAISHI.png" group-title="|港台新闻|",台湾台視
+rtmp://59.124.75.156/sat/tv071
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUASHI-tv.png" group-title="|港台新闻|",台湾華視
+http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUASHI-tv.png" group-title="|港台新闻|",台湾華視
+rtmp://59.124.75.156/sat/tv111
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ZHONGSHI-tv.png" group-title="|港台新闻|",台湾中視
+rtmp://59.124.75.156/sat/tv091
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/youxian.png" group-title="|港台新闻|",有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Acna.png" group-title="|港台新闻|",亚洲新闻频道
@@ -332,12 +350,18 @@ http://livecdn1.news.cn/cnccn/manifest.m3u8
 http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/hkwuxian.png" group-title="|港台新闻|",无线新闻
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/dongsen.png" group-title="|港台新闻|",东森新闻
-http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/8da.png" group-title="|港台新闻|",八大综合台
 http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ztyl.png" group-title="|港台新闻|",CTI中天娱乐
 http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ZTZH.png" group-title="|港台新闻|",中天綜合
+http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/taishicaijing.png" group-title="|港台新闻|",台視財經
+https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/dongsen1.png" group-title="|港台新闻|",東森財經
+rtmp://59.124.75.156/sat/tv571
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TVBS-huan.png" group-title="|港台新闻|",TVBS 歡樂
+rtmp://59.124.75.156/sat/tv421
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/cctv-13.png" group-title="|港台新闻|",央视新闻
 https://aldirect.hls.huya.com/backsrc/94525224-2687807366-11544044734917902336-2847699228-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/NHK.png" group-title="|港台新闻|",NHK华语频道
@@ -376,16 +400,6 @@ https://live2.ntdimg.com/cnlive/playlist.m3u8
 https://live.ntdimg.com/aplive200/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|港台新闻|",新唐人亚太臺
 https://live.ntdimg.com/aplive200/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|港台新闻|",新唐人加东臺
-https://live.ntdimg.com/mllive860/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|港台新闻|",新唐人加西臺
-https://live.ntdimg.com/cwlive220/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|港台新闻|",新唐人旧金山臺
-https://live.ntdimg.com/sflive990/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|港台新闻|",新唐人美东臺
-https://live.ntdimg.com/live400/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|港台新闻|",新唐人美西臺
-https://live.ntdimg.com/uwlive990/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNN-tu.png" group-title="|国外新闻|",CNN土耳其
 http://streams2.livetv.az/turk/cnn_stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNN-fei.png" group-title="|国外新闻|",CNN菲律宾
