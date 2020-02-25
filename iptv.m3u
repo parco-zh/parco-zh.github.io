@@ -176,12 +176,12 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ebc.png" group-title="|港台影视|",东森电影HD
 http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/long.png" group-title="|港台影视|",龍祥時代電影
-http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fusi.png" group-title="|港台影视|",福斯動作電影
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/long.png" group-title="|港台影视|",龍祥時代
+http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fusi.png" group-title="|港台影视|",福克斯動作
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUANA.png" group-title="|港台影视|",华纳影剧
-http://192.154.103.75:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fhdy.png" group-title="|港台影视|",凤凰电影
 https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/wsdy.png" group-title="|港台影视|",卫视电影
