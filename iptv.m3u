@@ -237,9 +237,9 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ID-T.png" group-title="|港台影视|",Models Inc
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FHWS1.png" group-title="|港台新闻|",凤凰卫视
-http://liveali.ifeng.com/live/FHZW.flv
+http://liveali.ifeng.com/live/FHZW.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fhzixun.png" group-title="|港台新闻|",凤凰资讯
-http://liveali.ifeng.com/live/FHZX.flv
+http://liveali.ifeng.com/live/FHZX.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/zhongtian.png" group-title="|港台新闻|",中天新闻
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/sanli.png" group-title="|港台新闻|",三立新闻
