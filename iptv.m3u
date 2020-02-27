@@ -255,7 +255,7 @@ https://ter.live2.ksmobile.net:443/yolo/96776f4be626f1e76f0acbfa3e880274.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUANYU2.png" group-title="|港台新闻|",寰宇新闻2
 https://ter.live2.ksmobile.net:443/yolo/ef3458e6c73cbdc151566892263ae8c0.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FEIFAN.png" group-title="|港台新闻|",非凡新闻
-https://ter.live2.ksmobile.net:443/yolo/c7b3aaadde487ed551c43ebe46cae1f8.flv
+vjms://58.215.133.185:8500:3502/live/cid=443
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/niandai.png" group-title="|港台新闻|",年代新聞
 https://hdl0903.plures.net:443/onlive/7a4ff01b0c755b79cd3df675df0ec556.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUASHI.png" group-title="|港台新闻|",華視新聞
