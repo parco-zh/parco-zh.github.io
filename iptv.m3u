@@ -265,13 +265,13 @@ https://ter.live2.ksmobile.net:443/yolo/057513e23ca1f48bf7b12b1d978f15c8.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/minshi.png" group-title="|港台新闻|",民视新闻
 https://ter.live2.ksmobile.net:443/yolo/8bb109cc8a9d30ff5db2beb7c85b9152.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/MINSHI-tv.png" group-title="|港台新闻|",台湾民視
-https://hdl0903.plures.net:443/onlive/6c6a4225a64b43678752eba6839c8f17.flv
+rtmp://59.124.75.156/sat/tv051
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TAISHI.png" group-title="|港台新闻|",台湾台視
 rtmp://59.124.75.156/sat/tv071
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUASHI-tv.png" group-title="|港台新闻|",台湾華視
-https://hdl0903.plures.net:443/onlive/60d94c79e535c0ffb4ef6742900e072f.flv
+rtmp://59.124.75.156/sat/tv111
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ZHONGSHI-tv.png" group-title="|港台新闻|",台湾中視
-https://hdl0903.plures.net:443/onlive/551e6dbbcf8af3a1b7071a85db58784f.flv
+rtmp://59.124.75.156/sat/tv091
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/youxian.png" group-title="|港台新闻|",有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Acna.png" group-title="|港台新闻|",亚洲新闻频道
