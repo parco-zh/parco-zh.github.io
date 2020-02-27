@@ -323,13 +323,19 @@ http://liveali.ifeng.com/live/FHZX.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/zhongtian.png" group-title="◀新闻频道▶",中天新闻
 http://lss.line-scdn.net/cc_tw/p/live/homcAOEHWMUMOVS9TNkAsdGVvO3EmXCUQYVp8dHI4biYjWCQUYA53LClqZyZ0XXdAZV53di8_aXdzTXZHa1d3cH07cHJyF3cXa0F_JnMnanlzCXYdYg/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/zhongtian.png" group-title="◀新闻频道▶",中天新闻
+http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/zhongtian.png" group-title="◀新闻频道▶",中天新闻
 rtmp://59.124.75.156/sat/tv521
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/zhongtian.png" group-title="◀新闻频道▶",中天新闻
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/sanli.png" group-title="◀新闻频道▶",三立新闻
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/sanli.png" group-title="◀新闻频道▶",三立新闻
+http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TVBS.png" group-title="◀新闻频道▶",TVBS新闻
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TVBS.png" group-title="◀新闻频道▶",TVBS新闻
+http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/nexttv.png" group-title="◀新闻频道▶",臺新聞
 https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/dongsen.png" group-title="◀新闻频道▶",东森新闻
