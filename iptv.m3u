@@ -170,6 +170,8 @@ http://cstvpull.live.wscdns.com/live/xiamen3.flv
 http://cstvpull.live.wscdns.com/live/xiamenyidong.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/haolaiwu.png" group-title="|港台影视|",好莱坞影台HD
 http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HBO-Asia.png" group-title="|港台影视|",HBO Asia
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/MNX.png" group-title="|港台影视|",好莱坞MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ebcyp.png" group-title="|港台影视|",东森洋片HD
