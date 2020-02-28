@@ -184,7 +184,7 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUANA.png" group-title="|港台影视|",华纳影剧
 http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/BLUE.png" group-title="|港台影视|",华纳影剧
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/BLUE.png" group-title="|港台影视|",Blue 美剧频道
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fhdy.png" group-title="|港台影视|",凤凰电影
 https://116.77.72.195/streams/d/fhdy/playlist.m3u8
