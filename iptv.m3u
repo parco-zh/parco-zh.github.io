@@ -432,13 +432,17 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/boome.png" group-title="|动画频道|",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",迪士尼频道
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|动画频道|",TCT孩子们
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|动画频道|",tvo KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",迪士尼频道Россия
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",Knowledge Kids
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",迪士尼频道
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",迪士尼频道（俄罗斯）
 http://stream3.kuvalda.tv/hls/disney.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/baby.png" group-title="|动画频道|",BabyFirst台湾
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
@@ -446,26 +450,81 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|动画频道|",喵咪频道
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ANIMAX.png" group-title="|动画频道|",Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499499=11-Animax-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",儿歌大全
-http://153.99.174.196/cdn-out.iqy.sc96655.com/tslive/c15_lb_ergedaquan_1080p_t10/c15_lb_ergedaquan_1080p_t10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",喜羊羊
-http://153.99.174.196/cdn-out.iqy.sc96655.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",动画-大头儿子
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_datouerzi_1080p_t10/c16_lb_datouerzi_1080p_t10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",动画-名侦探柯南
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9757cdb6f.png" group-title="|动画频道|",金鹰卡通
-http://117.169.124.37:6610/ysten-businessmobile/live/jinyingkaton/yst.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201804/23/5add7c96b4c8c.png" group-title="|动画频道|",炫动卡通
-http://player.ioioz.com/18/tv.php?tv=shydbst&id=xdkt
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201804/23/5add7c96b4c8c.png" group-title="|动画频道|",炫动卡通
-http://117.169.124.37:6610/ysten-businessmobile/live/xuandongkaton/yst.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",靖天卡通HD
+http://61.58.60.230:9319/live/207.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",靖洋卡通HD
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",睡前故事
+http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",公主城堡
+http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",炫佳动漫
+http://cinb1.peoplevideo.cn/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",童学世界
+http://cinb1.peoplevideo.cn/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",朵丫乐园
+http://cinb1.peoplevideo.cn/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",动漫剧场
+http://bohi321.hk77.ok188.top/cibn/cibn.php?id=7
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",iHOT爱动漫
+http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",iHOT爱幼教
+http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",CIBN朵丫乐园
+http://cinb1.peoplevideo.cn/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",CIBN朵丫乐园
+http://bohi321.hk77.ok188.top/cibn/cibn.php?id=28
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",CIBN童学世界
+http://cinb1.peoplevideo.cn/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",CIBN童学世界
+http://bohi321.hk77.ok188.top/cibn/cibn.php?id=12
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",CIBN炫佳动漫
+http://cinb1.peoplevideo.cn/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",CIBN炫佳动漫
+http://bohi321.hk77.ok188.top/cibn/cibn.php?id=19
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",广东少儿
+http://nclive.grtn.cn/tvs5/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png" group-title="|动画频道|",卡酷少儿
-http://117.169.124.37:6610/ysten-businessmobile/live/kakukaton/yst.m3u8
+http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png" group-title="|动画频道|",卡酷少儿
+http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",FZTV-少儿
+http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",猫和老鼠
+http://jcloudcdnct.inter.iqiyi.com/tslive/c19_lb_maohelaoshu_720p_t10/c19_lb_maohelaoshu_720p_t10.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",火神君
+https://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",龙珠
+http://tx.hls.huya.com/huyalive/29169025-2686220712-11537230107877834752-3048959618-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",名侦探柯南
+http://jvc.flashapp.cn/baiducdnct.inter.iqiyi.com/tslive/c20_lb_mingzhentankenan_720p_t10/c20_lb_mingzhentankenan_720p_t10.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",喜羊羊与灰太狼
+http://jcloudcdnct.inter.iqiyi.com/tslive/c20_lb_xiyangyang_high_t10/c20_lb_xiyangyang_high_t10.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",哈哈炫动
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9757cdb6f.png" group-title="|动画频道|",金鹰卡通
+http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9757cdb6f.png" group-title="|动画频道|",金鹰卡通
+http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9757cdb6f.png" group-title="|动画频道|",金鹰卡通
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 #EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9b68c9178.png" group-title="|动画频道|",优漫卡通
-http://117.169.124.37:6610/ysten-businessmobile/live/youmankaton/yst.m3u8
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9b68c9178.png" group-title="|动画频道|",优漫卡通
+http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9b68c9178.png" group-title="|动画频道|",优漫卡通
+http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9b68c9178.png" group-title="|动画频道|",优漫卡通
+http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9b68c9178.png" group-title="|动画频道|",优漫卡通
+http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9b68c9178.png" group-title="|动画频道|",优漫卡通
+http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9b68c9178.png" group-title="|动画频道|",优漫卡通
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|动画频道|",儿歌大全
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_ergedaquan_1080p_t10/c15_lb_ergedaquan_1080p_t10.m3u8
+
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/dwxq.png" group-title="|动画频道|",动物星球
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|动画频道|",国家地理
