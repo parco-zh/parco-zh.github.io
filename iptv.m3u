@@ -436,55 +436,55 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/boome.png" group-title="|动画频道|",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",TCT孩子们
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TCT.png" group-title="|动画频道|",TCT孩子们
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",tvo KIDS
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TVO.png" group-title="|动画频道|",tvo KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",EBS KIDS
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/EBS.png" group-title="|动画频道|",EBS KIDS
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",Knowledge Kids
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/KIDS.png" group-title="|动画频道|",Knowledge Kids
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",迪士尼频道
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/DISHINI.png" group-title="|动画频道|",迪士尼频道
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",迪士尼频道（俄罗斯）
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/DISHINI.png" group-title="|动画频道|",迪士尼频道（俄罗斯）
 http://stream3.kuvalda.tv/hls/disney.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/baby.png" group-title="|动画频道|",BabyFirst台湾
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",喵咪频道
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/MIAOMI.png" group-title="|动画频道|",喵咪频道
 http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",喵咪频道
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/MIAOMI.png" group-title="|动画频道|",喵咪频道
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",靖天卡通HD
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/jingtiankatong.png" group-title="|动画频道|",靖天卡通HD
 http://61.58.60.230:9319/live/207.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",靖洋卡通HD
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/JYKT.png" group-title="|动画频道|",靖洋卡通HD
 http://61.58.60.230:9319/live/206.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjMXQ2d2qv8-AWoxKOWboph0KAwgc6qJ7DWL1AZf6w0mCMqIl1" group-title="|动画频道|",Tom & Jerry
+#EXTINF:-1 logo="https://parco-zh.github.io/demo/NIMO.png" group-title="|动画频道|",Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSn99xMsFA0pQ-0_Gc4ltchIQJIpV8q1Nz7DBWvowR06B_m0Vbz" group-title="|动画频道|",Larva
+#EXTINF:-1 logo="https://parco-zh.github.io/demo/NIMO.png" group-title="|动画频道|",Larva
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJqNAuYEtH1bocPiCtvcnDzIS67pQOtj1F-RvOPP79-63tXMIV" group-title="|动画频道|", Dragon Ball
+#EXTINF:-1 logo="https://parco-zh.github.io/demo/NIMO.png" group-title="|动画频道|", Dragon Ball
 http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZAP0JO0-GkvS-F2y4TYpYqZ82gSnQgmX5-vY0VLU2Kph3ZdJi" group-title="|动画频道|",Captain Tsubasa
+#EXTINF:-1 logo="https://parco-zh.github.io/demo/NIMO.png" group-title="|动画频道|",Captain Tsubasa
 http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8-0QbwU_pnZvfXmzjGziziVYqEtgzq0uLW40LFpPp5c_CP8W2" group-title="|动画频道|",Detectif Conan 1
+#EXTINF:-1 logo="https://parco-zh.github.io/demo/NIMO.png" group-title="|动画频道|",Detectif Conan 1
 http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRcpxjgYQy8hCdcTtrhjKekl9A3XlXlVZJ7EqeorXVJ1wTv1S7" group-title="|动画频道|",Detectif Conan 2
+#EXTINF:-1 logo="https://parco-zh.github.io/demo/NIMO.png" group-title="|动画频道|",Detectif Conan 2
 http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMaVEQyf4zZJdkOj2ft61g438KXqcI_Nv8Cmmk37I9K-azdHIg" group-title="|动画频道|",Detectif Conan 3
+#EXTINF:-1 logo="https://parco-zh.github.io/demo/NIMO.png" group-title="|动画频道|",Detectif Conan 3
 http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSK9L796tvhaFUJz1jr9_HatWJyluE_DQh6cH8cMRkuzT0_g5wN" group-title="|动画频道|",Doraemon Series
+#EXTINF:-1 logo="https://parco-zh.github.io/demo/NIMO.png" group-title="|动画频道|",Doraemon Series
 http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjauqNv1_JTtt62fuMHpMkeYLqqS3eRWOeHVvL4T9PWAOa7wQQ" group-title="|动画频道|",Doraemon Movie
+#EXTINF:-1 logo="https://parco-zh.github.io/demo/NIMO.png" group-title="|动画频道|",Doraemon Movie
 http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0OEtUnN-gRkqMJpmh-ZT7mmwxl6gqjD97yB9GZaa02jTrBXpC" group-title="|动画频道|",Hunter X Hunter
+#EXTINF:-1 logo="https://parco-zh.github.io/demo/NIMO.png" group-title="|动画频道|",Hunter X Hunter
 http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTD98VKg11wqpshxiFOSCVZ4h6IvW7H_1-qT5sdcit8JrFSh4Ek" group-title="|动画频道|",Inuyasha
+#EXTINF:-1 logo="https://parco-zh.github.io/demo/NIMO.png" group-title="|动画频道|",Inuyasha
 http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCO6Co25pno__W5dyn5AxGnHyPWiUrst4E6P1w01e5kloBAbMR" group-title="|动画频道|", Totally Spies
+#EXTINF:-1  tvg-logo="https://parco-zh.github.io/demo/NIMO.png" group-title="|动画频道|", Totally Spies
 http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBzp7BGwolru9XytjrckBBty17cJNgo2O57XQkEkMA2v7RtXJH" group-title="|动画频道|", One Piece
+#EXTINF:-1  tvg-logo="https://parco-zh.github.io/demo/NIMO.png" group-title="|动画频道|", One Piece
 http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0S1bAQA1Xjjfcf_C0agfo0lkMvzsx6G9_bjNXz5O12DC9QCMC" group-title="|动画频道|", One Punch Man
+#EXTINF:-1  tvg-logo="https://parco-zh.github.io/demo/NIMO.png" group-title="|动画频道|", One Punch Man
 http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
 #EXTINF:-1 tvg-logo="" group-title="|动画频道|",睡前故事
 http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
