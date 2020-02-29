@@ -193,7 +193,7 @@ http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fhdy.png" group-title="|港台影视|",凤凰电影
 rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/wsdy.png" group-title="|港台影视|",卫视电影
-https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM-avc1_2499968=12-mp4a_98800_eng=3.m3u8
+http://pull.scphsd.com/live/ab262525b64f6cb1427deb772d73e100.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TVBxinghe.png" group-title="|港台影视|",TVB星河
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/emei.png" group-title="|港台影视|",峨眉电影HD
@@ -796,22 +796,14 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",Reality TV 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",Aniu TV
-http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",AYSAR Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",AYSAR Hollywood Movies 7
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",AYSAR MOVIE 4
-http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",AYSAR MOVIE 6
 http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",AYSAR MOVIE 7
 http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",AYSAR Movie 9
 http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",MASTV
-http://stream.mastvnet.com/MSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",DOX院线
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8a7d213b10550559a073db188d08d5f7
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",DOX雅趣
@@ -828,14 +820,8 @@ http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=21e5f6a02640bf440df4c079b4c3ad2
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b17975299a9ac369dc
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",DOX美剧
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966813425bdccd
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",DOXTV高清
-http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&progamid=4200000126
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",BabyFirst
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-周星驰
-https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-李连杰
-https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-成龙
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",金庸电影
