@@ -35,7 +35,7 @@ http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000205003.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV17.png" group-title="|央视频道|",CCTV- 17农业农村高清
 http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/017/2000204203.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV4K.png" group-title="|央视频道|",CCTV-4K
-http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/bjbtv.jpg" group-title="|地方频道|",北京卫视
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvwenyi.png" group-title="|地方频道|",北京文艺
@@ -202,7 +202,7 @@ http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/xg.png" group-title="|港台影视|",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/x8.png" group-title="|港台影视|",新加坡8频道(普通话)
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/x8.png" group-title="|港台影视|",新加坡8频道
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/amlh.png" group-title="|港台影视|",澳门莲花
 http://3663862899.cloudvdn.com/a.m3u8?domain=live-rtmp.lotustv.duolaibo.cn&player=q6sAAGzrigsPF-oV&secondToken=secondToken%3A3wMGBguTN12pZdXEnVBkfkV5nOg&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
@@ -336,6 +336,8 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fs
 https://live2.ntdimg.com/cnlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|港台新闻|",新唐人亚太
 https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNN-tu.png" group-title="|国外新闻|",CNN
+https://116.77.72.195/streams/d/cnn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNN-tu.png" group-title="|国外新闻|",CNN土耳其
 http://streams2.livetv.az/turk/cnn_stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNN-fei.png" group-title="|国外新闻|",CNN菲律宾
@@ -784,26 +786,10 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",WORLD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",韩国其他
-http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",好莱坞1台
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",日本CINEMA 洋片
 http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",新加坡8频道(普通话)
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",Kuroko\’s Basketball
-http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",Reality TV 2
-http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",AYSAR Hollywood Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",AYSAR MOVIE 6
-http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",AYSAR MOVIE 7
-http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",AYSAR Movie 9
-http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",DOX院线
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8a7d213b10550559a073db188d08d5f7
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",DOX雅趣
@@ -820,34 +806,8 @@ http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=21e5f6a02640bf440df4c079b4c3ad2
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b17975299a9ac369dc
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",DOX美剧
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966813425bdccd
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",BabyFirst
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-成龙
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",金庸电影
-https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-黄渤
-https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-吴京
-https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-周润发
-https://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-刘德华
-https://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-徐峥
-https://aldirect.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-洪金宝
-https://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-甄子丹
-https://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-林正英
-https://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-林正英2
-https://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-超级英雄
-https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-女神系列2
-https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-神探狄仁杰
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_shentandirenjie_1080p_t10/c16_lb_shentandirenjie_1080p_t10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-好莱坞大片
@@ -866,20 +826,10 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-五星影院
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-灾难
-https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-经典港片
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-喜剧
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-生化危机
-https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-速度与激情
-https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-死神来了
-https://txdirect.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-重案六组
-https://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-周末影院
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-抗战剧场

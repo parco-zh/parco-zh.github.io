@@ -155,6 +155,7 @@ TVB星河,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 大愛二台,http://61.58.60.230:9319/live/191.m3u8
 卫视合家欢台HD,http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+HBO,http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 HBO,vjms://58.215.133.185:8500:3502/live/cid=261
 HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181
@@ -164,7 +165,6 @@ HBO BALL,vjms://58.215.133.185:8500:3502/live/cid=436
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 星影,rtp://239.3.1.94:4120
-FOX动作电影,tvbus://12rkwBGpNvaenr1ERtQvtqPtr9yFZh8x9ayYwGxVFRDeY81EXjo
 TVB星河,msc://CXHMovie
 TVB韩剧台,msc://CKDrama5
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
@@ -249,10 +249,10 @@ BabyFirst台湾,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 新加坡8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 acna, https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 |国外新闻|,#genre#
+CNN美国,https://116.77.72.195/streams/d/cnn/playlist.m3u8
 CNN菲律宾,http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 CNN菲律宾,rtmp://54.251.134.121/live/15273.sdp
 CNN土耳其,http://streams2.livetv.az/turk/cnn_stream/playlist.m3u8
-CNN美国,https://116.77.72.195/streams/d/cnn/playlist.m3u8
 Animax,https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499499=11-Animax-mp4a_98800_eng=3.m3u8
 BloombergTV,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -373,7 +373,6 @@ CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC家庭电影,rtmp://58.200.131.2:1935/livetv/chctv
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 贺岁影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
-公主城堡,http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
 周末影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
 好莱坞片,http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
 院线大片,http://cibn.peoplevideo.cn/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
@@ -385,21 +384,11 @@ CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 喜剧影院,http://cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
 古装剧场,http://cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
 骄阳剧场,http://cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-新加坡8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-新加坡5频道,https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
-新加坡星空(HD),http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
-新加坡星空(SD),http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-日本CINEMA 洋片,http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
-Aniu TV,http://cclive.aniu.tv/live/anzb.m3u8
-DOX院线,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8a7d213b10550559a073db188d08d5f7
-DOX雅趣,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=98a5538384f14ca487ca96786a441bbe
-DOX新知,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8df92ef18e714e80bc302723d5e933ee
-DOX新艺,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=3fec5428637fe3d00cea8deb981ca71c
-DOX怡家,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=9c6e3fd0b37dd8b7e4bc1f06c44cb6cf
-DOX英伦,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=21e5f6a02640bf440df4c079b4c3ad23
-DOX映画,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b17975299a9ac369dc
-DOX美剧,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966813425bdccd
-DOXTV高清,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&progamid=4200000126
+成龙作品,http://stream.guihet.com/migu/index.php?id=639528181
+刘德华作品,http://stream.guihet.com/migu/index.php?id=659315648
+周星驰影院,http://stream.guihet.com/migu/index.php?id=623338112
+吴京作品集,http://stream.guihet.com/migu/index.php?id=625681368
+古天乐,http://47.240.60.73/migu.php?id=627198610
 电影-成龙,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 电影-好莱坞大片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
 电影-怀旧剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
