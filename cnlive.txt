@@ -134,6 +134,7 @@ CCTV-4K,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 龍祥時代電影,http://iptv.52qdg.com/iptv.php?id=tw&pamid=014
 龍祥時代電影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
 福斯動作電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+CATCHPLAY電影台,p2p://sdgdklwos.finetv.tv:9906/59fd26e9000849d802ac7b8a43f34f6a
 好莱坞MNX,https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 浪漫喜剧台Romedy Now,https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 FOX电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
@@ -191,13 +192,16 @@ TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 东森新闻,http://iptv.52qdg.com/iptv.php?id=tw&pamid=003
 壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8#https://usb.bozztv.com/ssh101/NEXTTV/NEXTTV/playlist.m3u8
-年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+中視新聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd2282000219b8029b479b6fc21d86
+年代新聞HD,p2p://sdgdklwos.finetv.tv:9906/5a56230e0004af51617ff5935a3e292e
+民視新聞台HD,p2p://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401
 台湾民視,rtmp://59.124.75.156/sat/tv051
 台湾台視,rtmp://59.124.75.156/sat/tv071
 台湾華視,rtmp://59.124.75.156/sat/tv111
 台湾華視,http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
 台湾中視,rtmp://59.124.75.156/sat/tv091
 非凡新闻,vjms://58.215.133.185:8500:3502/live/cid=443
+寰宇娱乐,http://hls.jingchangkan.tv/jingchangkan/156725993_5Xjy/index.m3u8
 中华卫视台湾,http://pull.leshantangjt.com/live/playlist.m3u8
 全美電視,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
@@ -250,6 +254,7 @@ BabyFirst台湾,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 acna, https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 |国外新闻|,#genre#
 CNN美国,https://116.77.72.195/streams/d/cnn/playlist.m3u8
+CNN HD,p2p://sdgdklwos.finetv.tv:9906/59fd16db000b5f05026dc5a57b516fdb
 CNN菲律宾,http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 CNN菲律宾,rtmp://54.251.134.121/live/15273.sdp
 CNN土耳其,http://streams2.livetv.az/turk/cnn_stream/playlist.m3u8
@@ -399,6 +404,9 @@ CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 电影-五星影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 |动画频道|,#genre#
 迪士尼频道,p2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
+东森幼幼,p2p://190.2.146.92:18912/5c724866000564111d5255b84de26a1c.ts
+MOMO亲子,p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55.ts
+MY KIDS,p2p://sdgdklwos.finetv.tv:9906/59fd3515000d559a02e3d8b272784315
 妙米频道,http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8
 Boomerang,http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8#http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 EBS KIDS,http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8#http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
