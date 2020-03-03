@@ -32,7 +32,7 @@ CCTV-15音乐高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000205003.
 CCTV-15音乐高清,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/015/2000205003.m3u8
 CCTV- 17农业农村高清,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/017/2000204203.m3u8
 CCTV- 17农业农村高清,http://117.169.124.37:6610/ysten-businessmobile/live/HD-4000k-1080P-cctv17/1.m3u8
-CCTV-4K,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+CCTV-4K,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 |地方频道|,#genre#
 北京卫视HD,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
@@ -170,6 +170,7 @@ TVB韩剧台,msc://CKDrama5
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+翡翠台,http://103.145.38.45/dl/xg.php?id=1
 翡翠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 日本CINEMA 洋片,http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
 日本CINEMA 洋片,http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
@@ -409,6 +410,7 @@ DOXTV高清,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU3
 电影-经典重温,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
 电影-五星影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 |动画频道|,#genre#
+迪士尼频道,p2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
 妙米频道,http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8
 Boomerang,http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8#http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 EBS KIDS,http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8#http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
