@@ -1,21 +1,21 @@
 #EXTM3U tvg-logo="https://parco-zh.github.io/demo/"
 
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV1.jpg" group-title="|央视频道|",CCTV-1综合高清
-http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+rtmp://58.200.131.2:1935/livetv/cctv1hd
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV2.jpg" group-title="|央视频道|",CCTV-2财经高清
-http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+rtmp://58.200.131.2:1935/livetv/cctv2hd
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV3.jpg" group-title="|央视频道|",CCTV-3综艺高清
-http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+rtmp://58.200.131.2:1935/livetv/cctv3hd
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV4.jpg" group-title="|央视频道|",CCTV-4中文国际高清
-http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+rtmp://58.200.131.2:1935/livetv/cctv4hd
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV5.jpg" group-title="|央视频道|",CCTV-5体育高清
-http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+rtmp://58.200.131.2:1935/livetv/cctv5hd
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV5+.png" group-title="|央视频道|",CCTV- 5+体育赛事高清
-http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000204503.m3u8
+rtmp://58.200.131.2:1935/livetv/cctv5phd
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV6.jpg" group-title="|央视频道|",CCTV- 6电影高清
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV7.jpg" group-title="|央视频道|",CCTV- 7国防军事高清
-http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/007/2000510003.m3u8
+rtmp://58.200.131.2:1935/livetv/cctv7hd
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV8.jpg" group-title="|央视频道|",CCTV-8电视剧高清
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV9.jpg" group-title="|央视频道|",CCTV-9纪录高清
@@ -23,19 +23,19 @@ http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV10.jpg" group-title="|央视频道|",CCTV-10科教高清
 http://cctvcnch5ca.v.wscdns.com/live/cctv10_2/10793.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV11.jpg" group-title="|央视频道|",CCTV-11戏曲高清
-http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/011/2000204103.m3u8
+戏曲,rtmp://58.200.131.2:1935/livetv/cctv11
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV12.jpg" group-title="|央视频道|",CCTV-12社会与法高清
-http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/012/2000202603.m3u8
+rtmp://58.200.131.2:1935/livetv/cctv12hd
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV13.jpg" group-title="|央视频道|",CCTV-13新闻高清
-http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000204603.m3u8
+rtmp://58.200.131.2:1935/livetv/cctv13
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV14.png" group-title="|央视频道|",CCTV-14少儿高清
-http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/014/2000204403.m3u8
+rtmp://58.200.131.2:1935/livetv/cctv14hd
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV15.png" group-title="|央视频道|",CCTV-15音乐高清
-http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000205003.m3u8
+rtmp://58.200.131.2:1935/livetv/cctv15
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV17.png" group-title="|央视频道|",CCTV- 17农业农村高清
-http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/017/2000204203.m3u8
+https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV4K.png" group-title="|央视频道|",CCTV-4K
-http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+https://hls.cntv.myalicdn.com/asp/hls/8000/0303000a/3/default/c698d3595f504fd09044e0b6615040f0/8000.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/bjbtv.jpg" group-title="|地方频道|",北京卫视
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/btvwenyi.png" group-title="|地方频道|",北京文艺
