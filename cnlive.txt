@@ -1,53 +1,70 @@
 
 |央视频道|,#genre#
-CCTV-1综合高清,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-CCTV-1综合高清,http://cctvcnch5ca.v.wscdns.com/live/cctv1_2/10793.m3u8
-CCTV-1综合高清,rtmp://58.200.131.2:1935/livetv/cctv1hd
-CCTV-2财经高清,http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
-CCTV-2财经高清,rtmp://58.200.131.2:1935/livetv/cctv2hd
-CCTV-3综艺高清,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-CCTV-3综艺高清,rtmp://58.200.131.2:1935/livetv/cctv3hd
-CCTV-4中文国际高清,http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-4中文国际高清,rtmp://58.200.131.2:1935/livetv/cctv4hd
-CCTV-4中文国际高清,http://cctvcnch5ca.v.wscdns.com/live/cctv4_2/10793.m3u8
-CCTV-5体育高清,http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8
-CCTV-5体育高清,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv5hd
-CCTV-5体育高清,rtmp://58.200.131.2:1935/livetv/cctv5hd
-CCTV- 5+体育赛事高清,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-CCTV- 5+体育赛事高清,rtmp://58.200.131.2:1935/livetv/cctv5phd
-CCTV- 6电影高清,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-CCTV- 6电影高清,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv6hd
-CCTV- 6电影高清,http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8
-CCTV- 7国防军事高清,http://cctvcnch5ca.v.wscdns.com/live/cctv7_2/10793.m3u8
-CCTV- 7国防军事高清,rtmp://58.200.131.2:1935/livetv/cctv7hd
-CCTV-8电视剧高清,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-CCTV-8电视剧高清,rtmp://58.200.131.2:1935/livetv/cctv8hd
-CCTV-9纪录高清,http://cctvcnch5ca.v.wscdns.com/live/cctvjilu_2/10793.m3u8
-CCTV-9纪录高清,rtmp://58.200.131.2:1935/livetv/cctv9hd
-CCTV-9纪录高清,http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
-CCTV-10科教高清,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10hd
-CCTV-10科教高清,http://cctvcnch5ca.v.wscdns.com/live/cctv10_2/10793.m3u8
-CCTV-11戏曲高清,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-CCTV-11戏曲高清,http://cctvcnch5ca.v.wscdns.com/live/cctv11_2/10793.m3u8
-CCTV-11戏曲高清,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-CCTV-12社会与法高清,http://cctvcnch5ca.v.wscdns.com/live/cctv12_2/10793.m3u8
-CCTV-12社会与法高清,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12hd
-CCTV-12社会与法高清,http://101.71.255.229:6610/zjhs/2/10071/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-13新闻高清,http://cctvcnch5ca.v.wscdns.com/live/cctv13_2/10793.m3u8
-CCTV-13新闻高清,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-CCTV-13新闻高清,rtmp://58.200.131.2:1935/livetv/cctv13
-CCTV-14少儿高清,http://101.71.255.229:6610/zjhs/2/10070/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-14少儿高清,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14hd
-CCTV-14少儿高清,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-14/1.m3u8
-CCTV-15音乐高清,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-15音乐高清,http://cctvcnch5ca.v.wscdns.com/live/cctv15_2/10793.m3u8
-CCTV-15音乐高清,rtmp://58.200.131.2:1935/livetv/cctv15
-CCTV- 17农业农村高清,https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
-CCTV- 17农业农村高清,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+CCTV-1综合,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+CCTV-1综合,http://cctvcnch5ca.v.wscdns.com/live/cctv1_2/10793.m3u8
+CCTV-1综合,rtmp://58.200.131.2:1935/livetv/cctv1hd
+CCTV-2财经,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+CCTV-2财经,http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
+CCTV-2财经,rtmp://58.200.131.2:1935/livetv/cctv2hd
+CCTV-3综艺,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+CCTV-3综艺,rtmp://58.200.131.2:1935/livetv/cctv3hd
+CCTV-4国际,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV-4国际,http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-4国际,rtmp://58.200.131.2:1935/livetv/cctv4hd
+CCTV-4国际,http://cctvcnch5ca.v.wscdns.com/live/cctv4_2/10793.m3u8
+CCTV-5体育,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+CCTV-5体育,http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8
+CCTV-5体育,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv5hd
+CCTV-5体育,rtmp://58.200.131.2:1935/livetv/cctv5hd
+CCTV-5+体育,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+CCTV-5+体育,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+CCTV-5+体育,rtmp://58.200.131.2:1935/livetv/cctv5phd
+CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+CCTV-6电影,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv6hd
+CCTV-6电影,http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8
+CCTV-7军事,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV-7军事,http://cctvcnch5ca.v.wscdns.com/live/cctv7_2/10793.m3u8
+CCTV-7军事,rtmp://58.200.131.2:1935/livetv/cctv7hd
+CCTV-8电视剧,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+CCTV-8电视剧,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+CCTV-8电视剧,rtmp://58.200.131.2:1935/livetv/cctv8hd
+CCTV-9记录,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+CCTV-9纪录,http://cctvcnch5ca.v.wscdns.com/live/cctvjilu_2/10793.m3u8
+CCTV-9纪录,rtmp://58.200.131.2:1935/livetv/cctv9hd
+CCTV-9纪录,http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+CCTV-10科教,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+CCTV-10科教,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10hd
+CCTV-10科教,http://cctvcnch5ca.v.wscdns.com/live/cctv10_2/10793.m3u8
+CCTV-11戏曲,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+CCTV-11戏曲,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+CCTV-11戏曲,http://cctvcnch5ca.v.wscdns.com/live/cctv11_2/10793.m3u8
+CCTV-11戏曲,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+CCTV-12社会与法,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+CCTV-12社会与法,http://cctvcnch5ca.v.wscdns.com/live/cctv12_2/10793.m3u8
+CCTV-12社会与法,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12hd
+CCTV-12社会与法,http://101.71.255.229:6610/zjhs/2/10071/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-13新闻,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV-13新闻,http://cctvcnch5ca.v.wscdns.com/live/cctv13_2/10793.m3u8
+CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+CCTV-13新闻,rtmp://58.200.131.2:1935/livetv/cctv13
+CCTV-14少儿,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+CCTV-14少儿,http://101.71.255.229:6610/zjhs/2/10070/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-14少儿,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14hd
+CCTV-14少儿,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-14/1.m3u8
+CCTV-15音乐,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+CCTV-15音乐,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-15音乐,http://cctvcnch5ca.v.wscdns.com/live/cctv15_2/10793.m3u8
+CCTV-15音乐,rtmp://58.200.131.2:1935/livetv/cctv15
+CCTV-17农业,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+CCTV-17农业,https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
+CCTV-17农业,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 CGTN-新闻,rtmp://58.200.131.2:1935/livetv/cctv16
-CETV-1,rtmp://58.200.131.2:1935/livetv/cetv1
-CETV-3,rtmp://58.200.131.2:1935/livetv/cetv3
-CETV-4,rtmp://58.200.131.2:1935/livetv/cetv4
+CETV-1教育,rtmp://58.200.131.2:1935/livetv/cetv1
+CETV-3教育,rtmp://58.200.131.2:1935/livetv/cetv3
+CETV-4教育,rtmp://58.200.131.2:1935/livetv/cetv4
+CCTV-4K,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV-4K,https://hls.cntv.myalicdn.com/asp/hls/8000/0303000a/3/default/c698d3595f504fd09044e0b6615040f0/8000.m3u8
 |地方频道|,#genre#
 北京卫视HD,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
@@ -175,6 +192,10 @@ HBO BALL,vjms://58.215.133.185:8500:3502/live/cid=436
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+邵氏电影 ,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
+世界电影频道,http://45.126.83.51:443/uq2663/h/h04/01.m3u8
+韩国K+,http://210.210.155.35/uq2663/h/h08/index1.m3u8
+韩国K+,http://45.126.83.51:443/uq2663/h/h08/01.m3u8
 恐怖电影台,http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
 好莱坞MNX,https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 浪漫喜剧台Romedy Now,https://timesnow.airtel.tv/live/RN_pull/master.m3u8
@@ -222,6 +243,7 @@ MOMO 綜合台,rtmp://59.124.75.156/sat/tv761
 台視財經,https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 東森財經,rtmp://59.124.75.156/sat/tv571
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
+第一财经,https://w1live.livecdn.yicai.com/live/cbn.m3u8
 TVBS 歡樂,rtmp://59.124.75.156/sat/tv421
 靖天欢乐台,http://61.58.60.230:9319/live/201.m3u8
 大爱一台HD,http://tv1.wanfudaluye.com/live/live.m3u8
@@ -418,6 +440,7 @@ BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 迪士尼频道,http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 黑莓动画,http://gslbserv.itv.cmvideo.cn:80/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=7951969344461242832
 卡通4U,https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8
+Animax,http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8
 睡前故事,http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
 公主城堡,http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
 炫佳动漫,http://cinb1.peoplevideo.cn/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
