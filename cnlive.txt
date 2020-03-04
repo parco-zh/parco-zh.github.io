@@ -229,6 +229,10 @@ TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 非凡新闻,vjms://58.215.133.185:8500:3502/live/cid=443
 年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 中华卫视台湾,http://pull.leshantangjt.com/live/playlist.m3u8
+亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+亚美卫视,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+加拿大国家电视台,https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
+加拿大中文电视台,http://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_2150400_av-b.m3u8
 MOMO 綜合台,rtmp://59.124.75.156/sat/tv761
 亚洲新闻频道 ,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 中国新华新闻,http://livecdn1.news.cn/cnccn/manifest.m3u8
@@ -259,9 +263,17 @@ NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 时尚频道,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 台灣藝術,http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
+幸福空间居家,http://61.58.60.230:9319/live/125.m3u8
+全纪实,http://60.255.149.209/tslive/c214_scc_20190618_v5ehytok_original_r10/c214_scc_20190618_v5ehytok_original_r10.m3u8&
+Cnex,http://61.58.60.230:9319/live/257.m3u8
+亚洲电视台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 新加坡8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 FOX-2,rtmp://59.124.75.156/sat/hk011
 番薯TV,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
+公视三台,https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
+ViuTV,http://103.56.112.40/kds/aigt.php?id=8
+创世电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
 CHTV台湾台,http://220.158.149.14:9999/live/TV00000000000000000002@HHZT;LIVE
 奥视卫星,http://61.244.22.5/ch3/_definst_/ch3.live/chunklist_w897977236.m3u8
@@ -464,6 +476,7 @@ FZTV-少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 金鹰卡通,http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 优漫卡通,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8#http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8#http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8#http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8#http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8#http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
 |空中课堂|,#genre#
+空中英语,http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
 眼保健操,http://charge.zuoyebang.cc/record_a9140bc04652c0720621ef0f634bcf3b.mp4
 学生室内操,http://charge.zuoyebang.cc/record_a800769ad5f6fe35ce17585683e7267b.mp4
 新东方一年级,http://aldirect.hls.huya.com/huyalive/1099531752589-1099531752589-86435413673115648-2199063628634-10057-A-0-1.m3u8
