@@ -1,39 +1,47 @@
 
 |央视频道|,#genre#
-CCTV-1综合高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV-1综合高清,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-CCTV-2财经高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+CCTV-1综合高清,http://cctvcnch5ca.v.wscdns.com/live/cctv1_2/10793.m3u8
+CCTV-1综合高清,rtmp://58.200.131.2:1935/livetv/cctv1hd
+CCTV-2财经高清,http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
 CCTV-2财经高清,rtmp://58.200.131.2:1935/livetv/cctv2hd
-CCTV-3综艺高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
 CCTV-3综艺高清,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-CCTV-4中文国际高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV-3综艺高清,rtmp://58.200.131.2:1935/livetv/cctv3hd
+CCTV-4中文国际高清,http://cctvcnch5ca.v.wscdns.com/live/cctv4_2/10793.m3u8
 CCTV-4中文国际高清,rtmp://58.200.131.2:1935/livetv/cctv4hd
-CCTV-5体育高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
 CCTV-5体育高清,http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8
-CCTV- 5+体育赛事高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000204503.m3u8
+CCTV-5体育高清,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv5hd
+CCTV-5体育高清,rtmp://58.200.131.2:1935/livetv/cctv5hd
 CCTV- 5+体育赛事高清,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+CCTV- 5+体育赛事高清,rtmp://58.200.131.2:1935/livetv/cctv5phd
 CCTV- 6电影高清,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+CCTV- 6电影高清,http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv6hd
 CCTV- 6电影高清,http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8
 CCTV- 7国防军事高清,http://cctvcnch5ca.v.wscdns.com/live/cctv7_2/10793.m3u8
 CCTV- 7国防军事高清,rtmp://58.200.131.2:1935/livetv/cctv7hd
-CCTV-8电视剧高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000203903.m3u8
 CCTV-8电视剧高清,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-CCTV-9纪录高清,http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+CCTV-8电视剧高清,rtmp://58.200.131.2:1935/livetv/cctv8hd
 CCTV-9纪录高清,http://cctvcnch5ca.v.wscdns.com/live/cctvjilu_2/10793.m3u8
+CCTV-9纪录高清,http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+CCTV-10科教高清,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10hd
 CCTV-10科教高清,http://cctvcnch5ca.v.wscdns.com/live/cctv10_2/10793.m3u8
-CCTV-10科教高清,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/010/2000203503.m3u8
-CCTV-11戏曲高清,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/011/2000204103.m3u8
+CCTV-11戏曲高清,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+CCTV-11戏曲高清,http://cctvcnch5ca.v.wscdns.com/live/cctv11_2/10793.m3u8
 CCTV-11戏曲高清,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-CCTV-12社会与法高清,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/012/2000202603.m3u8
+CCTV-12社会与法高清,http://cctvcnch5ca.v.wscdns.com/live/cctv12_2/10793.m3u8
+CCTV-12社会与法高清,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12hd
 CCTV-12社会与法高清,http://101.71.255.229:6610/zjhs/2/10071/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-13新闻高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000204603.m3u8
-CCTV-13新闻高清,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/013/2000204603.m3u8
+CCTV-13新闻高清,http://cctvcnch5ca.v.wscdns.com/live/cctv13_2/10793.m3u8
+CCTV-13新闻高清,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+CCTV-13新闻高清,rtmp://58.200.131.2:1935/livetv/cctv13
+CCTV-14少儿高清,http://101.71.255.229:6610/zjhs/2/10070/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-14少儿高清,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14hd
 CCTV-14少儿高清,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-14/1.m3u8
-CCTV-14少儿高清,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/014/2000204403.m3u8
-CCTV-15音乐高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000205003.m3u8
-CCTV-15音乐高清,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/015/2000205003.m3u8
-CCTV- 17农业农村高清,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/017/2000204203.m3u8
-CCTV- 17农业农村高清,http://117.169.124.37:6610/ysten-businessmobile/live/HD-4000k-1080P-cctv17/1.m3u8
+CCTV-15音乐高清,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-15音乐高清,http://cctvcnch5ca.v.wscdns.com/live/cctv15_2/10793.m3u8
+CCTV-15音乐高清,rtmp://58.200.131.2:1935/livetv/cctv15
+CCTV- 17农业农村高清,https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
+CCTV- 17农业农村高清,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 CGTN-新闻,rtmp://58.200.131.2:1935/livetv/cctv16
 CETV-1,rtmp://58.200.131.2:1935/livetv/cetv1
 CETV-3,rtmp://58.200.131.2:1935/livetv/cetv3
