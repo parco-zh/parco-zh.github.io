@@ -198,6 +198,8 @@ http://pull.scphsd.com/live/ab262525b64f6cb1427deb772d73e100.flv
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/emei.png" group-title="|港台影视|",峨眉电影HD
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/SB.png" group-title="|港台影视|",邵氏影院
+https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/xk.png" group-title="|港台影视|",星空卫视
 rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/xg.png" group-title="|港台影视|",香港卫视
@@ -720,42 +722,6 @@ http://ivi.bupt.edu.cn/hls/chchd.m3u8
 rtmp://58.200.131.2:1935/livetv/chctv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CHC.jpg" group-title="|影视轮播|",CHC动作电影
 rtmp://58.200.131.2:1935/livetv/chcatv
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",科幻电影
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",好莱坞电影
-http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",怪物科幻
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",漫威电影
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",灾难电影
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",丧尸电影
-http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",动漫大电影
-http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",亚洲大电影
-http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",亚洲好电影
-http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",科幻电影
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",好莱坞电影
-http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",怪物科幻
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",漫威电影
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",灾难电影
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",丧尸电影
-http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",动漫大电影
-http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",亚洲大电影
-http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",亚洲好电影
-http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",好莱坞片
 http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",院线大片
