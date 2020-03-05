@@ -209,9 +209,8 @@ TVB韩剧台,msc://CKDrama5
 澳门莲花,http://3663862899.cloudvdn.com/a.m3u8?domain=live-rtmp.lotustv.duolaibo.cn&player=q6sAAGzrigsPF-oV&secondToken=secondToken%3A3wMGBguTN12pZdXEnVBkfkV5nOg&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
 澳门莲花,http://220.158.149.14:9999/live/TV00000000000000000069@HHZT;LIVE
 |港台新闻|,#genre#
+凤凰香港,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 凤凰香港,p2p://sdgdklwos.finetv.tv:9906/59fd0c19000767ad0243becb40b07246
-凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-凤凰香港,http://220.158.149.28:8180/live/TV00000000000000000068@HHZT
 凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8
 凤凰中文,http://liveali.ifeng.com/live/FHZW.flv
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.m3u8
@@ -231,6 +230,7 @@ TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 台湾華視,rtmp://59.124.75.156/sat/tv111
 台湾華視,http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
 台湾中視,rtmp://59.124.75.156/sat/tv091
+台湾中視,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 非凡新闻,vjms://58.215.133.185:8500:3502/live/cid=443
 年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 中华卫视台湾,http://pull.leshantangjt.com/live/playlist.m3u8
