@@ -209,6 +209,7 @@ TVB韩剧台,msc://CKDrama5
 澳门莲花,http://3663862899.cloudvdn.com/a.m3u8?domain=live-rtmp.lotustv.duolaibo.cn&player=q6sAAGzrigsPF-oV&secondToken=secondToken%3A3wMGBguTN12pZdXEnVBkfkV5nOg&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
 澳门莲花,http://220.158.149.14:9999/live/TV00000000000000000069@HHZT;LIVE
 |港台新闻|,#genre#
+凤凰香港,p2p://sdgdklwos.finetv.tv:9906/59fd0c19000767ad0243becb40b07246
 凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 凤凰香港,http://220.158.149.28:8180/live/TV00000000000000000068@HHZT
 凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8
