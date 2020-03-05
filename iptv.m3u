@@ -263,7 +263,7 @@ http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/nexttv.png" group-title="|港台新闻|",臺新聞
 https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/dongsen.png" group-title="|港台新闻|",东森新闻
-http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+http://iptv.52qdg.com/iptv.php?id=tw&pamid=003
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUANYU.png" group-title="|港台新闻|",寰宇新闻
 https://ter.live2.ksmobile.net:443/yolo/96776f4be626f1e76f0acbfa3e880274.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUANYU2.png" group-title="|港台新闻|",寰宇新闻2
