@@ -158,6 +158,7 @@ CCTV-4K,https://hls.cntv.myalicdn.com/asp/hls/8000/0303000a/3/default/c698d3595f
 好莱坞影台HD,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 好莱坞影台HD,http://iptv.52qdg.com/iptv.php?id=tw&pamid=013
 好莱坞影台HD,http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+好莱坞影台HD,p2p://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
 东森洋片HD,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 东森洋片HD,http://iptv.52qdg.com/iptv.php?id=tw&pamid=009
 东森洋片HD,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
@@ -166,6 +167,7 @@ CCTV-4K,https://hls.cntv.myalicdn.com/asp/hls/8000/0303000a/3/default/c698d3595f
 HBO中文,http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 HBO中文,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 HBO英文,http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
+HBO HD,p2p://190.2.146.92:18912/5c7249dd000ca2101d58106551ff3ed4.ts
 龍祥時代電影,http://iptv.52qdg.com/iptv.php?id=tw&pamid=014
 龍祥時代電影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
 福斯動作電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
@@ -175,6 +177,7 @@ FOX电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 凤凰电影,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 凤凰电影台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+美亞電影,p2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
 星影,rtp://239.3.1.94:4120
 TVB星河,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
@@ -208,6 +211,7 @@ TVB韩剧台,msc://CKDrama5
 新加坡8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 卫视国际电影台(阿拉伯),http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 卫视合家欢台HD,http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+澳门莲花,p2p://sdgdklwos.finetv.tv:9906/5acb8740000253a62c1307843e7c4bc3
 澳门莲花,http://3663862899.cloudvdn.com/a.m3u8?domain=live-rtmp.lotustv.duolaibo.cn&player=q6sAAGzrigsPF-oV&secondToken=secondToken%3A3wMGBguTN12pZdXEnVBkfkV5nOg&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
 澳门莲花,rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
 澳门莲花,http://220.158.149.14:9999/live/TV00000000000000000069@HHZT;LIVE
@@ -219,23 +223,33 @@ TVB韩剧台,msc://CKDrama5
 凤凰中文,http://liveali.ifeng.com/live/FHZW.flv
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.m3u8
 凤凰资讯,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
+三立新闻,p2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts
 三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+中天新闻,p2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts
 中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天新闻,http://iptv.52qdg.com/iptv.php?id=tw&pamid=004
 中天新闻,rtmp://59.124.75.156/sat/tv521
+TVBS新闻,p2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
 TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 TVBS新闻,rtmp://59.124.75.156/sat/tv551
+东森新闻,p2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
 东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 东森新闻,http://iptv.52qdg.com/iptv.php?id=tw&pamid=003
+东森综合,p2p://190.2.146.92:18912/5c724877000e7b2d1d529a721b487255.ts
 壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8#https://usb.bozztv.com/ssh101/NEXTTV/NEXTTV/playlist.m3u8
+中天亞洲,p2p://190.2.146.92:18912/5c724839000d2f361d51a7e41eb00016.ts
+JET綜合,p2p://190.2.146.92:18912/5c724892000e3e1c1d5303da4a3c6c26.ts
+台湾民視,p2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
 台湾民視,rtmp://59.124.75.156/sat/tv051
 台湾台視,rtmp://59.124.75.156/sat/tv071
 台湾華視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+台湾華視,p2p://190.2.146.92:18912/5c72484f000e498b1d51fe2201d92dd3.ts
 台湾華視,http://iptv.52qdg.com/iptv.php?id=tw&pamid=011
 台湾華視,rtmp://59.124.75.156/sat/tv111
 台湾華視,http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
 台湾中視,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+台湾中視,p2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts
 台湾中視,http://iptv.52qdg.com/iptv.php?id=tw&pamid=012
 台湾中視,rtmp://59.124.75.156/sat/tv091
 非凡新闻,vjms://58.215.133.185:8500:3502/live/cid=443
