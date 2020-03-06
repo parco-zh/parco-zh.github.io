@@ -209,8 +209,9 @@ TVB韩剧台,msc://CKDrama5
 澳门莲花,http://3663862899.cloudvdn.com/a.m3u8?domain=live-rtmp.lotustv.duolaibo.cn&player=q6sAAGzrigsPF-oV&secondToken=secondToken%3A3wMGBguTN12pZdXEnVBkfkV5nOg&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
 澳门莲花,http://220.158.149.14:9999/live/TV00000000000000000069@HHZT;LIVE
 |港台新闻|,#genre#
+凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+凤凰香港,http://220.158.149.28:8180/live/TV00000000000000000068@HHZT
 凤凰香港,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-凤凰香港,p2p://sdgdklwos.finetv.tv:9906/59fd0c19000767ad0243becb40b07246
 凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8
 凤凰中文,http://liveali.ifeng.com/live/FHZW.flv
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.m3u8
@@ -272,6 +273,11 @@ NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
 幸福空间居家,http://61.58.60.230:9319/live/125.m3u8
 全纪实,http://60.255.149.209/tslive/c214_scc_20190618_v5ehytok_original_r10/c214_scc_20190618_v5ehytok_original_r10.m3u8&
+新视觉,http://60.255.149.209/tslive/c213_scc_20190618_ccee1od1_original_r10/c213_scc_20190618_ccee1od1_original_r10.m3u8&
+快乐垂钓,http://60.255.149.209/tslive/c214_scc_20190618_fq3c2esl_original_r10/c214_scc_20190618_fq3c2esl_original_r10.m3u8&
+欢笑剧场,http://60.255.149.209/tslive/c211_scc_20190618_zfhmkt12_original_r10/c211_scc_20190618_zfhmkt12_original_r10.m3u8&
+生活时尚,http://60.255.149.209/tslive/c212_scc_20190618_vrqwjwec_original_r10/c212_scc_20190618_vrqwjwec_original_r10.m3u8&
+环球奇观,http://60.255.149.209/tslive/c213_scc_20190618_1owx0aoh_original_r10/c213_scc_20190618_1owx0aoh_original_r10.m3u8&
 Cnex,http://61.58.60.230:9319/live/257.m3u8
 亚洲电视台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 新加坡8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
