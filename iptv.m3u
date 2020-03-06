@@ -1,39 +1,39 @@
 #EXTM3U tvg-logo="https://parco-zh.github.io/demo/"
 
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV1.jpg" group-title="|央视频道|",CCTV-1综合高清
-rtmp://58.200.131.2:1935/livetv/cctv1hd
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV2.jpg" group-title="|央视频道|",CCTV-2财经高清
-rtmp://58.200.131.2:1935/livetv/cctv2hd
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV3.jpg" group-title="|央视频道|",CCTV-3综艺高清
-rtmp://58.200.131.2:1935/livetv/cctv3hd
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV4.jpg" group-title="|央视频道|",CCTV-4中文国际高清
-rtmp://58.200.131.2:1935/livetv/cctv4hd
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV5.jpg" group-title="|央视频道|",CCTV-5体育高清
-rtmp://58.200.131.2:1935/livetv/cctv5hd
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV5+.png" group-title="|央视频道|",CCTV- 5+体育赛事高清
-rtmp://58.200.131.2:1935/livetv/cctv5phd
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV6.jpg" group-title="|央视频道|",CCTV- 6电影高清
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV7.jpg" group-title="|央视频道|",CCTV- 7国防军事高清
-rtmp://58.200.131.2:1935/livetv/cctv7hd
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV8.jpg" group-title="|央视频道|",CCTV-8电视剧高清
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV9.jpg" group-title="|央视频道|",CCTV-9纪录高清
-http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV10.jpg" group-title="|央视频道|",CCTV-10科教高清
-http://cctvcnch5ca.v.wscdns.com/live/cctv10_2/10793.m3u8
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV11.jpg" group-title="|央视频道|",CCTV-11戏曲高清
-戏曲,rtmp://58.200.131.2:1935/livetv/cctv11
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV12.jpg" group-title="|央视频道|",CCTV-12社会与法高清
-rtmp://58.200.131.2:1935/livetv/cctv12hd
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV13.jpg" group-title="|央视频道|",CCTV-13新闻高清
-rtmp://58.200.131.2:1935/livetv/cctv13
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV14.png" group-title="|央视频道|",CCTV-14少儿高清
-rtmp://58.200.131.2:1935/livetv/cctv14hd
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV15.png" group-title="|央视频道|",CCTV-15音乐高清
-rtmp://58.200.131.2:1935/livetv/cctv15
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV17.png" group-title="|央视频道|",CCTV- 17农业农村高清
-https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CCTV4K.png" group-title="|央视频道|",CCTV-4K
 https://hls.cntv.myalicdn.com/asp/hls/8000/0303000a/3/default/c698d3595f504fd09044e0b6615040f0/8000.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/bjbtv.jpg" group-title="|地方频道|",北京卫视
@@ -237,7 +237,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic-a
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ks.png" group-title="|港台影视|",衛視卡式
 https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend-avc1_1000000=6-SCMlegend-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ANIMAX.png" group-title="|港台影视|",Animax Asia
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-Animax-mp4a_98800_eng=3.m3u8
+Animax,http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TVN.png" group-title="|港台影视|",tvN Asia
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-tvN-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/WXfeicui.png" group-title="|港台影视|",翡翠台
@@ -246,7 +246,7 @@ http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetyp
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Now.png" group-title="|港台影视|",浪漫喜剧台
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ID-T.png" group-title="|港台影视|",Models Inc
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ID-T.png" group-title="|港台影视|",时尚频道
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FHXG.png" group-title="|港台新闻|",凤凰香港
 http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
@@ -362,39 +362,39 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/VOA.png" group-title="|国外新闻|",美国之音VOA
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CBS.png" group-title="|国外新闻|",US-CBSN
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CBS.png" group-title="|国外新闻|",美国-CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/BDbd.png" group-title="|国外新闻|",Al Jazeera
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/BDbd.png" group-title="|国外新闻|",半岛新闻台
 http://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNA.png" group-title="|国外新闻|",CNA(ChannelNewsAsia)
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNA.png" group-title="|国外新闻|",亚洲新闻频道
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/H2.png" group-title="|国外新闻|",DOCUMENTARY H2
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/H2.png" group-title="|国外新闻|",历史H2频道
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/DIBAI.png" group-title="|国外新闻|",Dubai Racing
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/DIBAI.png" group-title="|国外新闻|",迪拜赛车俱乐部
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/DIBAI.png" group-title="|国外新闻|",Dubai Racing2
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/DIBAI.png" group-title="|国外新闻|",迪拜赛马俱乐部
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/NEWS.png" group-title="|国外新闻|",美国Channel 11 News WPXI (Pittsburgh)
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/NEWS.png" group-title="|国外新闻|",美国匹兹堡新闻
 http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/NEWS.png" group-title="|国外新闻|",美国Cheddar电视
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/NEWS.png" group-title="|国外新闻|",美国切达电视
 https://live.chdrstatic.com/cheddar/primary/4.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/babdao.png" group-title="|国外新闻|",卡塔尔半岛电视台
 http://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Bloom.png" group-title="|国外综合|",BloombergTV
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Bloom.png" group-title="|国外综合|",彭博电视
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Bull.png" group-title="|国外综合|",Bull TV
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Bull.png" group-title="|国外综合|",红牛频道
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FRANCE24.png" group-title="|国外综合|",FR-France24
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FRANCE24.png" group-title="|国外综合|",法国24小时
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TIMES.png" group-title="|国外综合|",Times Now
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TIMES.png" group-title="|国外综合|",时代新闻
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TELESUR.png" group-title="|国外综合|",Telesur
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TELESUR.png" group-title="|国外综合|",国际新闻
 http://d2ajt1gpdtnw25.cloudfront.net:80/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/str.png" group-title="|国外综合|",WORLD HD
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/str.png" group-title="|国外综合|",星空频道HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/str.png" group-title="|国外综合|",World SD
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/str.png" group-title="|国外综合|",星空频道SD
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/NEWS-tv.png" group-title="|国外综合|",Newsmax
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/NEWS-tv.png" group-title="|国外综合|",新闻直播
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/bandao.png" group-title="|国外综合|",半岛电视台英语
 https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
@@ -422,25 +422,9 @@ http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|国外综合|",彭博柏林
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HBOHD.png" group-title="|国外综合|",HBO
-http://95.170.215.118/hls/m3u8/HBO.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HBO-2.png" group-title="|国外综合|",HBO 2
-http://95.170.215.118/hls/m3u8/HBO-2.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HBO-3.png" group-title="|国外综合|",HBO 3
-http://95.170.215.118/hls/m3u8/HBO-3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",MNX Movies
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/str.png" group-title="|国外综合|",WORLD HD
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/str.png" group-title="|国外综合|",World SD
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CBS-news.png" group-title="|国外综合|",CBS News
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",Times Now
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",Nat Geo Wild
+#EXTINF:-1 tvg-logo="" group-title="|国外综合|",国家地理野生频道
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|国外综合|",National Geographic
+#EXTINF:-1 tvg-logo="" group-title="|国外综合|",国家地理频道
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/boome.png" group-title="|动画频道|",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
