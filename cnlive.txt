@@ -102,6 +102,10 @@ CCTV-4K,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8#htt
 东森电影HD,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=010#http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
 HBO中文,vjms://58.215.133.185:8500:3502/live/cid=238#http://220.158.149.28:8180/live/TV00000000000000000166@HHZT#http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE#http://hzyhjg.cc/cs/gat/hbo.php
 HBO HD,p2p://190.2.146.92:18912/5c7249dd000ca2101d58106551ff3ed4.ts
+HBO,vjms://58.215.133.185:8500:3502/live/cid=261
+HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181
+HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238
+HBO BALL,vjms://58.215.133.185:8500:3502/live/cid=436
 HBO英文,http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 龍祥時代電影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://192.200.120.82:8080/ZZ_shidai/ZZ_shidai.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=014
 靖天電影,http://61.58.60.230:9319/live/244.m3u8
@@ -123,16 +127,15 @@ TVB星河,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8#p8p://0198.02686.c
 峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 日本CINEMA 洋片,http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8#http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+华丽台HD,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
+天映经典HD,p2p://fccsovh.pvbox.live:18912/5b3c4f9b00031383627eef60721e1738
+龙华经典,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
 靖天日本,http://61.58.60.230:9319/live/243.m3u8
 靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
 靖天育樂,http://61.58.60.230:9319/live/204.m3u8
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
-HBO,vjms://58.215.133.185:8500:3502/live/cid=261
-HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181
-HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238
-HBO BALL,vjms://58.215.133.185:8500:3502/live/cid=436
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 邵氏电影 ,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
@@ -152,10 +155,10 @@ TVB韩剧台,msc://CKDrama5
 凤凰香港,http://192.200.120.82:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8#http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE#http://220.158.149.28:8180/live/TV00000000000000000068@HHZT
 凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8#http://liveali.ifeng.com/live/FHZW.flv
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.m3u8#http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
-三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8#http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
-中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#p2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#http://iptv.52qdg.com/iptv.php?id=tw&pamid=004#rtmp://59.124.75.156/sat/tv521#http://hzyhjg.cc/cs/gat/ztxw.php
+三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8#http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8#vjms://58.215.133.185:8500:3502/live/cid=352
+中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#p2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#http://iptv.52qdg.com/iptv.php?id=tw&pamid=004#rtmp://59.124.75.156/sat/tv521#http://hzyhjg.cc/cs/gat/ztxw.php#vjms://58.215.133.185:8500:3502/live/cid=407
 TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8#rtmp://59.124.75.156/sat/tv551
-东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#http://iptv.52qdg.com/iptv.php#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=003
+东森新闻,vjms://58.215.133.185:8500:3502/live/cid=340#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#http://iptv.52qdg.com/iptv.php#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=003
 寰宇新闻,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
 壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8#https://usb.bozztv.com/ssh101/NEXTTV/NEXTTV/playlist.m3u8
 壹综合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
@@ -168,6 +171,7 @@ TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8#rtmp://59.124.75.156/sat/t
 台湾台視,rtmp://59.124.75.156/sat/tv071
 台湾華視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=011#rtmp://59.124.75.156/sat/tv111#http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
 台湾中視,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=012#rtmp://59.124.75.156/sat/tv091
+TVBS,vjms://58.215.133.185:8500:3502/live/cid=349
 中视经典,p2p://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
 三立都会,vjms://58.215.133.185:8500:3502/live/cid=226
 三立台湾,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
