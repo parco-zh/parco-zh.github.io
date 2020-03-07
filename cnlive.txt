@@ -155,7 +155,7 @@ TVB韩剧台,msc://CKDrama5
 三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8#http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#p2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#http://iptv.52qdg.com/iptv.php?id=tw&pamid=004#rtmp://59.124.75.156/sat/tv521#http://hzyhjg.cc/cs/gat/ztxw.php
 TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8#rtmp://59.124.75.156/sat/tv551
-东森新闻,http://hzyhjg.cc/cs/gat/ztxw.php#http://iptv.52qdg.com/iptv.php#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=003#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
+东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#http://iptv.52qdg.com/iptv.php#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=003
 寰宇新闻,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
 壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8#https://usb.bozztv.com/ssh101/NEXTTV/NEXTTV/playlist.m3u8
 壹综合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
