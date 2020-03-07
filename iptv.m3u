@@ -287,11 +287,13 @@ rtmp://59.124.75.156/sat/tv111
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ZHONGSHI-tv.png" group-title="|港台新闻|",台湾中視
 rtmp://59.124.75.156/sat/tv091
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/youxian.png" group-title="|港台新闻|",有线新闻
-https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+http://hzyhjg.cc/cs/gat/yxxw.php
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Acna.png" group-title="|港台新闻|",亚洲新闻频道
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNC.png" group-title="|港台新闻|",中国新华新闻
 http://livecdn1.news.cn/cnccn/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FEICUI.png" group-title="|港台新闻|",翡翠台
+http://hzyhjg.cc/cs/gat/fct.php
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/hkwuxian.png" group-title="|港台新闻|",无线新闻
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/8da.png" group-title="|港台新闻|",八大综合台

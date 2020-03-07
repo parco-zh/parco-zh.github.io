@@ -238,8 +238,14 @@ TVBS新闻,rtmp://59.124.75.156/sat/tv551
 东森新闻,p2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
 东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 东森新闻,http://iptv.52qdg.com/iptv.php?id=tw&pamid=003
-东森综合,p2p://190.2.146.92:18912/5c724877000e7b2d1d529a721b487255.ts
+寰宇新闻,p2p://sdgdklwos.finetv.tv:9906/59fd2b5e0006d13802bde4340bc41e87
+寰宇新闻二台,p2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts
 壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8#https://usb.bozztv.com/ssh101/NEXTTV/NEXTTV/playlist.m3u8
+非凡新闻,vjms://58.215.133.185:8500:3502/live/cid=443
+非凡新闻,p2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
+年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+台视新闻台,p2p://lino.homeunix.com:6007/59fd299b00054a3002b7020e67d657e3.ts
+东森综合,p2p://190.2.146.92:18912/5c724877000e7b2d1d529a721b487255.ts
 中天亞洲,p2p://190.2.146.92:18912/5c724839000d2f361d51a7e41eb00016.ts
 JET綜合,p2p://190.2.146.92:18912/5c724892000e3e1c1d5303da4a3c6c26.ts
 台湾民視,p2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
@@ -254,9 +260,7 @@ JET綜合,p2p://190.2.146.92:18912/5c724892000e3e1c1d5303da4a3c6c26.ts
 台湾中視,p2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts
 台湾中視,http://iptv.52qdg.com/iptv.php?id=tw&pamid=012
 台湾中視,rtmp://59.124.75.156/sat/tv091
-非凡新闻,vjms://58.215.133.185:8500:3502/live/cid=443
-非凡新闻,p2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
-年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+中视经典,p2p://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
 中华卫视台湾,http://pull.leshantangjt.com/live/playlist.m3u8
 亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亚美卫视,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
@@ -294,6 +298,7 @@ NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 时尚频道,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 台灣藝術,http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
+阿里郎電視,p2p://sdgdklwos.finetv.tv:9906/59fd303f000e8d8702d0f510645c2ff4
 幸福空间居家,http://61.58.60.230:9319/live/125.m3u8
 Cnex,http://61.58.60.230:9319/live/257.m3u8
 亚洲电视台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
@@ -330,7 +335,9 @@ HKC综合娱乐台(HD),https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8?sess
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 高清时尚台,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 欧美MTV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-翡翠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
+翡翠台,p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
+翡翠台,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
 俄罗斯НовоеРадиоТВ音乐电视频道,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 |国外新闻|,#genre#
 CNN美国,https://116.77.72.195/streams/d/cnn/playlist.m3u8
