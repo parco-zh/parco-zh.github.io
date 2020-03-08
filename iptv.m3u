@@ -263,13 +263,13 @@ http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/nexttv.png" group-title="|港台新闻|",臺新聞
 https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/dongsen.png" group-title="|港台新闻|",东森新闻
-http://iptv.52qdg.com/iptv.php?id=tw&pamid=003
+http://hzyhjg.cc/cs/gat/dsxw.php
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUANYU.png" group-title="|港台新闻|",寰宇新闻
 https://ter.live2.ksmobile.net:443/yolo/96776f4be626f1e76f0acbfa3e880274.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUANYU2.png" group-title="|港台新闻|",寰宇新闻2
 https://ter.live2.ksmobile.net:443/yolo/ef3458e6c73cbdc151566892263ae8c0.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FEIFAN.png" group-title="|港台新闻|",非凡新闻
-vjms://58.215.133.185:8500:3502/live/cid=443
+http://hzyhjg.cc/cs/gat/ffxw.php
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/niandai.png" group-title="|港台新闻|",年代新聞
 http://192.200.120.82:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUASHI.png" group-title="|港台新闻|",華視新聞
