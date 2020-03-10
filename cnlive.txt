@@ -430,29 +430,54 @@ FZTV-少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 空中英语,http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
 眼保健操,http://charge.zuoyebang.cc/record_a9140bc04652c0720621ef0f634bcf3b.mp4
 学生室内操,http://charge.zuoyebang.cc/record_a800769ad5f6fe35ce17585683e7267b.mp4
-作业帮一年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344518832095319_sd.flv
-作业帮二年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114150264733783_sd.flv
-作业帮三年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114161536925783_sd.flv
-作业帮四年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114171468513367_sd.flv
-作业帮五年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114184289976407_sd.flv
-作业帮六年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114187240144983_sd.flv
-作业帮初一,http://pull-flv-l6-act.pstatp.com/activity/stream-394344593730306135_sd.flv
-作业帮初二,http://pull-flv-l6-act.pstatp.com/activity/stream-106114222741782615_sd.flv
-作业帮初三,http://pull-flv-l6-act.pstatp.com/activity/stream-394344604800909399_sd.flv
-作业帮高二,http://pull-flv-l6-act.pstatp.com/activity/stream-394344622782414935_sd.flv
-作业帮高三,http://pull-flv-l6-act.pstatp.com/activity/stream-394344630637035607_sd.flv
-腾讯一年级,https://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
-腾讯二年级,https://live-edu.wasu.tv/live/QiEFuDao-lv2.m3u8
-腾讯三年级,https://live-edu.wasu.tv/live/QiEFuDao-lv3.m3u8
-腾讯四年级,https://live-edu.wasu.tv/live/QiEFuDao-lv4.m3u8
-腾讯五年级,https://live-edu.wasu.tv/live/QiEFuDao-lv5.m3u8
-腾讯六年级,https://live-edu.wasu.tv/live/QiEFuDao-lv6.m3u8
-腾讯初一,https://live-edu.wasu.tv/live/QiEFuDao-lv7.m3u8
-腾讯初二,https://live-edu.wasu.tv/live/QiEFuDao-lv8.m3u8
-腾讯初三,https://live-edu.wasu.tv/live/QiEFuDao-lv9.m3u8
-腾讯高一,https://live-edu.wasu.tv/live/QiEFuDao-lv10.m3u8
-腾讯高二,https://live-edu.wasu.tv/live/QiEFuDao-lv11.m3u8
-腾讯高三,https://live-edu.wasu.tv/live/QiEFuDao-lv12.m3u8
+企鹅辅 Ⅰ 小学一年级,http://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
+作业帮 Ⅰ 小学一年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344518832095319_sd.flv
+学而思 Ⅰ 小学一年级,https://aldirect.rtmp.huya.com/huyalive/1099531752601-1099531752601-86435465212723200-2199063628658-10057-A-0-1.m3u8
+新东方 Ⅰ 小学一年级,https://aldirect.rtmp.huya.com/huyalive/1099531752589-1099531752589-86435413673115648-2199063628634-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 小学二年级,http://live-edu.wasu.tv/live/QiEFuDao-lv2.m3u8
+作业帮 Ⅰ 小学二年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114150264733783_sd.flv
+学而思 Ⅰ 小学二年级,https://aldirect.rtmp.huya.com/huyalive/1099531752602-1099531752602-86435469507690496-2199063628660-10057-A-0-1.m3u8
+新东方 Ⅰ 小学二年级,https://aldirect.rtmp.huya.com/huyalive/1099531752590-1099531752590-86435417968082944-2199063628636-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 小学三年级,http://live-edu.wasu.tv/live/QiEFuDao-lv3.m3u8
+作业帮 Ⅰ 小学三年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114161536925783_sd.flv
+学而思 Ⅰ 小学三年级,https://aldirect.rtmp.huya.com/huyalive/1099531752603-1099531752603-86435473802657792-2199063628662-10057-A-0-1.m3u8
+新东方 Ⅰ 小学三年级,https://aldirect.rtmp.huya.com/huyalive/1099531752591-1099531752591-86435422263050240-2199063628638-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 小学四年级,http://live-edu.wasu.tv/live/QiEFuDao-lv4.m3u8
+作业帮 Ⅰ 小学四年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114171468513367_sd.flv
+学而思 Ⅰ 小学四年级,https://aldirect.rtmp.huya.com/huyalive/1099531752604-1099531752604-86435478097625088-2199063628664-10057-A-0-1.m3u8
+新东方 Ⅰ 小学四年级,https://aldirect.rtmp.huya.com/huyalive/1099531752592-1099531752592-86435426558017536-2199063628640-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 小学五年级,http://live-edu.wasu.tv/live/QiEFuDao-lv5.m3u8
+作业帮 Ⅰ 小学五年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114184289976407_sd.flv
+学而思 Ⅰ 小学五年级,https://aldirect.rtmp.huya.com/huyalive/1099531752605-1099531752605-86435482392592384-2199063628666-10057-A-0-1.m3u8
+新东方 Ⅰ 小学五年级,https://aldirect.rtmp.huya.com/huyalive/1099531752593-1099531752593-86435430852984832-2199063628642-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 小学六年级,http://live-edu.wasu.tv/live/QiEFuDao-lv6.m3u8
+作业帮 Ⅰ 小学六年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114187240144983_sd.flv
+学而思 Ⅰ 小学六年级,https://aldirect.rtmp.huya.com/huyalive/1099531752606-1099531752606-86435486687559680-2199063628668-10057-A-0-1.m3u8
+新东方 Ⅰ 小学六年级,https://aldirect.rtmp.huya.com/huyalive/1099531752594-1099531752594-86435435147952128-2199063628644-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 初中一年级,http://live-edu.wasu.tv/live/QiEFuDao-lv7.m3u8
+作业帮 Ⅰ 初中一年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344593730306135_sd.flv
+学而思 Ⅰ 初中一年级,https://aldirect.rtmp.huya.com/huyalive/1099531752607-1099531752607-86435490982526976-2199063628670-10057-A-0-1.m3u8
+新东方 Ⅰ 初中一年级,https://aldirect.rtmp.huya.com/huyalive/1099531752595-1099531752595-86435439442919424-2199063628646-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 初中二年级,http://live-edu.wasu.tv/live/QiEFuDao-lv8.m3u8
+作业帮 Ⅰ 初中二年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114222741782615_sd.flv
+学而思 Ⅰ 初中二年级,https://aldirect.rtmp.huya.com/huyalive/1099531752608-1099531752608-86435495277494272-2199063628672-10057-A-0-1.m3u8
+新东方 Ⅰ 初中二年级,https://aldirect.rtmp.huya.com/huyalive/1099531752596-1099531752596-86435443737886720-2199063628648-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 初中三年级,http://live-edu.wasu.tv/live/QiEFuDao-lv9.m3u8
+作业帮 Ⅰ 初中三年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344604800909399_sd.flv
+学而思 Ⅰ 初中三年级,https://aldirect.rtmp.huya.com/huyalive/1099531752609-1099531752609-86435499572461568-2199063628674-10057-A-0-1.m3u8
+新东方 Ⅰ 初中三年级,https://aldirect.rtmp.huya.com/huyalive/1099531752597-1099531752597-86435448032854016-2199063628650-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 高中一年级,http://live-edu.wasu.tv/live/QiEFuDao-lv10.m3u8
+作业帮 Ⅰ 高中一年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114239584534615_sd.flv
+学而思 Ⅰ 高中一年级,https://aldirect.rtmp.huya.com/huyalive/1099531752610-1099531752610-86435503867428864-2199063628676-10057-A-0-1.m3u8
+新东方 Ⅰ 高中一年级,https://aldirect.rtmp.huya.com/huyalive/1099531752598-1099531752598-86435452327821312-2199063628652-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 高中二年级,http://live-edu.wasu.tv/live/QiEFuDao-lv11.m3u8
+作业帮 Ⅰ 高中二年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344622782414935_sd.flv
+学而思 Ⅰ 高中二年级,https://aldirect.rtmp.huya.com/huyalive/1099531752611-1099531752611-86435508162396160-2199063628678-10057-A-0-1.m3u8
+新东方 Ⅰ 高中二年级,https://aldirect.rtmp.huya.com/huyalive/1099531752599-1099531752599-86435456622788608-2199063628654-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 高中三年级,http://live-edu.wasu.tv/live/QiEFuDao-lv12.m3u8
+作业帮 Ⅰ 高中三年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344630637035607_sd.flv
+学而思 Ⅰ 高中三年级,https://aldirect.rtmp.huya.com/huyalive/1099531752612-1099531752612-86435512457363456-2199063628680-10057-A-0-1.m3u8
+新东方 Ⅰ 高中三年级,https://aldirect.rtmp.huya.com/huyalive/1099531752600-1099531752600-86435460917755904-2199063628656-10057-A-0-1.m3u8
 新冠状病毒科普讲座,https://charge.zuoyebang.cc/record_eafdda4090346101bb9c338fc15d4561.mp4
 作业帮直播课导学,https://charge.zuoyebang.cc/record_18fa09f50b6087a88fbfb4fd1522c67c.mp4
 小学英语早读1,https://charge.zuoyebang.cc/record_eb20b799102d964e89741c4c2f634443.mp4
