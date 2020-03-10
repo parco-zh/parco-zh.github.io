@@ -103,12 +103,13 @@ CCTV-4K,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8#htt
 好莱坞影台HD,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=013#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 东森洋片HD,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=009#http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 东森电影HD,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=010#http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
-HBO中文,vjms://58.215.133.185:8500:3502/live/cid=238#http://220.158.149.28:8180/live/TV00000000000000000166@HHZT#http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE#http://hzyhjg.cc/cs/gat/hbo.php
-HBO,vjms://122.155.180.8:8500:5021/live/cid=261#vjms://58.215.133.185:8500:3502/live/cid=261
-HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181
-HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238
-HBO BALL,vjms://58.215.133.185:8500:3502/live/cid=436
-HBO英文,http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
+HBO-强档,vjms://58.215.133.185:8500:3502/live/cid=238#http://220.158.149.28:8180/live/TV00000000000000000166@HHZT#http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE#vjms://58.215.133.185:8500:3502/live/cid=238
+HBO-中文,vjms://122.155.180.8:8500:5021/live/cid=261#vjms://58.215.133.185:8500:3502/live/cid=261
+HBO-英语,https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
+HBO-家庭,vjms://58.215.133.185:8500:3502/live/cid=181
+HBO-原创,vjms://58.215.133.185:8500:3502/live/cid=436
+HBO-HD,http://hzyhjg.cc/cs/gat/hbo.php
+HBO-国外,http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 龍祥時代電影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://192.200.120.82:8080/ZZ_shidai/ZZ_shidai.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=014
 靖天電影,http://61.58.60.230:9319/live/244.m3u8
 FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
