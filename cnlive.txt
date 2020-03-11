@@ -22,7 +22,7 @@ CGTN DOC,http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
 CETV-1教育,rtmp://58.200.131.2:1935/livetv/cetv1
 CETV-3教育,rtmp://58.200.131.2:1935/livetv/cetv3
 CETV-4教育,rtmp://58.200.131.2:1935/livetv/cetv4
-CCTV-4K,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8#https://hls.cntv.myalicdn.com/asp/hls/8000/0303000a/3/default/c698d3595f504fd09044e0b6615040f0/8000.m3u8
+CCTV-4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 |地方频道|,#genre#
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8#http://cctvcnch5ca.v.wscdns.com/wstv/btv2_2/index.m3u8#http://101.89.132.136:80/live/tm-btv2hd-4000k.m3u8
@@ -214,18 +214,6 @@ NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 |亚洲综合|,#genre#
 时尚频道,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 台灣藝術,http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
-全纪实,http://60.255.149.210/tslive/c214_scc_20190618_v5ehytok_original_r10/c214_scc_20190618_v5ehytok_original_r10.m3u8&
-新视觉,http://60.255.149.210/tslive/c213_scc_20190618_ccee1od1_original_r10/c213_scc_20190618_ccee1od1_original_r10.m3u8&
-快乐垂钓,http://60.255.149.210/tslive/c214_scc_20190618_fq3c2esl_original_r10/c214_scc_20190618_fq3c2esl_original_r10.m3u8&
-欢笑剧场,http://60.255.149.210/tslive/c211_scc_20190618_zfhmkt12_original_r10/c211_scc_20190618_zfhmkt12_original_r10.m3u8&
-都市剧场,http://60.255.149.210/tslive/c214_scc_20190618_4lpqgfgj_original_r10/c214_scc_20190618_4lpqgfgj_original_r10.m3u8&
-生活时尚,http://60.255.149.210/tslive/c212_scc_20190618_vrqwjwec_original_r10/c212_scc_20190618_vrqwjwec_original_r10.m3u8&
-环球奇观,http://60.255.149.210/tslive/c213_scc_20190618_1owx0aoh_original_r10/c213_scc_20190618_1owx0aoh_original_r10.m3u8&
-动漫秀场,http://60.255.149.210/tslive/c212_scc_20190618_0ao2empo_original_r10/c212_scc_20190618_0ao2empo_original_r10.m3u8&
-家庭理财,http://60.255.149.210/tslive/c212_scc_20190618_02r3wayg_original_r10/c212_scc_20190618_02r3wayg_original_r10.m3u8&
-CCTV世界地理,http://60.255.149.210/tslive/c211_scc_20190618_whzzqk55_original_r10/c211_scc_20190618_whzzqk55_original_r10.m3u8&
-CETC4,http://60.255.149.210/tslive/c212_scc_20190618_ewbvlwno_original_r10/c212_scc_20190618_ewbvlwno_original_r10.m3u8&
-CETV1,http://60.255.149.210/tslive/c213_scc_20190618_hckfiiqn_original_r10/c213_scc_20190618_hckfiiqn_original_r10.m3u8&
 TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
