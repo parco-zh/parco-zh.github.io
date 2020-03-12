@@ -182,35 +182,25 @@ TVBS新闻,vjms://122.155.180.8:8500:5021/live/cid=348#http://60.199.188.65/HLS/
 年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 民视新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
 民视台湾台,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c
-台湾民視,rtmp://59.124.75.156/sat/tv051
-台湾台視,rtmp://59.124.75.156/sat/tv071
-台湾華視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=011#rtmp://59.124.75.156/sat/tv111#http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
+台湾華視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=011#http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
 台湾中視,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=012#rtmp://59.124.75.156/sat/tv091
 TVBS,vjms://58.215.133.185:8500:3502/live/cid=349
 中视经典,p2p://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
 三立都会,vjms://122.155.180.8:8500:5021/live/cid=226
-三立台湾,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
 八大综合,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 三立综合台,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
 中华卫视台湾,http://pull.leshantangjt.com/live/playlist.m3u8
 亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8#https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-阳光卫视,http://220.158.149.28:8180/live/TV00000000000000000062@HHZT
 加拿大国家电视台,https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
 加拿大中文电视台,http://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_2150400_av-b.m3u8
-MOMO 綜合台,rtmp://59.124.75.156/sat/tv761
 亚洲新闻频道 ,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 中国新华新闻,http://livecdn1.news.cn/cnccn/manifest.m3u8
-香港无线新闻,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
-翡翠j2,https://app.kds.tw/live/tvb1.php?id=j2&u=123456
-翡翠台,https://app.kds.tw/live/tvb1.php?id=jade&u=123456
-明珠台,https://app.kds.tw/live/tvb1.php?id=pearl&u=123456
 有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw#http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
-八大综合,http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 中天娱乐,http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=006
-中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=005
+中天综合,http://iptv.52qdg.com/iptv.php?id=tw&pamid=005
 台視財經,https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
-東森財經,rtmp://59.124.75.156/sat/tv571#vjms://122.155.180.8:8500:5021/live/cid=456
+東森財經,vjms://122.155.180.8:8500:5021/live/cid=456
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
 第一财经,https://w1live.livecdn.yicai.com/live/cbn.m3u8
 TVBS欢乐,http://220.158.149.28:8180/live/TV00000000000000000079@HHZT#rtmp://59.124.75.156/sat/tv421
@@ -228,7 +218,6 @@ TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
-阿里郎電視,p2p://sdgdklwos.finetv.tv:9906/59fd303f000e8d8702d0f510645c2ff4
 幸福空间居家,http://61.58.60.230:9319/live/125.m3u8
 Cnex,http://61.58.60.230:9319/live/257.m3u8
 亚洲电视台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
@@ -253,7 +242,7 @@ CHTV台湾台,http://220.158.149.14:9999/live/TV00000000000000000002@HHZT;LIVE
 澳门有线,http://202.175.127.77/live/show/ch1/index.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
 澳亞衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8#rtmp://58.200.131.2:1935/livetv/natlgeo#vjms://58.215.133.185:8500:3502/live/cid=115
+国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8#rtmp://58.200.131.2:1935/livetv/natlgeo
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 亚洲旅游台 HD,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
@@ -905,7 +894,6 @@ Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 亚洲旅游台 HD,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
-年代MUCH,vjms://58.215.133.185:8500:3502/live/cid=439
 美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
 Fashion,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 TV5MONDE,vjms://58.215.133.185:8500:3502/live/cid=396
