@@ -486,30 +486,12 @@ http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high
 http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|动画频道|",公主城堡
 http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",炫佳动漫
-http://cinb1.peoplevideo.cn/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",童学世界
-http://cinb1.peoplevideo.cn/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",朵丫乐园
-http://cinb1.peoplevideo.cn/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
 #EXTINF:-1 tvg-logo="" group-title="|动画频道|",动漫剧场
 http://bohi321.hk77.ok188.top/cibn/cibn.php?id=7
 #EXTINF:-1 tvg-logo="" group-title="|动画频道|",iHOT爱动漫
 http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="" group-title="|动画频道|",iHOT爱幼教
 http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",CIBN朵丫乐园
-http://cinb1.peoplevideo.cn/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",CIBN朵丫乐园
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=28
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",CIBN童学世界
-http://cinb1.peoplevideo.cn/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",CIBN童学世界
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=12
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",CIBN炫佳动漫
-http://cinb1.peoplevideo.cn/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-logo="" group-title="|动画频道|",CIBN炫佳动漫
-http://bohi321.hk77.ok188.top/cibn/cibn.php?id=19
 #EXTINF:-1 tvg-logo="" group-title="|动画频道|",广东少儿
 http://nclive.grtn.cn/tvs5/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png" group-title="|动画频道|",卡酷少儿
@@ -658,50 +640,6 @@ http://gslbserv.itv.cmvideo.cn:80/000000001000/6497762188035533951/1.m3u8?channe
 http://gslbserv.itv.cmvideo.cn:80/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5897056882324761054&owchid=ystenlive&owsid=7951969344461800735
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new16.png" group-title="|New TV|",潮妈辣婆
 http://gslbserv.itv.cmvideo.cn:80/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=7951969344462324357
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【电影】
-http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/800/vCIBNDYPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【好莱坞】
-http://cibn.peoplevideo.cn:80/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【院线大片】
-http://cibn.peoplevideo.cn:80/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【新知】
-http://cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【怡家】
-http://cinb1.peoplevideo.cn/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【精品影院】
-http://cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【喜剧影院】
-http://cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【情感影院】
-http://cinb1.peoplevideo.cn/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【骄阳剧场】
-http://cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【古装剧场】
-http://cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【嗨播】
-http://cinb1.peoplevideo.cn/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【军事】
-http://cinb1.peoplevideo.cn/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【生活】
-http://cinb1.peoplevideo.cn/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【汽车】
-http://cinb1.peoplevideo.cn/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【微电影】
-http://cinb1.peoplevideo.cn/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【汉学院】
-http://cinb1.peoplevideo.cn/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【纪录片】
-http://cinb1.peoplevideo.cn/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【炫佳卡通】
-http://cinb1.peoplevideo.cn/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【童雪世界】
-http://cinb1.peoplevideo.cn/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【艺术院线】
-http://cinb1.peoplevideo.cn/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",CIBN【朵丫乐园】
-http://cinb1.peoplevideo.cn/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|CIBN Tv|",【NIHAO-TV】HD
-http://cinb1.peoplevideo.cn/hls/vCIBNCHNTV/1800/vCIBNCHNTV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",BesTV鼎级
 http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000142
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CHC.jpg" group-title="|影视轮播|",CHC高清电影
