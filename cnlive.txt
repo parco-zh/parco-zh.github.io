@@ -828,7 +828,29 @@ FZTV-少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv
 凤凰资讯,p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
 凤凰资讯,rtmp://58.200.131.2:1935/livetv/fhzx
-凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv
+凤凰资讯台 HD,p2p://lino.homeunix.com:6007/59fd0c48000e15630244781932ff7852.ts
+TVBS新闻台 HD,p2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
+三立新闻台,p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
+壹电视新闻 HD,p2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts
+年代新闻 HD,p2p://lino.homeunix.com:6007/5a56230e0004af51617ff5935a3e292e.ts
+寰宇新闻频道 HD,p2p://lino.homeunix.com:6007/59fd2b5e0006d13802bde4340bc41e87.ts
+民视台湾台,p2p://lino.homeunix.com:6007/59fd0670000decc5022da459628c3d1a.ts
+民视,p2p://lino.homeunix.com:6007/59fd230300046dc8029d402053e02fbf.ts
+互动新闻1,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
+互动新闻2,p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
+翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
+J2台1,p2p://lino.homeunix.com:6007/59fd25e80008aaec02a88fc1476f2edf.ts
+J2台2,p2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts
+J5台,p2p://lino.homeunix.com:6007/5ad32aed000d8fa649eaacf716d70340.ts
+明珠台1,p2p://lino.homeunix.com:6007/59fd0d0a0009323a02476cb020fe16f9.ts
+明珠台2,p2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts
+viu 6,p2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts
+全佳,p2p://lino.homeunix.com:6007/5b2c7b9d000cafb7064ee62073b5429d.ts
+AEC,p2p://lino.homeunix.com:6007/5b2c873100007ef4067c1d2352642785.ts
+Discovery HD,p2p://lino.homeunix.com:6007/59fcf587000c4fc201eb95c324ea0953.ts
+风云足球,p2p://lino.homeunix.com:6007/59fd0bbb000185ff02424e24243823ca.ts
+TLCtravel,p2p://lino.homeunix.com:6007/59fd0b9100084afb0241abca38654efa.ts
+CINEMAX,p2p://lino.homeunix.com:6007/59fd0b0b00042603023f9f5023951856.ts
 东森新闻,http://iptv.52qdg.com/iptv.php?id=tw&pamid=003
 中天新闻,http://iptv.52qdg.com/iptv.php?id=tw&pamid=004
 中天综合,http://iptv.52qdg.com/iptv.php?id=tw&pamid=005
@@ -908,21 +930,6 @@ TV5MONDE,vjms://58.215.133.185:8500:3502/live/cid=396
 靖天映画,http://61.58.60.230:9319/live/244.m3u8
 奥亚卫视,http://61.58.60.230:9319/live/256.m3u8
 大爱2台,http://61.58.60.230:9319/live/191.m3u8
-纬来日本,rtmp://59.124.75.156/sat/tv771
-东森财经,rtmp://59.124.75.156/sat/tv571
-momo综合,rtmp://59.124.75.156/sat/tv761
-中天新闻,rtmp://59.124.75.156/sat/tv521
-TVBS欢乐,rtmp://59.124.75.156/sat/tv421
-中天新闻,rtmp://59.124.75.156/sat/tv521
-纬来体育,rtmp://59.124.75.156/sat/tv721
-台湾民视,rtmp://59.124.75.156/sat/tv051
-台湾台视,rtmp://59.124.75.156/sat/tv071
-台湾华视,rtmp://59.124.75.156/sat/tv111
-台湾中视,rtmp://59.124.75.156/sat/tv091
-TVBS新闻,rtmp://59.124.75.156/sat/tv551
-有线18台,rtmp://59.124.75.156/sat/hk041
-FOX-2,rtmp://59.124.75.156/sat/hk011
-bein SPORTS足球,rtmp://59.124.75.156/sat/hk021
 BTV国际,http://61.58.60.230:9319/live/226.m3u8
 CGTN,http://61.58.60.230:9319/live/221.m3u8
 CCTV4国际,http://61.58.60.230:9319/live/220.m3u8
