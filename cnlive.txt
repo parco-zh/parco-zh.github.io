@@ -33,6 +33,8 @@ CETV-2教育,rtp://239.3.1.54:4120
 CETV-3教育,rtp://239.3.1.55:4120
 CETV-4教育,rtp://239.3.1.56:4120
 CCTV-4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+4K超清,rtp://239.3.1.249:8001
+爱上4K,rtp://239.3.1.236:2000
 |地方频道|,#genre#
 北京卫视,rtp://239.3.1.241:8000#http://ivi.bupt.edu.cn/hls/btv1.m3u8
 北京科教,rtp://239.3.1.227:8000#http://ivi.bupt.edu.cn/hls/btv3.m3u8
@@ -170,7 +172,7 @@ TVB星河,msc://CXHMovie#https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 |港台新闻|,#genre#
 凤凰香港,http://192.200.120.82:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8#http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE#http://220.158.149.28:8180/live/TV00000000000000000068@HHZT
 凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8#http://liveali.ifeng.com/live/FHZW.flv
-凤凰资讯,rtmp://58.200.131.2:1935/livetv/fhzx#http://liveali.ifeng.com/live/FHZX.flv#http://liveali.ifeng.com/live/FHZX.m3u8
+凤凰资讯,rtmp://58.200.131.2:1935/livetv/fhzx#http://104.250.154.42:8080/ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8
 三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8#http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#p2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts#http://iptv.52qdg.com/iptv.php?id=tw&pamid=004#rtmp://59.124.75.156/sat/tv521#http://hzyhjg.cc/cs/gat/ztxw.php
 TVBS新闻,vjms://122.155.180.8:8500:5021/live/cid=348#http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8#rtmp://59.124.75.156/sat/tv551
@@ -823,20 +825,22 @@ FZTV-少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 小学美术1,https://charge.zuoyebang.cc/record_1bfb7b7aa8fb1806c8dd89b9bb7a710f.mp4
 家长学院,https://charge.zuoyebang.cc/record_c325430f7f16895b56f1cc8b7c1a0212.mp4
 |港台备用|,#genre#
-凤凰卫视,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
 凤凰卫视,rtmp://58.200.131.2:1935/livetv/fhzw
 凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv
-凤凰资讯,p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
 凤凰资讯,rtmp://58.200.131.2:1935/livetv/fhzx
-凤凰资讯台 HD,p2p://lino.homeunix.com:6007/59fd0c48000e15630244781932ff7852.ts
-TVBS新闻台 HD,p2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
-三立新闻台,p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
-壹电视新闻 HD,p2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts
 年代新闻 HD,p2p://lino.homeunix.com:6007/5a56230e0004af51617ff5935a3e292e.ts
 寰宇新闻频道 HD,p2p://lino.homeunix.com:6007/59fd2b5e0006d13802bde4340bc41e87.ts
 民视台湾台,p2p://lino.homeunix.com:6007/59fd0670000decc5022da459628c3d1a.ts
 民视,p2p://lino.homeunix.com:6007/59fd230300046dc8029d402053e02fbf.ts
 互动新闻1,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
+民视台湾台,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c
+公視3,p2p://51.79.41.138:18912/5b14094a0002d1d117d1e518204a1cf0.ts
+中视经典,P2p://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
+三立台湾,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
+八大综合,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
+三立综合台,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
+壹综合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
 互动新闻2,p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
 翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
 J2台1,p2p://lino.homeunix.com:6007/59fd25e80008aaec02a88fc1476f2edf.ts
@@ -901,14 +905,6 @@ CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 TVB J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
-民视台湾台,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c
-公視3,p2p://51.79.41.138:18912/5b14094a0002d1d117d1e518204a1cf0.ts
-中视经典,P2p://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts
-三立台湾,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
-八大综合,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
-三立综合台,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
-壹综合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 博斯高球1,vjms://121.14.222.75:8500:3502/live/cid=265
 博斯高球2,p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
