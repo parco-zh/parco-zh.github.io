@@ -864,6 +864,28 @@ FZTV-少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 凤凰卫视,rtmp://58.200.131.2:1935/livetv/fhzw
 凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv
 凤凰资讯,rtmp://58.200.131.2:1935/livetv/fhzx
+凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv
+凤凰资讯,http://live.centerch.com/fhzx.m3u8
+壹新闻,vjms://122.155.180.8:8500:5021/live/cid=445
+东森新闻,vjms://122.155.180.8:8500:5021/live/cid=340
+东森财经,vjms://122.155.180.8:8500:5021/live/cid=456
+TVBS新闻,vjms://122.155.180.8:8500:5021/live/cid=348
+CNN新闻,vjms://122.155.180.8:8500:5021/live/cid=428
+爱尔达体育,vjms://122.155.180.8:8500:5021/live/cid=266
+FOX3体育,vjms://122.155.180.8:8500:5021/live/cid=95
+迪士尼卡通,vjms://122.155.180.8:8500:5021/live/cid=361
+日本ANIMAX,vjms://122.155.180.8:8500:5021/live/cid=498
+TLC旅游生活,vjms://122.155.180.8:8500:5021/live/cid=103
+国家地理野生,vjms://122.155.180.8:8500:5021/live/cid=263
+探索科学,vjms://122.155.180.8:8500:5021/live/cid=457
+三立都会,vjms://122.155.180.8:8500:5021/live/cid=226
+凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
+HKS卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery
+Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
+CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 年代新闻 HD,p2p://lino.homeunix.com:6007/5a56230e0004af51617ff5935a3e292e.ts
 民视台湾台,p2p://lino.homeunix.com:6007/59fd0670000decc5022da459628c3d1a.ts
 民视台湾台,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c
