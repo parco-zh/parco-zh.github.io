@@ -209,7 +209,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/x8.png" group-title="|港台影视|",新加坡8频道
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/amlh.png" group-title="|港台影视|",澳门莲花
-http://3663862899.cloudvdn.com/a.m3u8?domain=live-rtmp.lotustv.duolaibo.cn&player=q6sAAGzrigsPF-oV&secondToken=secondToken%3A3wMGBguTN12pZdXEnVBkfkV5nOg&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
+http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/wowow.png" group-title="|港台影视|",日本WOWOW 
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/JTGJ.png" group-title="|港台影视|",靖天國際
@@ -230,16 +230,6 @@ http://61.58.60.230:9319/live/206.m3u8
 http://61.58.60.230:9319/live/191.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/str.png" group-title="|港台影视|",卫视合家欢台HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ty.png" group-title="|港台影视|",天映高清
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-CelestialMovie-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/tyjd.png" group-title="|港台影视|",天映经典
-https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic-avc1_1000000=7-CelestialClassic-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ks.png" group-title="|港台影视|",衛視卡式
-https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend-avc1_1000000=6-SCMlegend-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ANIMAX.png" group-title="|港台影视|",Animax Asia
-Animax,http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TVN.png" group-title="|港台影视|",tvN Asia
-https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-tvN-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/WXfeicui.png" group-title="|港台影视|",翡翠台
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HKGJ.png" group-title="|港台影视|",卫视国际电影台(阿拉伯)
@@ -272,22 +262,8 @@ https://ter.live2.ksmobile.net:443/yolo/ef3458e6c73cbdc151566892263ae8c0.flv
 http://hzyhjg.cc/cs/gat/ffxw.php
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/niandai.png" group-title="|港台新闻|",年代新聞
 http://192.200.120.82:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUASHI.png" group-title="|港台新闻|",華視新聞
-https://ter.live2.ksmobile.net:443/yolo/2a58ccd5d3799f0a9fd76c54bc4acd71.flv
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ZHONGSHI.png" group-title="|港台新闻|",中視新聞
-https://ter.live2.ksmobile.net:443/yolo/057513e23ca1f48bf7b12b1d978f15c8.flv
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/minshi.png" group-title="|港台新闻|",民视新闻
-https://ter.live2.ksmobile.net:443/yolo/8bb109cc8a9d30ff5db2beb7c85b9152.flv
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/MINSHI-tv.png" group-title="|港台新闻|",台湾民視
-rtmp://59.124.75.156/sat/tv051
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TAISHI.png" group-title="|港台新闻|",台湾台視
-rtmp://59.124.75.156/sat/tv071
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUASHI-tv.png" group-title="|港台新闻|",台湾華視
-rtmp://59.124.75.156/sat/tv111
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ZHONGSHI-tv.png" group-title="|港台新闻|",台湾中視
-rtmp://59.124.75.156/sat/tv091
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/youxian.png" group-title="|港台新闻|",有线新闻
-http://hzyhjg.cc/cs/gat/yxxw.php
+https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Acna.png" group-title="|港台新闻|",亚洲新闻频道
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNC.png" group-title="|港台新闻|",中国新华新闻
@@ -304,8 +280,6 @@ http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/taishicaijing.png" group-title="|港台新闻|",台視財經
 https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/dongsen1.png" group-title="|港台新闻|",東森財經
-rtmp://59.124.75.156/sat/tv571
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/DIYI.png" group-title="|港台新闻|",第一财经
 https://w1live.livecdn.yicai.com/live/cbn.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TVBS-huan.png" group-title="|港台新闻|",TVBS 歡樂
@@ -428,8 +402,8 @@ http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|国外综合|",国家地理频道
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/boome.png" group-title="|动画频道|",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/DISHINI.png" group-title="|动画频道|",迪士尼频道韩国
+http://222.236.197.77:9981/stream/channelid/1718028994?ticket=DA19C4DC1C6C4DA7BC1E613E9390F606C3EB0874&profile=pass
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/boome.png" group-title="|动画频道|",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TCT.png" group-title="|动画频道|",TCT孩子们
@@ -577,13 +551,9 @@ http://117.169.124.37:6610/ysten-businessmobile/live/jiatingjc/yst.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new8.png" group-title="|New TV|",家庭剧场
 http://gslbserv.itv.cmvideo.cn:80/000000001000/6316377948248689070/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6316377948248689070&owchid=ystenlive&owsid=7951969344461297064
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new9.png" group-title="|New TV|",爱情喜剧
-http://121.31.30.91:8081/ysten-business/live/aiqingxj/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new9.png" group-title="|New TV|",爱情喜剧
 http://117.169.124.37:6610/ysten-businessmobile/live/aiqingxj/yst.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new9.png" group-title="|New TV|",爱情喜剧
 http://gslbserv.itv.cmvideo.cn:80/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8393829412396288037&owchid=ystenlive&owsid=7951969344461671826
-#EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="|New TV|",古装剧场
-http://121.31.30.91:8081/ysten-business/live/guzhuangjc/1.m3u8
 #EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="|New TV|",古装剧场
 http://117.169.124.37:6610/ysten-businessmobile/live/guzhuangjc/yst.m3u8
 #EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="|New TV|",古装剧场
@@ -652,26 +622,6 @@ http://ivi.bupt.edu.cn/hls/chchd.m3u8
 rtmp://58.200.131.2:1935/livetv/chctv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CHC.jpg" group-title="|影视轮播|",CHC动作电影
 rtmp://58.200.131.2:1935/livetv/chcatv
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",好莱坞片
-http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",院线大片
-http://cibn.peoplevideo.cn/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影综合
-http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影导视
-http://cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",精品影院
-http://cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",流金岁月
-http://cibn.peoplevideo.cn/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8?wsSecret=5f38811d672214110f110816440adbdb
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",情感影院
-http://cinb1.peoplevideo.cn/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",喜剧影院
-http://cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="|影视轮播|",古装剧场
-http://cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",骄阳剧场
-http://cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-生化危机
 https://aldirect.rtmp.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",灾难大片
@@ -778,22 +728,6 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",新加坡8频道(普通话)
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",DOX院线
-http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8a7d213b10550559a073db188d08d5f7
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",DOX雅趣
-http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=98a5538384f14ca487ca96786a441bbe
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",DOX新知
-http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8df92ef18e714e80bc302723d5e933ee
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",DOX新艺
-http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=3fec5428637fe3d00cea8deb981ca71c
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",DOX怡家
-http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=9c6e3fd0b37dd8b7e4bc1f06c44cb6cf
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",DOX英伦
-http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=21e5f6a02640bf440df4c079b4c3ad23
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",DOX映画
-http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b17975299a9ac369dc
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",DOX美剧
-http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966813425bdccd
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-成龙
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",电影-神探狄仁杰
@@ -828,8 +762,6 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",爱奇艺_贺岁影院
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|影视轮播|",相声小品
-http://153.99.174.196/cdn-out.iqy.sc96655.com/tslive/c15_lb_xiangshengxiaopin_1080p_t10/c15_lb_xiangshengxiaopin_1080p_t10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|空中课堂|",空中英语
 http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
 #EXTINF:-1 tvg-logo="" group-title="|空中课堂|",眼保健操
