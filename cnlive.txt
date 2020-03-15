@@ -122,7 +122,7 @@ DOGTV,rtp://239.3.1.102:8001
 好莱坞影台HD,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=013#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 东森洋片HD,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=009#http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 东森电影HD,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=010#http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
-HBO-强档,http://220.158.149.28:8180/live/TV00000000000000000166@HHZT#http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE#vjms://58.215.133.185:8500:3502/live/cid=238#vjms://58.215.133.185:8500:3502/live/cid=238
+HBO-强档,http://220.158.149.28:8180/live/TV00000000000000000166@HHZT#http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE#vjms://58.215.133.185:8500:3502/live/cid=238
 HBO-中文,vjms://122.155.180.8:8500:5021/live/cid=261#vjms://58.215.133.185:8500:3502/live/cid=261
 龍祥時代電影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://192.200.120.82:8080/ZZ_shidai/ZZ_shidai.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=014
 靖天電影,http://61.58.60.230:9319/live/244.m3u8
@@ -174,7 +174,7 @@ TVB星河,msc://CXHMovie#https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 TVBS新闻,vjms://122.155.180.8:8500:5021/live/cid=348#http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 东森新闻,vjms://122.155.180.8:8500:5021/live/cid=340#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 壹新聞,vjms://122.155.180.8:8500:5021/live/cid=445#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8#https://usb.bozztv.com/ssh101/NEXTTV/NEXTTV/playlist.m3u8
-非凡新闻,http://hzyhjg.cc/cs/gat/ffxw.php
+非凡新闻,vjms://122.155.180.8:8500:5021/live/cid=443
 年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 民视台湾台,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c
 台湾華視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=011#http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
@@ -204,7 +204,8 @@ NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8
 新唐人亚太,https://live.ntdimg.com/aplive200/playlist.m3u8
 |亚洲综合|,#genre#
-时尚频道,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+时尚频道,vjms://122.155.180.8:8500:5021/live/cid=399
+国外暴力摔跤,vjms://122.155.180.8:8500:5021/live/cid=408
 台灣藝術,http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
 幸福空间居家,http://61.58.60.230:9319/live/125.m3u8
@@ -218,12 +219,6 @@ Cnex,http://61.58.60.230:9319/live/257.m3u8
 马来西亚POP Life,https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/playlist.m3u8
 马来西亚ife TV,https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
 番薯TV,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
-公视三台,https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
-ViuTV,http://103.56.112.40/kds/aigt.php?id=8
-创世电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
-阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
-Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
-CHTV台湾台,http://220.158.149.14:9999/live/TV00000000000000000002@HHZT;LIVE
 奥视卫星,http://61.244.22.5/ch3/_definst_/ch3.live/chunklist_w897977236.m3u8
 澳门互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
 澳門衛視,http://stream.mastvnet.com/MSTV/SD/live.m3u8#http://stream.mastvnet.com/MASTV/sd/live.m3u8
@@ -240,6 +235,8 @@ NHK英语,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index
 日本全天新聞,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8#http://www.news24.jp/livestream/index.m3u8
 HKC综合娱乐台(HD),https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8?sessionID=9kCgBKoMkYbeBaMknmi5oQzz
 信吉电视,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
+CHTV台湾台,http://220.158.149.14:9999/live/TV00000000000000000002@HHZT;LIVE
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 高清时尚台,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 欧美MTV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
