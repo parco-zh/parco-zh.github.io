@@ -973,3 +973,19 @@ CCTV6电影,http://61.58.60.230:9319/live/225.m3u8
 韩国lKTV 韩国电视,http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
 韩国lUBC SBS,http://59.25.202.81:1935/live/UBCstream/chunklist_w1495115977.m3u8
 韩国lKCTV中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+|单日测试|,#genre#
+无线新闻,http://pull.scphsd.com/live/fef85a40a9d6d51c376793660e726f14.flv
+有线新闻,http://pull.scphsd.com/live/a56c80d2d8eda6ccfb09476c44cdf496.flv
+NOW新闻,http://pull.scphsd.com/live/df7e62c6af19af13dc9147768729c82f.flv
+now新闻,https://hdl0901.plures.net/onlive/fjou2qcj8jufwefoiiiwb667dzyujcr7.flv
+有线新闻,http://pull.scphsd.com/live/a56c80d2d8eda6ccfb09476c44cdf496.flv
+J2,http://pull.scphsd.com/live/f0438e011bfa485f4b32af7e92de4086.flv
+功夫台,http://pull.scphsd.com/live/1205d9a1d08f07267c9eb896c14144ea.flv
+有线电影台,http://pull.scphsd.com/live/c484c2972a551003f77e13c9c3354b46.flv
+翡翠台,http://pull.scphsd.com/live/2d28e7f4066afc3511ae35244645ff22.flv
+TVB星河,http://pull.scphsd.com/live/166eb0f8dda23fdcb011f63620e49281.flv
+18台,http://pull.scphsd.com/live/e2fcd45366689c517ce2d66c9108a5a2.flv
+hr603,http://pull.scphsd.com/live/6df3b73c8e462408da5eeb86104f72fb.flv
+中天新闻,http://pull.scphsd.com/live/7fd79b5cf48c42278cfb02bf038156bc.flv
+有线新闻,http://pull.scphsd.com/live/a56c80d2d8eda6ccfb09476c44cdf496/playlist.m3u8
+翡翠台,http://pull.scphsd.com/live/2d28e7f4066afc3511ae35244645ff22/playlist.m3u8
