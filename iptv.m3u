@@ -247,9 +247,9 @@ http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/zhongtian.png" group-title="|港台新闻|",中天新闻
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/sanli.png" group-title="|港台新闻|",三立新闻
-http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+http://60.199.188.66/HLS/WG_ETTV-N/01.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TVBS.png" group-title="|港台新闻|",TVBS新闻
-http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/nexttv.png" group-title="|港台新闻|",臺新聞
 https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/dongsen.png" group-title="|港台新闻|",东森新闻
