@@ -253,15 +253,21 @@ http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/nexttv.png" group-title="|港台新闻|",臺新聞
 https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/dongsen.png" group-title="|港台新闻|",东森新闻
-http://hzyhjg.cc/cs/gat/dsxw.php
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUANYU.png" group-title="|港台新闻|",寰宇新闻
 https://ter.live2.ksmobile.net:443/yolo/96776f4be626f1e76f0acbfa3e880274.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUANYU2.png" group-title="|港台新闻|",寰宇新闻2
 https://ter.live2.ksmobile.net:443/yolo/ef3458e6c73cbdc151566892263ae8c0.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FEIFAN.png" group-title="|港台新闻|",非凡新闻
-http://hzyhjg.cc/cs/gat/ffxw.php
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/niandai.png" group-title="|港台新闻|",年代新聞
-http://192.200.120.82:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+http://pull.scphsd.com/live/d7a674428b86b562a71a8a15ba71d76e.flv
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/minshi.png" group-title="|港台新闻|",民视新聞
+http://lss.line-scdn.net/cc_tw/p/live/hbj6H-OiNPERZXCJUY0khczBkMyYhUXMaZ1BxcXoxYyF2CS0aNlIndHplYyYvBXhAN1d6cXkxYHMuRHtAZ1UhJ3pjfXUnHnoQPkhyISYuY3cmCnoSNl5y/720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUASHI.png" group-title="|港台新闻|",华视新聞
+http://lss.line-scdn.net/cc_tw/p/live/hUKhgC2HWC2UEcxV1PWYWUm4bUQYreh0zYX9HByIeVAAofUo3bSwQBCQaB1UtLEQxOnhNUCIXUV18a0xhOX1MC3QaSlR5MU0xYGdFB3EBUldzLkwzYHg/720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ZHONGSHI.png" group-title="|港台新闻|",中视新聞
+http://lss.line-scdn.net/cc_tw/p/live/hDxcsMArNGlYMZwRGNnIHYWVYR2IgagxTMmtWNX4KRTMjaVsEZj8DNXpaFmUnOAtTZ2xcYygDTWBzf11SMmlcNnMOW2dyJVwCa3NUM3MVRWVzMVwAY2VU/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/youxian.png" group-title="|港台新闻|",有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Acna.png" group-title="|港台新闻|",亚洲新闻频道

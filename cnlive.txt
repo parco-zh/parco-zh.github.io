@@ -171,8 +171,11 @@ TVB星河,msc://CXHMovie#https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 TVBS新闻,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8#vjms://122.155.180.8:8500:5021/live/cid=348#http://60.199.188.66/HLS/WG_TVBS-N/02.m3u8
 东森新闻,vjms://122.155.180.8:8500:5021/live/cid=340#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://hzyhjg.cc/cs/gat/dsxw.php
 壹新聞,vjms://122.155.180.8:8500:5021/live/cid=445
-非凡新闻,http://hzyhjg.cc/cs/gat/ffxw.php#vjms://122.155.180.8:8500:5021/live/cid=443
+非凡新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8#http://hzyhjg.cc/cs/gat/ffxw.php#vjms://122.155.180.8:8500:5021/live/cid=443
 年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+中视新闻,http://lss.line-scdn.net/cc_tw/p/live/hDxcsMArNGlYMZwRGNnIHYWVYR2IgagxTMmtWNX4KRTMjaVsEZj8DNXpaFmUnOAtTZ2xcYygDTWBzf11SMmlcNnMOW2dyJVwCa3NUM3MVRWVzMVwAY2VU/720/chunklist.m3u8
+华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hUKhgC2HWC2UEcxV1PWYWUm4bUQYreh0zYX9HByIeVAAofUo3bSwQBCQaB1UtLEQxOnhNUCIXUV18a0xhOX1MC3QaSlR5MU0xYGdFB3EBUldzLkwzYHg/720/chunklist.m3u8
+民视新闻,http://lss.line-scdn.net/cc_tw/p/live/hbj6H-OiNPERZXCJUY0khczBkMyYhUXMaZ1BxcXoxYyF2CS0aNlIndHplYyYvBXhAN1d6cXkxYHMuRHtAZ1UhJ3pjfXUnHnoQPkhyISYuY3cmCnoSNl5y/720/chunklist.m3u8
 民视台湾台,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c
 台湾公视3,https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
 台湾華視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=011#http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
