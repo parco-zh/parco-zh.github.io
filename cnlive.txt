@@ -198,7 +198,6 @@ NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8
 新唐人亚太,https://live.ntdimg.com/aplive200/playlist.m3u8
 |亚洲综合|,#genre#
-世界时尚电视,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 高清时尚台,vjms://122.155.180.8:8500:5021/live/cid=399
 时尚频道,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 国外暴力摔跤,vjms://122.155.180.8:8500:5021/live/cid=408
@@ -238,6 +237,7 @@ CHTV台湾台,http://220.158.149.14:9999/live/TV00000000000000000002@HHZT;LIVE
 欧美MTV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts#p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts#p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
 俄罗斯НовоеРадиоТВ音乐电视频道,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+世界时尚电视,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 |国外新闻|,#genre#
 美国|CNN新闻,https://116.77.72.195/streams/d/cnn/playlist.m3u8#vjms://122.155.180.8:8500:5021/live/cid=428
 美国|CBSN新闻台,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8#http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8#https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
@@ -984,6 +984,13 @@ FOX3体育,vjms://122.155.180.8:8500:5021/live/cid=95
 东森电影,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298786_WkyL7.m3u8
 非凡新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
 三立新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8
+中天新闻,http://lss.line-scdn.net/cc_tw/p/live/hpH-dWwFMLmZHcDB2eGUzUSsUJlQ9eGwweXxjVDQdcQNtfjxhKnlmCDQcI1M0eDo0K3toU2AUc154LDthLihpUzwDcVYiLWs4M3tlACoUelc8LGEx/720/chunklist.m3u8
+中天综合,http://lss.line-scdn.net/cc_tw/p/live/hxJtcal08JmQbdzh0IWI7U3IaLFFmemhkJ3tqBzwaeQE0eWc2cShuU2RPcAVkeWkzInxgUTsTfVdsb2FgJXlgVGVNZ1VlNWAwfGNoAWQFeVdnIWAydHVo/720/chunklist.m3u8
+中视新闻,http://lss.line-scdn.net/cc_tw/p/live/hDxcsMArNGlYMZwRGNnIHYWVYR2IgagxTMmtWNX4KRTMjaVsEZj8DNXpaFmUnOAtTZ2xcYygDTWBzf11SMmlcNnMOW2dyJVwCa3NUM3MVRWVzMVwAY2VU/720/chunklist.m3u8
+华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hUKhgC2HWC2UEcxV1PWYWUm4bUQYreh0zYX9HByIeVAAofUo3bSwQBCQaB1UtLEQxOnhNUCIXUV18a0xhOX1MC3QaSlR5MU0xYGdFB3EBUldzLkwzYHg/720/chunklist.m3u8
+民视新闻,http://lss.line-scdn.net/cc_tw/p/live/hbj6H-OiNPERZXCJUY0khczBkMyYhUXMaZ1BxcXoxYyF2CS0aNlIndHplYyYvBXhAN1d6cXkxYHMuRHtAZ1UhJ3pjfXUnHnoQPkhyISYuY3cmCnoSNl5y/720/chunklist.m3u8
+影迷数位台,http://lss.line-scdn.net/cc_tw/p/live/hINkxPJssF2AGbAlwPnkKV20DGlJ_N1BgPmBbBXEBSAUrOQEzPmFdUiZRSVVyNVEyb2dRUnAFSlR_dFBkOmJdU3cFVlF6LlE0Y3hZBXseTVp7MFA-ag/720/chunklist.m3u8
+HIST,http://lss.line-scdn.net/cc_tw/p/live/hqzz894kkL1QXLDFELzkyY3xEdDVqcGpWLyBiZmdBcDE6Ij1TfSVjOmpDdmY6eDoAeCdpYTJJdWJjNGhQKyUyZGNCbmVrbmkAcjhhMWpedW5qcGgKew/720/chunklist.m3u8
 无线新闻,http://pull.scphsd.com/live/f51c376793660e726f1ef485a40a9d6d.flv
 有线新闻,http://pull.scphsd.com/live/acfb09476c44cdf49656c80d2d8eda6c.flv
 J2,http://pull.scphsd.com/live/f85f4b32af7e92de40860438e011bfa4.flv
