@@ -198,6 +198,8 @@ NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8
 新唐人亚太,https://live.ntdimg.com/aplive200/playlist.m3u8
 |亚洲综合|,#genre#
+世界时尚电视,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
+高清时尚台,vjms://122.155.180.8:8500:5021/live/cid=399
 时尚频道,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 国外暴力摔跤,vjms://122.155.180.8:8500:5021/live/cid=408
 台灣藝術,http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
@@ -978,6 +980,10 @@ FOX3体育,vjms://122.155.180.8:8500:5021/live/cid=95
 韩国lKCTV中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 |单日测试|,#genre#
 壹新闻,http://pull.scphsd.com/live/380c4d6c56dbb8ff73e032cd61908b6e/playlist.m3u8?wsSession=38095ec9f4b0ecdfa27e6087-158433072687414&wsIPSercert=540fdb0c874b56f28c0ae249d5cb984c&wsMonitor=0
+东森新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
+东森电影,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298786_WkyL7.m3u8
+非凡新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
+三立新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298998_I3GDL.m3u8
 无线新闻,http://pull.scphsd.com/live/f51c376793660e726f1ef485a40a9d6d.flv
 有线新闻,http://pull.scphsd.com/live/acfb09476c44cdf49656c80d2d8eda6c.flv
 J2,http://pull.scphsd.com/live/f85f4b32af7e92de40860438e011bfa4.flv
