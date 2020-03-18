@@ -994,10 +994,8 @@ FOX3体育,vjms://122.155.180.8:8500:5021/live/cid=95
 民视新闻,http://lss.line-scdn.net/cc_tw/p/live/hbj6H-OiNPERZXCJUY0khczBkMyYhUXMaZ1BxcXoxYyF2CS0aNlIndHplYyYvBXhAN1d6cXkxYHMuRHtAZ1UhJ3pjfXUnHnoQPkhyISYuY3cmCnoSNl5y/720/chunklist.m3u8
 影迷数位台,http://lss.line-scdn.net/cc_tw/p/live/hINkxPJssF2AGbAlwPnkKV20DGlJ_N1BgPmBbBXEBSAUrOQEzPmFdUiZRSVVyNVEyb2dRUnAFSlR_dFBkOmJdU3cFVlF6LlE0Y3hZBXseTVp7MFA-ag/720/chunklist.m3u8
 HIST,http://lss.line-scdn.net/cc_tw/p/live/hqzz894kkL1QXLDFELzkyY3xEdDVqcGpWLyBiZmdBcDE6Ij1TfSVjOmpDdmY6eDoAeCdpYTJJdWJjNGhQKyUyZGNCbmVrbmkAcjhhMWpedW5qcGgKew/720/chunklist.m3u8
-无线新闻,http://pull.scphsd.com/live/f51c376793660e726f1ef485a40a9d6d.flv
-有线新闻,http://pull.scphsd.com/live/acfb09476c44cdf49656c80d2d8eda6c.flv
-J2,http://pull.scphsd.com/live/f85f4b32af7e92de40860438e011bfa4.flv
-翡翠台,http://pull.scphsd.com/live/2511ae35244645ff2d28e7f4066afc32.flv
-18台,http://pull.scphsd.com/live/e2fc517ce2d66c9108a5a2cd45366689.flv
-HD603,http://pull.scphsd.com/live/65eeb86104f72fbdf3b73c8e462408da.flv
-VIUTV,http://pull.scphsd.com/live/074773d8ac4e3460b6d727dc2eca6223.flv
+翡翠台,http://pull.scphsd.com/live/5ff2d28e7f4066afc32511ae35244642/playlist.m3u8
+J2,http://pull.scphsd.com/live/de40860438e011bfaf85f4b32af7e924/playlist.m3u8
+明珠,http://pull.scphsd.com/live/0283db9ad5c8faf6c3a638635b934623/playlist.m3u8
+无线新闻,http://pull.scphsd.com/live/f1ef485a40a9d6df51c376793660e726/playlist.m3u8
+有线新闻,http://pull.scphsd.com/live/df49656c80d2d8eda6cacfb09476c44c/playlist.m3u8
