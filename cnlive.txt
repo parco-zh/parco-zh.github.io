@@ -176,8 +176,6 @@ TVBS新闻,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8#vjms://122.155.180.8:8500:
 中视新闻,http://lss.line-scdn.net/cc_tw/p/live/hDxcsMArNGlYMZwRGNnIHYWVYR2IgagxTMmtWNX4KRTMjaVsEZj8DNXpaFmUnOAtTZ2xcYygDTWBzf11SMmlcNnMOW2dyJVwCa3NUM3MVRWVzMVwAY2VU/720/chunklist.m3u8
 华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hUKhgC2HWC2UEcxV1PWYWUm4bUQYreh0zYX9HByIeVAAofUo3bSwQBCQaB1UtLEQxOnhNUCIXUV18a0xhOX1MC3QaSlR5MU0xYGdFB3EBUldzLkwzYHg/720/chunklist.m3u8
 民视新闻,http://lss.line-scdn.net/cc_tw/p/live/hbj6H-OiNPERZXCJUY0khczBkMyYhUXMaZ1BxcXoxYyF2CS0aNlIndHplYyYvBXhAN1d6cXkxYHMuRHtAZ1UhJ3pjfXUnHnoQPkhyISYuY3cmCnoSNl5y/720/chunklist.m3u8
-寰宇新闻台,P2p://sdgdklwos.finetv.tv:9906/59fd2b5e0006d13802bde4340bc41e87
-寰宇新闻2,P2p://sdgdklwos.finetv.tv:9906/5a142744000f25045fbe6f82276e0d88
 民视台湾台,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c
 台湾公视3,https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
 台湾華視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=011#http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
