@@ -176,6 +176,8 @@ TVBS新闻,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8#vjms://122.155.180.8:8500:
 中视新闻,http://lss.line-scdn.net/cc_tw/p/live/hDxcsMArNGlYMZwRGNnIHYWVYR2IgagxTMmtWNX4KRTMjaVsEZj8DNXpaFmUnOAtTZ2xcYygDTWBzf11SMmlcNnMOW2dyJVwCa3NUM3MVRWVzMVwAY2VU/720/chunklist.m3u8
 华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hUKhgC2HWC2UEcxV1PWYWUm4bUQYreh0zYX9HByIeVAAofUo3bSwQBCQaB1UtLEQxOnhNUCIXUV18a0xhOX1MC3QaSlR5MU0xYGdFB3EBUldzLkwzYHg/720/chunklist.m3u8
 民视新闻,http://lss.line-scdn.net/cc_tw/p/live/hbj6H-OiNPERZXCJUY0khczBkMyYhUXMaZ1BxcXoxYyF2CS0aNlIndHplYyYvBXhAN1d6cXkxYHMuRHtAZ1UhJ3pjfXUnHnoQPkhyISYuY3cmCnoSNl5y/720/chunklist.m3u8
+寰宇新闻台,P2p://sdgdklwos.finetv.tv:9906/59fd2b5e0006d13802bde4340bc41e87
+寰宇新闻2,P2p://sdgdklwos.finetv.tv:9906/5a142744000f25045fbe6f82276e0d88
 民视台湾台,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c
 台湾公视3,https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
 台湾華視,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=011#http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
@@ -188,6 +190,8 @@ TVBS新闻,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8#vjms://122.155.180.8:8500:
 加拿大中文电视台,http://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_2150400_av-b.m3u8
 亚洲新闻频道 ,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 中国新华新闻,http://livecdn1.news.cn/cnccn/manifest.m3u8
+无线新闻台,https://ootori.xyz/tv/tvb.php?id=inews
+无线资讯台,https://ootori.xyz/tv/tvb.php?id=j5_ch85
 有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 中天娱乐,http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=006
 中天综合,http://iptv.52qdg.com/iptv.php?id=tw&pamid=005
@@ -292,10 +296,6 @@ Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 中国功夫,http://gslbserv.itv.cmvideo.cn:80/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5897056882324761054&owchid=ystenlive&owsid=7951969344461800735
 潮妈辣婆,http://gslbserv.itv.cmvideo.cn:80/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=7951969344462324357
 |影视轮播|,#genre#
-DOX TV,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000126
-精彩影视,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000149
-都市剧场,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000142
-CHC高清电影FHD,http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8?&virtualDomain=001.live_hls.zte.com#rtmp://ivi.bupt.edu.cn:1935/livetv/chchd#http://ivi.bupt.edu.cn/hls/chchd.m3u8#rtmp://58.200.131.2:1935/livetv/chchd
 iHOT爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -313,6 +313,24 @@ iHOT爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=z
 iHOT爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CIBN好莱坞,http://v.iam7.cn/iptv/cibn.php?code=ZongHe
+CIBN动作影院,http://v.iam7.cn/iptv/cibn.php?code=ShengHuo
+CIBN华语影院,http://v.iam7.cn/iptv/cibn.php?code=TiYu
+CIBN喜剧影院,http://v.iam7.cn/iptv/cibn.php?code=TongBu
+CIBN情感影院,http://v.iam7.cn/iptv/cibn.php?code=QingGan
+CIBN精品影院,http://v.iam7.cn/iptv/cibn.php?code=JingPin
+CIBN电影综合,http://v.iam7.top/iptv/cibn/?id=1108&code=DianYing
+CIBN经典剧场,http://v.iam7.cn/iptv/cibn.php?code=DOTA2
+CIBN骄阳剧场,http://v.iam7.top/iptv/cibn/?id=1108&code=JingDian
+CIBN古装剧场,http://v.iam7.cn/iptv/cibn.php?code=ZongYi
+CIBN流金岁月,http://v.iam7.cn/iptv/cibn.php?code=Shoucang
+CIBN映画,http://v.iam7.top/iptv/cibn/?id=1108&code=TiYu
+国际剧场,http://stream.guihet.com/migu/index.php?id=625542365
+传奇剧场,http://stream.guihet.com/migu/index.php?id=625526423
+DOX TV,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000126
+精彩影视,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000149
+都市剧场,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000142
+CHC高清电影FHD,http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8?&virtualDomain=001.live_hls.zte.com#rtmp://ivi.bupt.edu.cn:1935/livetv/chchd#http://ivi.bupt.edu.cn/hls/chchd.m3u8#rtmp://58.200.131.2:1935/livetv/chchd
 国外电影中文,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 国外电影中文1,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 国外动画中文,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
