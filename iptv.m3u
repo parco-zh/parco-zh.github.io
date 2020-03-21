@@ -257,7 +257,7 @@ https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUANYU.png" group-title="|港台新闻|",寰宇新闻
 https://ter.live2.ksmobile.net:443/yolo/96776f4be626f1e76f0acbfa3e880274.flv
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUANYU2.png" group-title="|港台新闻|",寰宇新闻2
-https://ter.live2.ksmobile.net:443/yolo/ef3458e6c73cbdc151566892263ae8c0.flv
+http://ms003.happytv.com.tw/live/fkFeyYT8fwboq8Db/index.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FEIFAN.png" group-title="|港台新闻|",非凡新闻
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/niandai.png" group-title="|港台新闻|",年代新聞
@@ -275,9 +275,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNC.png" group-title="|港台新闻|",中国新华新闻
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FEICUI.png" group-title="|港台新闻|",翡翠台
-http://hzyhjg.cc/cs/gat/fct.php
+http://hk.tv0668.com/dl/hk520.php?id=1
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/hkwuxian.png" group-title="|港台新闻|",无线新闻
-http://www.liveviptv.xyz/tv/tvb.php
+http://hk.tv0668.com/dl/hk520.php?id=9
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/8da.png" group-title="|港台新闻|",八大综合台
 http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ztyl.png" group-title="|港台新闻|",CTI中天娱乐
@@ -474,10 +474,6 @@ http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="" group-title="|动画频道|",广东少儿
 http://nclive.grtn.cn/tvs5/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png" group-title="|动画频道|",卡酷少儿
-http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
-#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png" group-title="|动画频道|",卡酷少儿
-http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|动画频道|",FZTV-少儿
 http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|动画频道|",猫和老鼠
@@ -511,111 +507,45 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new1.png" group-title="|New TV|",动作电影
 http://121.31.30.91:8081/ysten-business/live/dongzuody/1.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new1.png" group-title="|New TV|",动作电影
-http://117.169.124.37:6610/ysten-businessmobile/live/dongzuody/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new1.png" group-title="|New TV|",动作电影
-http://gslbserv.itv.cmvideo.cn:80/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=7951969344461271832
+http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new2.png" group-title="|New TV|",明星大片
 http://121.31.30.91:8081/ysten-business/live/mingxingdp/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new2.png" group-title="|New TV|",明星大片
-http://117.169.124.37:6610/ysten-businessmobile/live/mingxingdp/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new2.png" group-title="|New TV|",明星大片
-http://gslbserv.itv.cmvideo.cn:80/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=7951969344461437044
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new3.png" group-title="|New TV|",金牌综艺
 http://121.31.30.91:8081/ysten-business/live/saishijx/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new3.png" group-title="|New TV|",金牌综艺
-http://117.169.124.37:6610/ysten-businessmobile/live/saishijx/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new3.png" group-title="|New TV|",金牌综艺
-http://gslbserv.itv.cmvideo.cn:80/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6399725674632152632&owchid=ystenlive&owsid=7951969344461811424
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new4.png" group-title="|New TV|",精品体育
 http://121.31.30.91:8081/ysten-business/live/jtiyu/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new4.png" group-title="|New TV|",精品体育
-http://117.169.124.37:6610/ysten-businessmobile/live/jtiyu/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new4.png" group-title="|New TV|",精品体育
-http://gslbserv.itv.cmvideo.cn:80/000000001000/6460382139625130259/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6460382139625130259&owchid=ystenlive&owsid=7951969344462313166
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new5.png" group-title="|New TV|",精品大剧
 http://121.31.30.91:8081/ysten-business/live/jdaju/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new5.png" group-title="|New TV|",精品大剧
-http://117.169.124.37:6610/ysten-businessmobile/live/jdaju/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new5.png" group-title="|New TV|",精品大剧
-http://gslbserv.itv.cmvideo.cn:80/000000001000/7882297361445410858/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7882297361445410858&owchid=ystenlive&owsid=7951969344461789021
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new6.png" group-title="|New TV|",精品电影
 http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new6.png" group-title="|New TV|",精品电影
-http://117.169.124.37:6610/ysten-businessmobile/live/jdianying/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new6.png" group-title="|New TV|",精品电影
-http://gslbserv.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7951969344461621383
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new7.png" group-title="|New TV|",海外剧场
 http://121.31.30.91:8081/ysten-business/live/xiqumd/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new7.png" group-title="|New TV|",海外剧场
-http://117.169.124.37:6610/ysten-businessmobile/live/xiqumd/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new7.png" group-title="|New TV|",海外剧场
-http://gslbserv.itv.cmvideo.cn:80/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7681593242002292003&owchid=ystenlive&owsid=7951969344461325347
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new8.png" group-title="|New TV|",家庭剧场
 http://121.31.30.91:8081/ysten-business/live/jiatingjc/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new8.png" group-title="|New TV|",家庭剧场
-http://117.169.124.37:6610/ysten-businessmobile/live/jiatingjc/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new8.png" group-title="|New TV|",家庭剧场
-http://gslbserv.itv.cmvideo.cn:80/000000001000/6316377948248689070/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6316377948248689070&owchid=ystenlive&owsid=7951969344461297064
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new9.png" group-title="|New TV|",爱情喜剧
-http://117.169.124.37:6610/ysten-businessmobile/live/aiqingxj/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new9.png" group-title="|New TV|",爱情喜剧
-http://gslbserv.itv.cmvideo.cn:80/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8393829412396288037&owchid=ystenlive&owsid=7951969344461671826
+http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
 #EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="|New TV|",古装剧场
-http://117.169.124.37:6610/ysten-businessmobile/live/guzhuangjc/yst.m3u8
-#EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="|New TV|",古装剧场
-http://gslbserv.itv.cmvideo.cn:80/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6859053933687922163&owchid=ystenlive&owsid=7951969344461257334
+http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new10.png" group-title="|New TV|",军旅剧场
 http://121.31.30.91:8081/ysten-business/live/junlvjc/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new10.png" group-title="|New TV|",军旅剧场
-http://117.169.124.37:6610/ysten-businessmobile/live/junlvjc/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new10.png" group-title="|New TV|",军旅剧场
-http://gslbserv.itv.cmvideo.cn:80/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7485075951068666323&owchid=ystenlive&owsid=7951969344461285239
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new11.png" group-title="|New TV|",惊悚悬疑
 http://121.31.30.91:8081/ysten-business/live/jingsongxy/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new11.png" group-title="|New TV|",惊悚悬疑
-http://117.169.124.37:6610/ysten-businessmobile/live/jingsongxy/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new11.png" group-title="|New TV|",惊悚悬疑
-http://gslbserv.itv.cmvideo.cn:80/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7151256057701199617&owchid=ystenlive&owsid=7951969344461309585
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new12.png" group-title="|New TV|",精品记录
 http://121.31.30.91:8081/ysten-business/live/jingpinjl/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new12.png" group-title="|New TV|",精品记录
-http://117.169.124.37:6610/ysten-businessmobile/live/jingpinjl/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new12.png" group-title="|New TV|",精品记录
-http://gslbserv.itv.cmvideo.cn:80/000000001000/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6298506997017621594&owchid=ystenlive&owsid=7951969344462219754
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new13.png" group-title="|New TV|",军事评论
 http://121.31.30.91:8081/ysten-business/live/junshipl/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new13.png" group-title="|New TV|",军事评论
-http://117.169.124.37:6610/ysten-businessmobile/live/junshipl/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new13.png" group-title="|New TV|",军事评论
-http://gslbserv.itv.cmvideo.cn:80/000000001000/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5822616274253344775&owchid=ystenlive&owsid=7951969344461854480
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new14.png" group-title="|New TV|",农业致富
 http://121.31.30.91:8081/ysten-business/live/nongyezf/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new14.png" group-title="|New TV|",农业致富
-http://117.169.124.37:6610/ysten-businessmobile/live/nongyezf/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new14.png" group-title="|New TV|",农业致富
-http://gslbserv.itv.cmvideo.cn:80/000000001000/6193684637634073625/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6193684637634073625&owchid=ystenlive&owsid=7951969344462094324
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HEIMEI.png" group-title="|New TV|",黑莓电竞
 http://121.31.30.91:8081/ysten-business/live/wmyx/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HEIMEI.png" group-title="|New TV|",黑莓电竞
-http://117.169.124.37:6610/ysten-businessmobile/live/wmyx/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HEIMEI.png" group-title="|New TV|",黑莓电竞
-http://gslbserv.itv.cmvideo.cn:80/000000001000/5320946857686967621/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5320946857686967621&owchid=ystenlive&owsid=7951969344462105144
 #EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="|New TV|",健康有约
 http://121.31.30.91:8081/ysten-business/live/ljiankangyouyue/1.m3u8
-#EXTINF:-1 tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg" group-title="|New TV|",健康有约
-http://117.169.124.37:6610/ysten-businessmobile/live/ljiankangyouyue/yst.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new17.png" group-title="|New TV|",搏击
 http://121.31.30.91:8081/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new17.png" group-title="|New TV|",搏击
-http://gslbserv.itv.cmvideo.cn:80/000000001000/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=bokesen&owchid=ystenlive&owsid=7951969344461425531
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new18.png" group-title="|New TV|",黑莓动画
-http://117.169.124.37:6610/ysten-businessmobile/live/donghuawg/yst.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new18.png" group-title="|New TV|",黑莓动画
-http://gslbserv.itv.cmvideo.cn:80/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=7951969344461242832
+http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new15.png" group-title="|New TV|",中国功夫
-http://gslbserv.itv.cmvideo.cn:80/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5897056882324761054&owchid=ystenlive&owsid=7951969344461800735
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/new16.png" group-title="|New TV|",潮妈辣婆
-http://gslbserv.itv.cmvideo.cn:80/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=7951969344462324357
+http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u85
 #EXTINF:-1 tvg-logo="" group-title="|影视轮播|",BesTV鼎级
 http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000142
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CHC.jpg" group-title="|影视轮播|",CHC高清电影
