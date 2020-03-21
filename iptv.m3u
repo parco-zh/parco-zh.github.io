@@ -251,7 +251,7 @@ http://60.199.188.66/HLS/WG_ETTV-N/01.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TVBS.png" group-title="|港台新闻|",TVBS新闻
 http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/nexttv.png" group-title="|港台新闻|",臺新聞
-https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/02.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/dongsen.png" group-title="|港台新闻|",东森新闻
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUANYU.png" group-title="|港台新闻|",寰宇新闻
@@ -277,7 +277,7 @@ http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FEICUI.png" group-title="|港台新闻|",翡翠台
 http://hzyhjg.cc/cs/gat/fct.php
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/hkwuxian.png" group-title="|港台新闻|",无线新闻
-http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+http://www.liveviptv.xyz/tv/tvb.php
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/8da.png" group-title="|港台新闻|",八大综合台
 http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ztyl.png" group-title="|港台新闻|",CTI中天娱乐
