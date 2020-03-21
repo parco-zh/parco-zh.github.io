@@ -122,7 +122,6 @@ DOGTV,rtp://239.3.1.102:8001
 好莱坞影台HD,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=013#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 东森洋片HD,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=009#http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 东森电影HD,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=010#http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
-HBO HD,P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
 星影,rtp://239.3.1.94:4120
 光影,rtp://239.3.1.84:4120
 精选,rtp://239.3.1.74:4120
@@ -254,7 +253,6 @@ CHTV台湾台,http://220.158.149.14:9999/live/TV00000000000000000002@HHZT;LIVE
 世界时尚电视,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 |国外新闻|,#genre#
 美国|CNN新闻,https://116.77.72.195/streams/d/cnn/playlist.m3u8#vjms://122.155.180.8:8500:5021/live/cid=428
-美国|有线电视新闻网CNN 高清,P2p://sdgdklwos.finetv.tv:9906/59fd16db000b5f05026dc5a57b516fdb
 英国|BBC新闻台 高清,P2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
 美国|CBSN新闻台,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8#http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8#https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
 BBC新闻,vjms://122.155.180.8:8500:5021/live/cid=418
