@@ -174,8 +174,8 @@ http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HBO-Asia.png" group-title="|港台影视|",HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HBO-us.png" group-title="|港台影视|",HBO 
-http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HBOHD.png" group-title="|港台影视|",HBO HD
+http://ter.live2.ksmobile.net/yolo/09409225edf1421fac4d97e29edc123c/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/MNX.png" group-title="|港台影视|",好莱坞MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ebcyp.png" group-title="|港台影视|",东森洋片HD
@@ -328,8 +328,10 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fs
 https://live2.ntdimg.com/cnlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|港台新闻|",新唐人亚太
 https://live.ntdimg.com/aplive200/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNN-tu.png" group-title="|国外新闻|",CNN
-https://116.77.72.195/streams/d/cnn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNN-fei.png" group-title="|国外新闻|",CNN
+http://54.251.134.121:1935/live/15273.sdp/02.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/DW.png" group-title="|国外新闻|",德国之声
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNN-tu.png" group-title="|国外新闻|",CNN土耳其
 http://streams2.livetv.az/turk/cnn_stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/CNN-fei.png" group-title="|国外新闻|",CNN菲律宾
