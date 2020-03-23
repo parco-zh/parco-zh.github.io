@@ -176,9 +176,9 @@ TVBS新闻,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8#vjms://122.155.180.8:8500:
 东森新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://122.155.180.8:8500:5021/live/cid=340#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 寰宇新聞臺,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
 寰宇新闻2台,http://ms003.happytv.com.tw/live/fkFeyYT8fwboq8Db/index.m3u8
-壹新聞,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#vjms://122.155.180.8:8500:5021/live/cid=445
+壹新聞,vjms://122.155.180.8:8500:5021/live/cid=445#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/02.m3u8
 非凡新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8#vjms://122.155.180.8:8500:5021/live/cid=443
-年代新闻,http://pull.scphsd.com/live/d7a674428b86b562a71a8a15ba71d76e.flv#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+年代新闻,vjms://58.215.133.161:8500/live/cid=455#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 年代MUCH,vjms://58.215.133.161:8500/live/cid=439
 中视新闻,http://lss.line-scdn.net/cc_tw/p/live/hDxcsMArNGlYMZwRGNnIHYWVYR2IgagxTMmtWNX4KRTMjaVsEZj8DNXpaFmUnOAtTZ2xcYygDTWBzf11SMmlcNnMOW2dyJVwCa3NUM3MVRWVzMVwAY2VU/720/chunklist.m3u8
 华视新闻,http://lss.line-scdn.net/cc_tw/p/live/hUKhgC2HWC2UEcxV1PWYWUm4bUQYreh0zYX9HByIeVAAofUo3bSwQBCQaB1UtLEQxOnhNUCIXUV18a0xhOX1MC3QaSlR5MU0xYGdFB3EBUldzLkwzYHg/720/chunklist.m3u8
