@@ -122,7 +122,6 @@ DOGTV,rtp://239.3.1.102:8001
 好莱坞影台HD,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=013#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 东森洋片HD,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=009#http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 东森电影HD,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=010#http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
-HBO  HD,P2p://lino.homeunix.com:6007/59fd1566000391610268129978510d8e.ts
 HBO,vjms://58.215.133.161:8500/live/cid=261
 HBO原创,vjms://58.215.133.161:8500/live/cid=436
 HBO强档,vjms://58.215.133.161:8500/live/cid=238
@@ -176,8 +175,8 @@ TVB星河,msc://CXHMovie#https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 TVBS新闻,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8#vjms://122.155.180.8:8500:5021/live/cid=348#http://60.199.188.66/HLS/WG_TVBS-N/02.m3u8
 东森新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://122.155.180.8:8500:5021/live/cid=340#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 寰宇新聞臺,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
-寰宇新闻2台,P2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts#http://ms003.happytv.com.tw/live/fkFeyYT8fwboq8Db/index.m3u8
-壹新聞,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#P2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts#vjms://122.155.180.8:8500:5021/live/cid=445#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/02.m3u8
+寰宇新闻2台,http://ms003.happytv.com.tw/live/fkFeyYT8fwboq8Db/index.m3u8
+壹新聞,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#vjms://122.155.180.8:8500:5021/live/cid=445#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/02.m3u8
 非凡新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8#vjms://122.155.180.8:8500:5021/live/cid=443
 年代新闻,vjms://58.215.133.161:8500/live/cid=455#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 年代MUCH,vjms://58.215.133.161:8500/live/cid=439
@@ -253,6 +252,7 @@ CHTV台湾台,http://220.158.149.14:9999/live/TV00000000000000000002@HHZT;LIVE
 美国|CNN新闻,vjms://58.215.133.161:8500/live/cid=428#vjms://122.155.180.8:8500:5021/live/cid=428#https://116.77.72.195/streams/d/cnn/playlist.m3u8
 BBC,vjms://58.215.133.161:8500/live/cid=418
 CNBC,vjms://58.215.133.161:8500/live/cid=98
+歐洲新聞台,http://61.58.60.230:9319/live/129.m3u8
 美国|CBSN新闻台,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8#http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8#https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
 BBC新闻,vjms://122.155.180.8:8500:5021/live/cid=418
 美国|CNBC,vjms://122.155.180.8:8500:5021/live/cid=98
