@@ -122,7 +122,7 @@ DOGTV,rtp://239.3.1.102:8001
 好莱坞影台HD,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=013#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 东森洋片HD,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=009#http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 东森电影HD,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=010#http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
-HBO HD,http://ter.live2.ksmobile.net/yolo/09409225edf1421fac4d97e29edc123c/playlist.m3u8
+HBO  HD,P2p://lino.homeunix.com:6007/59fd1566000391610268129978510d8e.ts
 HBO,vjms://58.215.133.161:8500/live/cid=261
 HBO原创,vjms://58.215.133.161:8500/live/cid=436
 HBO强档,vjms://58.215.133.161:8500/live/cid=238
@@ -176,8 +176,8 @@ TVB星河,msc://CXHMovie#https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 TVBS新闻,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8#vjms://122.155.180.8:8500:5021/live/cid=348#http://60.199.188.66/HLS/WG_TVBS-N/02.m3u8
 东森新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://122.155.180.8:8500:5021/live/cid=340#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 寰宇新聞臺,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
-寰宇新闻2台,http://ms003.happytv.com.tw/live/fkFeyYT8fwboq8Db/index.m3u8
-壹新聞,vjms://122.155.180.8:8500:5021/live/cid=445#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/02.m3u8
+寰宇新闻2台,P2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts#http://ms003.happytv.com.tw/live/fkFeyYT8fwboq8Db/index.m3u8
+壹新聞,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#P2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts#vjms://122.155.180.8:8500:5021/live/cid=445#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/02.m3u8
 非凡新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8#vjms://122.155.180.8:8500:5021/live/cid=443
 年代新闻,vjms://58.215.133.161:8500/live/cid=455#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 年代MUCH,vjms://58.215.133.161:8500/live/cid=439
@@ -429,6 +429,7 @@ FZTV-少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 优漫卡通,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8#http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8#http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8#http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8#http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8#http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
 |空中课堂|,#genre#
 空中英语,http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
+英语俱乐部,http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 眼保健操,http://charge.zuoyebang.cc/record_a9140bc04652c0720621ef0f634bcf3b.mp4
 学生室内操,http://charge.zuoyebang.cc/record_a800769ad5f6fe35ce17585683e7267b.mp4
 企鹅辅 Ⅰ 小学一年级,http://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
