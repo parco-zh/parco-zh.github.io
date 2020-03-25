@@ -122,11 +122,15 @@ DOGTV,rtp://239.3.1.102:8001
 好莱坞影台HD,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 东森洋片HD,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 东森电影HD,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
+HBO HD,http://www.mszb168998.cn/aaabcdqqzbaabcdefzbdy.php?id=87
 HBO,vjms://58.215.133.161:8500/live/cid=261
 HBO原创,vjms://58.215.133.161:8500/live/cid=436
 HBO强档,vjms://58.215.133.161:8500/live/cid=238
 HBO温馨,vjms://58.215.133.161:8500/live/cid=181
 FX,http://111.13.111.192/125.227.198.89:8027
+星卫电影台,http://pull.scphsd.com/live/07c8c7d50c8a0554b7810b7179d4a6f3.flv
+卫视电影台,http://pull.scphsd.com/live/d3d96c59fbc7cc7f69a9083ad03800ce.flv
+美亚电影台,http://pull.scphsd.com/live/b1c3997d267b55851c015fef337cf848.flv
 凤凰电影,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy#rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 龙华经典,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
@@ -169,16 +173,16 @@ TVB星河,msc://CXHMovie#https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=0738ce47619ffb6578bb658b7d7927d3&txTime=16f9470cacc#p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts#http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 凤凰中文,http://125.210.152.18:9090/live/FHZW.m3u8#p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://liveali.ifeng.com/live/FHZW.m3u8#http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221225948/1.m3u8
 凤凰资讯,rtmp://58.200.131.2:1935/livetv/fhzx#http://125.210.152.18:9090/live/FHZX.m3u8#p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts#http://104.250.154.42:8080/ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8#http://liveali.ifeng.com/live/FHZX.flv#http://live.centerch.com/fhzx.m3u8#http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221225949/1.m3u8
-三立新闻,http://60.199.188.66/HLS/WG_ETTV-N/01.m3u8#http://60.199.188.66/HLS/WG_ETTV-N/02.m3u8#http://60.199.188.66/HLS/WG_ETTV-N/index.m3u8
+三立新闻,http://www.mszb168998.cn/aaabcdqqzbaabcdefzbdy.php?id=70#http://60.199.188.66/HLS/WG_ETTV-N/01.m3u8#http://60.199.188.66/HLS/WG_ETTV-N/02.m3u8#http://60.199.188.66/HLS/WG_ETTV-N/index.m3u8
 中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-TVBS新闻,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8#vjms://122.155.180.8:8500:5021/live/cid=348#http://60.199.188.66/HLS/WG_TVBS-N/02.m3u8
-东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://122.155.180.8:8500:5021/live/cid=340#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+TVBS新闻,http://www.mszb168998.cn/aaabcdqqzbaabcdefzbdy.php?id=72#http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8#vjms://122.155.180.8:8500:5021/live/cid=348#http://60.199.188.66/HLS/WG_TVBS-N/02.m3u8
+东森新闻,http://www.mszb168998.cn/aaabcdqqzbaabcdefzbdy.php?id=68#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://122.155.180.8:8500:5021/live/cid=340#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 寰宇新聞臺,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
 寰宇台湾台,http://111.13.111.192/125.227.198.89:8011
-壹新聞,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#vjms://122.155.180.8:8500:5021/live/cid=445#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/02.m3u8
-非凡新闻,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#vjms://122.155.180.8:8500:5021/live/cid=443
-年代新闻,vjms://58.215.133.161:8500/live/cid=455#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-年代MUCH,vjms://58.215.133.161:8500/live/cid=439
+壹新聞,http://pull.scphsd.com/live/99d75c63961dfc39b74da7b0b97299dd.flv#p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#vjms://122.155.180.8:8500:5021/live/cid=445#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/02.m3u8
+非凡新闻,http://www.mszb168998.cn/aaabcdqqzbaabcdefzbdy.php?id=73#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#vjms://122.155.180.8:8500:5021/live/cid=443
+年代新闻,http://pull.scphsd.com/live/45f76a9322788687c0ae4508d4220874.flv#vjms://58.215.133.161:8500/live/cid=455#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+年代MUCH,http://www.mszb168998.cn/aaabcdqqzbaabcdefzbdy.php?id=63#vjms://58.215.133.161:8500/live/cid=439
 民视新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
 民视台湾台,http://111.13.111.192/125.227.198.89:8023
 台湾公视3,https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
@@ -376,7 +380,7 @@ https://aldirect.rtmp.huya.com/huyalive/94525224-2460685774-10568564925062447104
 电影-五星影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 |动画频道|,#genre#
 迪士尼中文,vjms://122.155.180.8:8500:5021/live/cid=361#p2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
-CN卡通頻道,p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts
+CN卡通頻道,http://www.mszb168998.cn/aaabcdqqzbaabcdefzbdy.php?id=59#p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts
 東森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
 Disney Channel,http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 迪士尼英文,http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
