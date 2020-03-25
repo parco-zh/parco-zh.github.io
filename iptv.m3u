@@ -239,11 +239,11 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ID-T.png" group-title="|港台影视|",时尚频道
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FHXG.png" group-title="|港台新闻|",凤凰香港
-http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226120/1.m3u8
+http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=0738ce47619ffb6578bb658b7d7927d3&txTime=16f9470cacc
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/FHWS1.png" group-title="|港台新闻|",凤凰卫视
-http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221225948/1.m3u8
+http://125.210.152.18:9090/live/FHZW.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/fhzixun.png" group-title="|港台新闻|",凤凰资讯
-http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221225949/1.m3u8
+http://125.210.152.18:9090/live/FHZX.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/zhongtian.png" group-title="|港台新闻|",中天新闻
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/sanli.png" group-title="|港台新闻|",三立新闻
@@ -263,11 +263,11 @@ https://dlhls-cdn-mp.zhanqi.tv/zqlive/298641_fQSGz.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/niandai.png" group-title="|港台新闻|",年代新聞
 http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/minshi.png" group-title="|港台新闻|",民视新聞
-http://lss.line-scdn.net/cc_tw/p/live/hbj6H-OiNPERZXCJUY0khczBkMyYhUXMaZ1BxcXoxYyF2CS0aNlIndHplYyYvBXhAN1d6cXkxYHMuRHtAZ1UhJ3pjfXUnHnoQPkhyISYuY3cmCnoSNl5y/720/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HUASHI.png" group-title="|港台新闻|",华视新聞
-http://lss.line-scdn.net/cc_tw/p/live/hUKhgC2HWC2UEcxV1PWYWUm4bUQYreh0zYX9HByIeVAAofUo3bSwQBCQaB1UtLEQxOnhNUCIXUV18a0xhOX1MC3QaSlR5MU0xYGdFB3EBUldzLkwzYHg/720/chunklist.m3u8
+http://111.13.111.192/125.227.198.89:8023
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/TAISHI.png" group-title="|港台新闻|",台视新聞
+http://111.13.111.192/125.227.198.89:8001
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/ZHONGSHI.png" group-title="|港台新闻|",中视新聞
-http://lss.line-scdn.net/cc_tw/p/live/hDxcsMArNGlYMZwRGNnIHYWVYR2IgagxTMmtWNX4KRTMjaVsEZj8DNXpaFmUnOAtTZ2xcYygDTWBzf11SMmlcNnMOW2dyJVwCa3NUM3MVRWVzMVwAY2VU/720/chunklist.m3u8
+台湾中视,http://111.13.111.192/125.227.198.89:8020
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/youxian.png" group-title="|港台新闻|",有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/Acna.png" group-title="|港台新闻|",亚洲新闻频道
